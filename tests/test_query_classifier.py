@@ -1,13 +1,16 @@
 from src.retrieval.query_classifier import (
+    ACADEMIC_YEAR_CONFLICT_MULTIPLIER,
+    ACADEMIC_YEAR_MATCH_BOOST,
     DEGREE_LEVEL_BOOST,
     apply_category_boost,
+    detect_academic_year,
     detect_degree_level,
 )
 from src.retrieval.store import ChunkRecord
 
 
-def _record(source_file: str) -> ChunkRecord:
-    return ChunkRecord(text="x", source_file=source_file, category="web_sss", section=None, article_no=None)
+def _record(source_file: str, text: str = "x") -> ChunkRecord:
+    return ChunkRecord(text=text, source_file=source_file, category="web_sss", section=None, article_no=None)
 
 
 class _FakeStore:
@@ -67,3 +70,46 @@ def test_apply_category_boost_no_op_when_no_level_detected():
     boosted = apply_category_boost(fused, "How do I borrow a library book?", store)
 
     assert boosted == fused
+
+
+def test_detect_academic_year():
+    assert detect_academic_year("2026-2027 güz yarıyılı ne zaman başlar?") == "2026-2027"
+    assert detect_academic_year("Yaz okulu ne zaman başlar?") is None
+
+
+def test_apply_category_boost_promotes_unambiguous_year_match():
+    # Regression test: BAU_Akademik_Takvim files get their own title (naming the
+    # headline year) prepended to every chunk, so a plain "contains the target year"
+    # check can't discriminate — every chunk contains it. Only a chunk mentioning
+    # *exclusively* the target year should get the positive boost.
+    store = _FakeStore({
+        0: _record("cal.txt", text="2026-2027 akademik yılı ... 17 Temmuz 2026 ..."),
+        1: _record("cal.txt", text="2026-2027 akademik yılı ... 2027-2028 akademik yılı ..."),
+    })
+    fused = [(0, 0.05), (1, 0.05)]
+
+    boosted = apply_category_boost(fused, "2026-2027 güz yarıyılı ne zaman başlar?", store)
+    boosted_scores = dict(boosted)
+
+    assert boosted_scores[0] == 0.05 + ACADEMIC_YEAR_MATCH_BOOST
+    assert boosted_scores[1] == 0.05 * ACADEMIC_YEAR_CONFLICT_MULTIPLIER
+
+
+def test_apply_category_boost_penalizes_conflicting_year_chunk():
+    store = _FakeStore({
+        0: _record("cal.txt", text="2027-2028 akademik yılı ... hiç 2026-2027 yok"),
+    })
+    fused = [(0, 0.2)]
+
+    boosted = apply_category_boost(fused, "2026-2027 güz yarıyılı ne zaman başlar?", store)
+
+    assert boosted[0][1] == 0.2 * ACADEMIC_YEAR_CONFLICT_MULTIPLIER
+
+
+def test_apply_category_boost_neutral_when_chunk_has_no_year():
+    store = _FakeStore({0: _record("reg.pdf", text="Madde 5 - genel hüküm.")})
+    fused = [(0, 0.1)]
+
+    boosted = apply_category_boost(fused, "2026-2027 güz yarıyılı ne zaman başlar?", store)
+
+    assert boosted[0][1] == 0.1
