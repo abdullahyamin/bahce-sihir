@@ -1,6 +1,7 @@
 from src.retrieval.query_classifier import (
     ACADEMIC_YEAR_CONFLICT_MULTIPLIER,
     ACADEMIC_YEAR_MATCH_BOOST,
+    ADD_DROP_BOOST,
     DEGREE_LEVEL_BOOST,
     FACULTY_STAJ_BOOST,
     FACULTY_STAJ_FILE,
@@ -8,6 +9,7 @@ from src.retrieval.query_classifier import (
     detect_academic_year,
     detect_degree_level,
     find_definition_chunks_matching_query,
+    is_add_drop_query,
     is_definition_seeking_query,
     is_generic_engineering_faculty_staj_query,
 )
@@ -236,3 +238,30 @@ def test_apply_category_boost_promotes_definition_chunk_even_when_already_ranked
 
     assert boosted[0][0] == 1
     assert boosted[0][1] > 0.5
+
+
+def test_is_add_drop_query_matches_english_and_turkish_phrasings():
+    assert is_add_drop_query("which date is the add and drop week")
+    assert is_add_drop_query("ekle sil haftası ne zaman?")
+    assert is_add_drop_query("ders ekle bırak haftası hangi tarihte?")
+    assert not is_add_drop_query("Kütüphaneden kaç kitap ödünç alabilirim?")
+
+
+def test_apply_category_boost_promotes_add_drop_calendar_chunk():
+    # Regression test: the calendar chunk naming the actual add-drop dates is real
+    # and dense-retrievable, but calendar files are long and full of similarly-worded
+    # deadline/date chunks, so this one routinely lands just outside the rerank pool
+    # (observed rank 7-8 of ~86) rather than being absent — a small boost is enough.
+    store = _FakeStore({
+        0: _record("other.pdf", text="Ödeme son tarihi ile ilgili genel bilgi."),
+        1: _record(
+            "BAU_Akademik_Takvim_Onlisans_Lisans.txt",
+            text="28 Eylül-02 Ekim 2026 Pazartesi-Cuma — EKLE-SİL haftası.",
+        ),
+    })
+    fused = [(0, 0.05), (1, 0.03)]
+
+    boosted = apply_category_boost(fused, "which date is the add and drop week", store)
+
+    assert boosted[0][0] == 1
+    assert boosted[0][1] == 0.03 + ADD_DROP_BOOST
