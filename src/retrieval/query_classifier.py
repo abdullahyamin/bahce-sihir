@@ -51,6 +51,60 @@ _ACADEMIC_YEAR_RE = re.compile(r"\b(20\d{2}-20\d{2})\b")
 ACADEMIC_YEAR_CONFLICT_MULTIPLIER = 0.1
 ACADEMIC_YEAR_MATCH_BOOST = 0.04
 
+# "Mühendislik fakültesinde staj başvurusu için hangi belge gereklidir?" names the
+# faculty but no department, so the answer lives in the faculty-wide Staj Yönergesi.
+# But per-department staj pages (BAU_Staj_Endustri_Muhendisligi.txt etc.) are written
+# as dense staj how-to guides, so they out-embed the Yönergesi's drier legal-definition
+# language even for a query that never names their department. Detect the generic,
+# no-department phrasing and boost the faculty-wide Yönergesi specifically.
+_STAJ_RE = re.compile(r"(?i)\bstaj")
+_ENGINEERING_FACULTY_RE = re.compile(
+    r"(?i)m[üu]hendislik(\s+ve\s+do[ğg]a\s+bilimleri)?\s+fak[üu]ltesi|mimarl[ıi]k\s+ve\s+tasar[ıi]m\s+fak[üu]ltesi"
+)
+_ENGINEERING_DEPARTMENT_RE = re.compile(
+    r"(?i)bilgisayar|elektrik[\s-]*elektronik|end[üu]stri|in[şs]aat|i[şs]letme|yaz[ıi]l[ıi]m|mekatronik|makine|biyomedikal"
+)
+FACULTY_STAJ_FILE = (
+    "BAHÇEŞEHİR ÜNİVERSİTESİ MÜHENDİSLİK VE DOĞA BİLİMLERİ FAKÜLTESİ MİMARLIK VE "
+    "TASARIM FAKÜLTESİ STAJ YÖNERGESİ.pdf"
+)
+FACULTY_STAJ_BOOST = 0.15
+
+# "Burs ile destek arasındaki fark nedir?" — a "Tanımlar" article's lettered items
+# (see chunking.py's _split_definitions_body) are short, dry one-line legal
+# definitions ("Burs: Öğrenim ücretine yapılan desteği,"), so they lose the embedding
+# race against longer, topically-richer chunks even when they're the exact answer —
+# badly enough that the correct chunk sometimes never lands in ANY retriever's top-10
+# for any query variant, so a post-fusion score bump can't help (it isn't in the fused
+# list to bump). When a query is plainly asking to define/compare specific term(s), we
+# scan every lettered-definition chunk directly for one whose defined term the query
+# names, and inject it into the candidate pool outright rather than hoping it surfaces.
+_DEFINITION_QUERY_RE = re.compile(
+    r"(?i)nedir\s*\??\s*$|ne\s+demektir|arasındaki\s+fark|fark[ıi]\s+nedir|tanım[ıi]\b"
+)
+_LETTERED_ARTICLE_SUFFIX_RE = re.compile(r"-[a-zçğıöşü]$")
+_DEFINED_TERM_RE = re.compile(r"(?m)^[a-zçğıöşü]\)\s*([^:]+):")
+DEFINITION_TERM_INJECT_BOOST = 1.0
+
+
+def is_definition_seeking_query(query: str) -> bool:
+    return bool(_DEFINITION_QUERY_RE.search(query))
+
+
+def find_definition_chunks_matching_query(query: str, store: ChunkStore) -> list[int]:
+    matches = []
+    for idx in range(len(store)):
+        record = store[idx]
+        if not (record.article_no and _LETTERED_ARTICLE_SUFFIX_RE.search(record.article_no)):
+            continue
+        term_match = _DEFINED_TERM_RE.search(record.text)
+        if not term_match:
+            continue
+        term = term_match.group(1).strip()
+        if re.search(rf"(?i)\b{re.escape(term)}\b", query):
+            matches.append(idx)
+    return matches
+
 
 def detect_degree_level(query: str) -> str | None:
     for pattern, label in _DEGREE_LEVEL_PATTERNS:
@@ -64,12 +118,22 @@ def detect_academic_year(query: str) -> str | None:
     return m.group(1) if m else None
 
 
+def is_generic_engineering_faculty_staj_query(query: str) -> bool:
+    return bool(
+        _STAJ_RE.search(query)
+        and _ENGINEERING_FACULTY_RE.search(query)
+        and not _ENGINEERING_DEPARTMENT_RE.search(query)
+    )
+
+
 def apply_category_boost(
     fused: list[tuple[int, float]], query: str, store: ChunkStore
 ) -> list[tuple[int, float]]:
     level = detect_degree_level(query)
     year = detect_academic_year(query)
-    if level is None and year is None:
+    faculty_staj = is_generic_engineering_faculty_staj_query(query)
+    definition_seeking = is_definition_seeking_query(query)
+    if level is None and year is None and not faculty_staj and not definition_seeking:
         return fused
 
     target_file = _LEVEL_TO_FILE.get(level) if level else None
@@ -79,6 +143,18 @@ def apply_category_boost(
         adjusted = score
         if target_file is not None and store[idx].source_file == target_file:
             adjusted += DEGREE_LEVEL_BOOST
+        if (
+            faculty_staj
+            and store[idx].source_file == FACULTY_STAJ_FILE
+            # Exclude the Yönergesi's own Tanımlar items: "hangi belge gereklidir"
+            # doesn't name a specific defined term, so a flat file-wide boost just
+            # hands the race to whichever lettered definition happens to embed
+            # closest — often the wrong one (e.g. "Staj sicil belgesi" instead of
+            # "Zorunlu staj formu" / "Staj başvuru formu"). The real answer lives in
+            # a procedural article like Madde 12, not a one-line legal definition.
+            and not (store[idx].article_no and _LETTERED_ARTICLE_SUFFIX_RE.search(store[idx].article_no))
+        ):
+            adjusted += FACULTY_STAJ_BOOST
         if year is not None:
             years_in_chunk = set(_ACADEMIC_YEAR_RE.findall(store[idx].text))
             if years_in_chunk == {year}:
@@ -86,5 +162,19 @@ def apply_category_boost(
             elif years_in_chunk:
                 adjusted *= ACADEMIC_YEAR_CONFLICT_MULTIPLIER
         boosted.append((idx, adjusted))
+
+    if definition_seeking:
+        matched = find_definition_chunks_matching_query(query, store)
+        if matched:
+            # A matched chunk may already be present in `fused`, but at whatever rank
+            # embedding/BM25 gave it — sometimes low, sometimes absent entirely (see
+            # comment above: retrieval recall for these is unreliable run-to-run).
+            # Promoting it unconditionally rather than only when absent keeps the fix
+            # from depending on that recall accident.
+            scores = dict(boosted)
+            injected_score = max((score for _, score in boosted), default=0.0) + DEFINITION_TERM_INJECT_BOOST
+            for idx in matched:
+                scores[idx] = max(scores.get(idx, injected_score), injected_score)
+            boosted = list(scores.items())
 
     return sorted(boosted, key=lambda item: item[1], reverse=True)

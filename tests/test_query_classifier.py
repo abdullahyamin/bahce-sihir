@@ -2,15 +2,20 @@ from src.retrieval.query_classifier import (
     ACADEMIC_YEAR_CONFLICT_MULTIPLIER,
     ACADEMIC_YEAR_MATCH_BOOST,
     DEGREE_LEVEL_BOOST,
+    FACULTY_STAJ_BOOST,
+    FACULTY_STAJ_FILE,
     apply_category_boost,
     detect_academic_year,
     detect_degree_level,
+    find_definition_chunks_matching_query,
+    is_definition_seeking_query,
+    is_generic_engineering_faculty_staj_query,
 )
 from src.retrieval.store import ChunkRecord
 
 
-def _record(source_file: str, text: str = "x") -> ChunkRecord:
-    return ChunkRecord(text=text, source_file=source_file, category="web_sss", section=None, article_no=None)
+def _record(source_file: str, text: str = "x", article_no: str | None = None) -> ChunkRecord:
+    return ChunkRecord(text=text, source_file=source_file, category="web_sss", section=None, article_no=article_no)
 
 
 class _FakeStore:
@@ -19,6 +24,9 @@ class _FakeStore:
 
     def __getitem__(self, idx: int) -> ChunkRecord:
         return self._records[idx]
+
+    def __len__(self) -> int:
+        return max(self._records) + 1 if self._records else 0
 
 
 def test_detect_degree_level_doktora_turkish_and_english():
@@ -113,3 +121,118 @@ def test_apply_category_boost_neutral_when_chunk_has_no_year():
     boosted = apply_category_boost(fused, "2026-2027 güz yarıyılı ne zaman başlar?", store)
 
     assert boosted[0][1] == 0.1
+
+
+def test_is_generic_engineering_faculty_staj_query_true_without_department():
+    assert is_generic_engineering_faculty_staj_query(
+        "Mühendislik fakültesinde staj başvurusu için hangi belge gereklidir?"
+    )
+
+
+def test_is_generic_engineering_faculty_staj_query_false_with_department_named():
+    # A department-specific staj query should keep favoring that department's own
+    # staj page, not the faculty-wide Yönergesi.
+    assert not is_generic_engineering_faculty_staj_query(
+        "Endüstri Mühendisliği bölümünde staj başvurusu için hangi belge gereklidir?"
+    )
+
+
+def test_is_generic_engineering_faculty_staj_query_false_without_staj_keyword():
+    assert not is_generic_engineering_faculty_staj_query(
+        "Mühendislik fakültesinde kaç bölüm vardır?"
+    )
+
+
+def test_apply_category_boost_promotes_faculty_staj_yonergesi():
+    store = _FakeStore({
+        0: _record("BAU_Staj_Endustri_Muhendisligi.txt"),
+        1: _record(FACULTY_STAJ_FILE),
+    })
+    fused = [(0, 0.05), (1, 0.03)]
+
+    boosted = apply_category_boost(
+        fused, "Mühendislik fakültesinde staj başvurusu için hangi belge gereklidir?", store
+    )
+
+    assert boosted[0][0] == 1
+    assert boosted[0][1] == 0.03 + FACULTY_STAJ_BOOST
+
+
+def test_apply_category_boost_skips_lettered_definition_items_in_faculty_staj_file():
+    # Regression test: the Yönergesi's own Tanımlar article gets split into one chunk
+    # per lettered term (see chunking.py's _split_definitions_body). A generic "which
+    # documents are required" query doesn't name a specific term, so boosting every
+    # chunk in the file equally just hands the race to whichever definition item
+    # happens to embed closest to the query — the real answer is in a procedural
+    # article like Madde 12, so lettered-definition chunks must not get this boost.
+    store = _FakeStore({
+        0: _record(FACULTY_STAJ_FILE, article_no="4-ğ"),  # Tanımlar item, e.g. "Staj sicil belgesi"
+        1: _record(FACULTY_STAJ_FILE, article_no="12"),  # actual procedural article
+    })
+    fused = [(0, 0.05), (1, 0.03)]
+
+    boosted = apply_category_boost(
+        fused, "Mühendislik fakültesinde staj başvurusu için hangi belge gereklidir?", store
+    )
+    boosted_scores = dict(boosted)
+
+    assert boosted_scores[0] == 0.05
+    assert boosted_scores[1] == 0.03 + FACULTY_STAJ_BOOST
+
+
+def test_is_definition_seeking_query():
+    assert is_definition_seeking_query("Burs ile destek arasındaki fark nedir?")
+    assert is_definition_seeking_query("CO-OP nedir?")
+    assert not is_definition_seeking_query("Kütüphaneden kaç kitap ödünç alabilirim?")
+
+
+def test_find_definition_chunks_matching_query_finds_lettered_term():
+    store = _FakeStore({
+        0: _record("reg.pdf", text="Tanımlar\na) Burs: Öğrenim ücretine yapılan desteği,", article_no="4-a"),
+        1: _record(
+            "reg.pdf",
+            text="Tanımlar\nb) CO-OP: Şirketler ile yapılan anlaşmayı koordine eden birimi,",
+            article_no="4-b",
+        ),
+        2: _record("reg.pdf", text="Madde 9 - genel hüküm, burs ile ilgisi yok.", article_no="9"),
+    })
+
+    matches = find_definition_chunks_matching_query("Burs ile destek arasındaki fark nedir?", store)
+
+    assert matches == [0]
+
+
+def test_apply_category_boost_injects_definition_chunk_absent_from_fused_pool():
+    # Regression test: the correct chunk sometimes doesn't rank in ANY dense/sparse
+    # top-k for a definitional query, so it never reaches apply_category_boost via
+    # `fused` at all — the fix must inject it directly, not just re-score it.
+    store = _FakeStore({
+        0: _record("other.pdf", text="Alakasız içerik."),
+        1: _record("reg.pdf", text="Tanımlar\na) Burs: Öğrenim ücretine yapılan desteği,", article_no="4-a"),
+    })
+    fused = [(0, 0.05)]  # chunk 1 is absent — simulates it missing from retrieval entirely
+
+    boosted = apply_category_boost(fused, "Burs nedir?", store)
+
+    assert boosted[0][0] == 1
+    assert boosted[0][1] > 0.05
+
+
+def test_apply_category_boost_promotes_definition_chunk_even_when_already_ranked_low():
+    # Regression test: whether a matched definition chunk shows up in `fused` at all
+    # varies run-to-run (embedding/BM25 recall for these short dry definitions is
+    # unreliable — see is_definition_seeking_query's module comment). A chunk that IS
+    # present but buried near the bottom of `fused` must be promoted just as much as
+    # one that's fully absent — an earlier version of this fix only injected absent
+    # chunks and left already-present-but-buried ones stuck at their tiny original
+    # score, so the same query could pass or fail depending on retrieval noise alone.
+    store = _FakeStore({
+        0: _record("other.pdf", text="Alakasız içerik.", article_no="1"),
+        1: _record("reg.pdf", text="Tanımlar\na) Burs: Öğrenim ücretine yapılan desteği,", article_no="4-a"),
+    })
+    fused = [(0, 0.5), (1, 0.001)]  # chunk 1 present, but buried far below chunk 0
+
+    boosted = apply_category_boost(fused, "Burs nedir?", store)
+
+    assert boosted[0][0] == 1
+    assert boosted[0][1] > 0.5

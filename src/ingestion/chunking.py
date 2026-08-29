@@ -10,6 +10,7 @@ CHUNK_OVERLAP = 200
 _ARTICLE_RE = re.compile(r"(?im)^[ \t]*Madde[ \t]+(\d+)[ \t]*[-–—]")
 _QA_RE = re.compile(r"(?im)^SORU:[ \t]*")
 _SUBCLAUSE_RE = re.compile(r"(?m)^\((\d+)\)[ \t]")
+_LETTERED_ITEM_RE = re.compile(r"(?m)^([a-zçğıöşü])\)[ \t]")
 _CHAPTER_RE = re.compile(
     r"(?im)^[ \t]*("
     r"BİRİNCİ|İKİNCİ|ÜÇÜNCÜ|DÖRDÜNCÜ|BEŞİNCİ|ALTINCI|YEDİNCİ|SEKİZİNCİ|DOKUZUNCU|ONUNCU"
@@ -98,6 +99,26 @@ def _split_oversized_body(body: str) -> list[str]:
     return chunks
 
 
+def _split_definitions_body(body: str) -> tuple[str, list[str]] | None:
+    # "Tanımlar" (definitions) articles bundle many unrelated terms as lettered items
+    # (a) b) c) ...) under one MADDE — e.g. a scholarship regulation's Tanımlar article
+    # defines "Burs", "CO-OP", "Enstitü", "Üst Yönetim" and a dozen other unrelated terms
+    # in the same block. Even well under MAX_CHUNK_CHARS, that dilutes the embedding for
+    # any single term a student actually asks about. Split one chunk per lettered item
+    # regardless of overall length — dilution, not overflow, is the problem here.
+    matches = list(_LETTERED_ITEM_RE.finditer(body))
+    if len(matches) < 3:
+        return None
+
+    local_preamble = body[: matches[0].start()].strip()
+    boundaries = [m.start() for m in matches]
+    items = []
+    for i, b in enumerate(boundaries):
+        end = boundaries[i + 1] if i + 1 < len(boundaries) else len(body)
+        items.append(body[b:end].strip())
+    return local_preamble, items
+
+
 def _split_by_article(text: str, source_file: str, category: str) -> list[Chunk]:
     lines = text.split("\n")
     match_line_indices = []
@@ -132,7 +153,19 @@ def _split_by_article(text: str, source_file: str, category: str) -> list[Chunk]
         prefix = "\n".join(prefix_parts)
         full_text = f"{prefix}\n{body}" if prefix else body
 
-        if len(full_text) <= MAX_CHUNK_CHARS:
+        definitions = (
+            _split_definitions_body(body) if heading and heading.strip().lower() == "tanımlar" else None
+        )
+        if definitions is not None:
+            local_preamble, items = definitions
+            for item in items:
+                letter = item[0] if item else "?"
+                item_with_context = f"{prefix}\n{local_preamble}\n{item}" if prefix else f"{local_preamble}\n{item}"
+                chunks.append(
+                    Chunk(text=item_with_context, source_file=source_file, category=category,
+                          section=section, article_no=f"{article_no}-{letter}")
+                )
+        elif len(full_text) <= MAX_CHUNK_CHARS:
             chunks.append(
                 Chunk(text=full_text, source_file=source_file, category=category,
                       section=section, article_no=article_no)
