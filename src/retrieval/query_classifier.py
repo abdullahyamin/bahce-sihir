@@ -86,6 +86,21 @@ _LETTERED_ARTICLE_SUFFIX_RE = re.compile(r"-[a-zçğıöşü]$")
 _DEFINED_TERM_RE = re.compile(r"(?m)^[a-zçğıöşü]\)\s*([^:]+):")
 DEFINITION_TERM_INJECT_BOOST = 1.0
 
+# "which date is the add and drop week" — the calendar chunk with the actual dates
+# ("EKLE-SİL haftası. ... ders ekleme - bırakma haftası") is real and dense-retrievable,
+# but calendar files are long and split into many chunks about registration/payment
+# deadlines that all share similar vocabulary ("dönem", "tarih", "son gün"), so the one
+# specific chunk with the add-drop dates routinely lands just outside the rerank pool
+# (observed: rank 7-8 of ~86, one or two spots short of the top 6) rather than being
+# absent or badly ranked — a small boost is enough, unlike the definition-injection fix.
+_ADD_DROP_QUERY_RE = re.compile(r"(?i)add[\s-]*(?:and[\s-]*)?drop|ekle[\s-]*(?:ve[\s-]*)?(?:sil|b[ıi]rak)")
+_ADD_DROP_CHUNK_RE = re.compile(r"(?i)ekle[\s-]*sil")
+ADD_DROP_BOOST = 0.05
+
+
+def is_add_drop_query(query: str) -> bool:
+    return bool(_ADD_DROP_QUERY_RE.search(query))
+
 
 def is_definition_seeking_query(query: str) -> bool:
     return bool(_DEFINITION_QUERY_RE.search(query))
@@ -133,7 +148,8 @@ def apply_category_boost(
     year = detect_academic_year(query)
     faculty_staj = is_generic_engineering_faculty_staj_query(query)
     definition_seeking = is_definition_seeking_query(query)
-    if level is None and year is None and not faculty_staj and not definition_seeking:
+    add_drop = is_add_drop_query(query)
+    if level is None and year is None and not faculty_staj and not definition_seeking and not add_drop:
         return fused
 
     target_file = _LEVEL_TO_FILE.get(level) if level else None
@@ -155,6 +171,8 @@ def apply_category_boost(
             and not (store[idx].article_no and _LETTERED_ARTICLE_SUFFIX_RE.search(store[idx].article_no))
         ):
             adjusted += FACULTY_STAJ_BOOST
+        if add_drop and _ADD_DROP_CHUNK_RE.search(store[idx].text):
+            adjusted += ADD_DROP_BOOST
         if year is not None:
             years_in_chunk = set(_ACADEMIC_YEAR_RE.findall(store[idx].text))
             if years_in_chunk == {year}:
