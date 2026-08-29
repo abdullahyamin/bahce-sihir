@@ -5,9 +5,11 @@ export default function TitleCard() {
     <>
       <div className="title-card">
         <div className="crest">BAU</div>
-        <div className="title-eyebrow">Bahçeşehir University</div>
-        <div className="title-main">University Assistant</div>
-        <div className="title-sub">There's an article for every question</div>
+        <div className="title-text">
+          <div className="title-eyebrow">Bahçeşehir University</div>
+          <div className="title-main">University Assistant</div>
+          <div className="title-sub">There's an article for every question</div>
+        </div>
       </div>
       <div className="sweep" />
     </>

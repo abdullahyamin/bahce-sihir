@@ -16,6 +16,34 @@
   animation: chatPanelSeq 9s cubic-bezier(0.2, 0.8, 0.2, 1) forwards;
   pointer-events: none;
 }
+.chat-panel::before {
+  content: "";
+  position: absolute;
+  inset: -1px;
+  border-radius: 17px;
+  padding: 1px;
+  background: conic-gradient(
+    from var(--angle, 0deg),
+    rgba(127, 230, 255, 0.5),
+    rgba(205, 163, 106, 0.5),
+    rgba(255, 143, 216, 0.4),
+    rgba(177, 143, 255, 0.4),
+    rgba(127, 230, 255, 0.5)
+  );
+  -webkit-mask: linear-gradient(#000 0 0) content-box, linear-gradient(#000 0 0);
+  -webkit-mask-composite: xor;
+  mask-composite: exclude;
+  animation: spinAngle 7s linear infinite;
+  opacity: 0;
+  pointer-events: none;
+  transition: opacity 0.6s ease;
+}
+.chat-panel:focus-within::before {
+  opacity: 1;
+}
+@keyframes spinAngle {
+  to { --angle: 360deg; }
+}
 @keyframes chatPanelSeq {
   0% { opacity: 0; transform: translate(-50%, -50%) scale(0.94); }
   50% { opacity: 0; transform: translate(-50%, -50%) scale(0.94); }
@@ -42,10 +70,11 @@
   100% { opacity: 1; }
 }
 .chat-header .seal {
+  position: relative;
   width: 32px;
   height: 32px;
   border-radius: 50%;
-  border: 1.4px solid var(--gold);
+  border: 1px solid rgba(205, 163, 106, 0.55);
   flex-shrink: 0;
   display: flex;
   align-items: center;
@@ -54,6 +83,19 @@
   font-size: 11px;
   font-weight: 600;
   color: var(--gold);
+}
+.chat-header .seal::before {
+  content: "";
+  position: absolute;
+  inset: -2px;
+  border-radius: 50%;
+  padding: 1.2px;
+  background: conic-gradient(from var(--angle, 0deg), var(--holo-cyan), var(--gold), var(--holo-magenta), var(--holo-cyan));
+  -webkit-mask: linear-gradient(#000 0 0) content-box, linear-gradient(#000 0 0);
+  -webkit-mask-composite: xor;
+  mask-composite: exclude;
+  animation: spinAngle 5s linear infinite;
+  opacity: 0.7;
 }
 .chat-header .name {
   font-family: var(--font-serif);

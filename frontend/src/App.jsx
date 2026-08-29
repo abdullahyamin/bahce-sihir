@@ -1,6 +1,7 @@
 import Scene from "./components/Scene";
 import TitleCard from "./components/TitleCard";
 import ChatPanel from "./components/ChatPanel";
+import Preloader from "./components/Preloader";
 import "./App.css";
 
 export default function App() {
@@ -10,6 +11,7 @@ export default function App() {
       <div className="grain" />
       <TitleCard />
       <ChatPanel />
+      <Preloader />
     </div>
   );
 }

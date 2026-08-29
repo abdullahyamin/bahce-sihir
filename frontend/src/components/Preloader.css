@@ -1,0 +1,157 @@
+.preloader {
+  position: absolute;
+  inset: 0;
+  z-index: 50;
+  isolation: isolate;
+  background: radial-gradient(ellipse 80% 60% at 50% 42%, var(--navy) 0%, var(--navy-deep) 78%);
+  animation: preloaderOut 0.6s ease forwards;
+  animation-delay: 2.4s;
+}
+@keyframes preloaderOut {
+  0% { opacity: 1; }
+  100% { opacity: 0; visibility: hidden; pointer-events: none; }
+}
+
+.holo-rays {
+  position: absolute;
+  inset: -20%;
+  opacity: 0;
+  background: conic-gradient(
+    from 0deg at 50% 50%,
+    transparent 0deg,
+    rgba(127, 230, 255, 0.1) 40deg,
+    transparent 90deg,
+    rgba(255, 143, 216, 0.09) 160deg,
+    transparent 210deg,
+    rgba(205, 163, 106, 0.12) 280deg,
+    transparent 330deg,
+    transparent 360deg
+  );
+  animation: raysIn 2.8s ease forwards, raysSpin 14s linear infinite;
+  mix-blend-mode: screen;
+  pointer-events: none;
+}
+@keyframes raysIn {
+  0% { opacity: 0; }
+  18% { opacity: 1; }
+  78% { opacity: 1; }
+  100% { opacity: 0; }
+}
+@keyframes raysSpin {
+  to { transform: rotate(360deg); }
+}
+
+.preloader-core {
+  position: absolute;
+  top: var(--intro-anchor-top);
+  left: 50%;
+  width: 220px;
+  height: 220px;
+  transform: translate(-50%, -50%);
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  perspective: 900px;
+}
+
+.portal-ring {
+  position: absolute;
+  border-radius: 50%;
+  border: 1px solid rgba(127, 230, 255, 0.55);
+  opacity: 0;
+  animation: ringBurst 2.8s cubic-bezier(0.16, 0.8, 0.24, 1) forwards;
+}
+.ring-1 { width: 128px; height: 128px; animation-delay: 0.62s; border-color: rgba(127, 230, 255, 0.6); }
+.ring-2 { width: 128px; height: 128px; animation-delay: 0.74s; border-color: rgba(205, 163, 106, 0.55); }
+.ring-3 { width: 128px; height: 128px; animation-delay: 0.86s; border-color: rgba(255, 143, 216, 0.5); }
+@keyframes ringBurst {
+  0% { opacity: 0; transform: scale(0.55); }
+  8% { opacity: 1; }
+  40% { opacity: 0; transform: scale(2.6); }
+  100% { opacity: 0; transform: scale(2.6); }
+}
+
+.portal-flash {
+  position: absolute;
+  width: 128px;
+  height: 128px;
+  border-radius: 50%;
+  background: radial-gradient(circle, rgba(255, 255, 255, 0.9) 0%, rgba(205, 163, 106, 0.5) 35%, transparent 70%);
+  opacity: 0;
+  animation: flashPop 2.8s ease forwards;
+}
+@keyframes flashPop {
+  0%, 55% { opacity: 0; transform: scale(0.4); }
+  62% { opacity: 1; transform: scale(1.3); }
+  74% { opacity: 0; transform: scale(1.9); }
+  100% { opacity: 0; }
+}
+
+.portal-crest {
+  position: relative;
+  width: 116px;
+  height: 116px;
+  border-radius: 50%;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  background: radial-gradient(circle at 35% 30%, rgba(255, 255, 255, 0.12), transparent 65%), var(--navy-deep);
+  filter: blur(10px) brightness(0.6);
+  opacity: 0;
+  transform: translateZ(-520px) scale(0.25) rotateX(24deg);
+  animation: crestArrive 2.8s cubic-bezier(0.16, 0.84, 0.2, 1) forwards;
+}
+@keyframes crestArrive {
+  0% { opacity: 0; filter: blur(14px) brightness(0.5); transform: translateZ(-520px) scale(0.2) rotateX(28deg); }
+  10% { opacity: 1; }
+  58% { filter: blur(0px) brightness(1.35); transform: translateZ(0) scale(1.14) rotateX(0deg); }
+  68% { filter: blur(0px) brightness(1); transform: translateZ(0) scale(1) rotateX(0deg); }
+  100% { opacity: 1; filter: blur(0px) brightness(1); transform: translateZ(0) scale(1) rotateX(0deg); }
+}
+.portal-crest::before {
+  content: "";
+  position: absolute;
+  inset: -4px;
+  border-radius: 50%;
+  padding: 2.5px;
+  background: conic-gradient(
+    from var(--angle, 0deg),
+    var(--holo-cyan),
+    var(--gold),
+    var(--holo-magenta),
+    var(--holo-violet),
+    var(--holo-cyan)
+  );
+  -webkit-mask: linear-gradient(#000 0 0) content-box, linear-gradient(#000 0 0);
+  -webkit-mask-composite: xor;
+  mask-composite: exclude;
+  animation: spinAngle 3.2s linear infinite;
+}
+@keyframes spinAngle {
+  to { --angle: 360deg; }
+}
+.portal-crest span {
+  font-family: var(--font-serif);
+  font-weight: 700;
+  font-size: 34px;
+  letter-spacing: 0.02em;
+  color: var(--gold);
+  text-shadow: 0 0 22px rgba(205, 163, 106, 0.55);
+}
+
+@media (prefers-reduced-motion: reduce) {
+  .preloader,
+  .holo-rays,
+  .portal-ring,
+  .portal-flash,
+  .portal-crest,
+  .portal-crest::before {
+    animation-duration: 0.01ms !important;
+    animation-iteration-count: 1 !important;
+  }
+  .portal-crest {
+    opacity: 1;
+    filter: none;
+    transform: none;
+  }
+}
