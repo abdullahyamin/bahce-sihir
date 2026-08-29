@@ -1,0 +1,100 @@
+BAU Öğrenci Cari Hizmetler Sıkça Sorulan Sorular (Ödemeler, Bankalar, Kayıt, Ücretler, Burslar, Yaz Okulu, İadeler, Fatura)
+
+SORU: Üniversite ödemelerimi hangi kanallardan yapabilirim?
+CEVAP: Bahçeşehir Üniversitesi web sayfasında bulunan E-ödeme alanından ( https://umis.bau.edu.tr/epayment/login) , Öğrenci Bilgi Sistemine giriş yaparak (UMİS) veya BAU Güney Kampüste yer alan Öğrenci Cari Hizmetler Direktörlüğü'ne giderek Peşin veya Taksitli ödeme yapabilirsiniz ayrıca Türkiye'de yer alan tüm Denizbank şubelerinden öğrenci T.C. Kimlik numarası ile ödeme yapılabilmektedir.
+
+SORU: EFT veya havale ile ödeme yapabilir miyim?
+CEVAP: Eft veya havale ile ödeme yapabilirsiniz. İlgili bilgilere https://bau.edu.tr/help adresi üzerinden kayıt oluşturarak ulaşabilirsiniz.
+
+SORU: EFT veya HAVALE Ödeme açıklamasına ne yazmalıyım?
+CEVAP: Açıklama kısmına Öğrenci Adı Soyadı ve T.C Kimlik numarasını aralarında boşluk bırakarak yazmanız gerekmektedir.
+
+SORU: EFT veya HAVALE yaptıktan sonra ödeme ne zaman sisteme yansır?
+CEVAP: Çalıştığınız bankaya bağlı olarak gün içerisinde sisteminize yansıtılmaktadır.
+
+SORU: Son ödeme tarihinden sonra ödeme yapabilir miyim?
+CEVAP: Kayıt yenileme duyurularımızda belirtilen son ödeme tarihinden sonra Add-drop (ekle-sil) süresinin sonuna kadar ödeme yapılabilmektedir. Son ödeme tarihi sonrasında ödeme yapan öğrenciler ders seçim işlemlerini Add-Drop (Ekle-Sil) süresinde yapabilirler. Departmanımız derslerin kotalarına müdahale edememektedir. Bu süreç öğrencilerin sorumluluğundadır.
+
+SORU: Lisans/önlisans da eğitim ücretinin bir kısmını peşin bir kısmını kredi kartı ile ödemek mümkün mü?
+CEVAP: Kısmi peşin veya kısmi taksitli ödeme yapılamamaktadır.
+
+SORU: Kredi kartı ile ödeme yapabilir miyim?
+CEVAP: Kredi kartı ile ödeme seçeneklerimiz bulunmaktadır. E-ödeme alanından ( https://umis.bau.edu.tr/epayment/login) kontrol sağlayabilirsiniz.
+
+SORU: Taksit seçeneklerini nereden görebilirim?
+CEVAP: E-ödeme alanından ( https://umis.bau.edu.tr/epayment/login) kontrol sağlayabilirsiniz.
+
+SORU: Anlaşmalı bankalar ve taksit sayıları nereden öğrenilir?
+CEVAP: Her ay bankalar ile yapılan anlaşmalara göre değişiklik göstermektedir. E-ödeme alanından ( https://umis.bau.edu.tr/epayment/login) kontrol sağlayabilirsiniz.
+
+SORU: Kredi kartı ile yaptığım ödemeyi aynı gün iptal edebilir miyim?
+CEVAP: Kredi kartı ile yapılan ödemeler aynı gün içerisinde iptal edilebilir. İptal işlemi için kart bilgileri ile Güney Kampüs Öğrenci Cari Hizmetler Direktörlüğü'ne başvurabilir ya da https://bau.edu.tr/help adresi üzerinden talep oluşturabilirsiniz.
+
+SORU: Ödememi yaptım; ödeme teyidi için ne yapmalıyım?
+CEVAP: Detaylı bilgi için https://bau.edu.tr/help adresinden talep oluşturabilir ya da Öğrenci Cari Hizmetler Direktörlüğü'nü ziyaret edebilirsiniz.
+
+SORU: Ödeme onayı hatası alıyorum; sebebi ne olabilir?
+CEVAP: Sistemsel ya da eksik ödeme kaynaklı olabilir. Detaylı bilgi için https://bau.edu.tr/help adresinden talep oluşturabilir ya da Öğrenci Cari Hizmetler Direktörlüğü'nü ziyaret edebilirsiniz.
+
+SORU: Güncel borç/bakiye bilgisi nasıl öğrenebilirim?
+CEVAP: Öğrenci Bilgi Sistemi (UMİS) ödeme bilgilerim kısmından ilgili bilgilere ulaşabilir ,https://bau.edu.tr/help adresinden talep oluşturabilir ya da Öğrenci Cari Hizmetler Direktörlüğü'nü ziyaret edebilirsiniz.
+
+SORU: Kayıt yenileme yapmadığım dönem/yıl için ödeme yapmak zorunda mıyım ?
+CEVAP: İlgili dönem üniversiteye devam etmeyecekseniz mutlaka üniversitemiz öğrenci işleri daire başkanlığı ile iletişime geçerek kayıt dondurma işlemi hakkında bilgi almanızı tavsiye ederiz.Kayıt yenileme yapmadığınız ve kayıt dondurduğunuz dönemlerde Bahçeşehir Üniversitesi Ön Lisans ve Lisans Eğitim-Öğretim ve Sınav Yönetmeliği uyarınca belirnen oranda ödeme yapmanız gerekir. ( https://bau.edu.tr/icerik/3205-onlisans-ve-lisans-egitim-ogretim-ve-sinav-yonetmeligi)
+
+SORU: Yaz okulunda burslar geçerli mi?
+CEVAP: Yaz okulunda sadece ÖSYM , Yatay Geçiş ,Milli Sporcu ,ApplyBAU, BİSEP ve Özel Yetenek bursları geçerlidir.
+
+SORU: Yaz okulu ücretimi nasıl öğrenebilirim?
+CEVAP: Yaz okulu ücretleri öğrencinin alacağı kredi sayısı, öğrencinin bursu ve bölümü olarak değişiklik göstermektedir. Öğrenci Cari Hizmetler Direktörlüğü'nü ziyaret edebilir ya da https://bau.edu.tr/help adresi üzerinden talep oluşturabilirsiniz.
+
+SORU: Kredi başına ödeme kimler için geçerlidir?
+CEVAP: Azami öğrenim süresinin tamamlayan ve mezuniyet için en fazla 12 kredilik dersi kalan öğrenciler kredi başına ödeme yapabilmektedir.
+
+SORU: Ücret iadesi talebini nasıl oluşturabilirim?
+CEVAP: Öğrenci Bilgi Sistemi (UMİS) üzerinden taleplerim alanından oluşturabilirsiniz.
+
+SORU: Yaz okulunda aldığım kredi için oluşturulan tutardan fazla ödeme yaptıysam iade alabilir miyim?
+CEVAP: Yaz okulu kayıtları tamamlandıktan sonra fazla ödemeniz için Öğrenci Bilgi Sistemi (UMİS) üzerinden iade talebinde bulunabilirsiniz.
+
+SORU: Hangi durumlarda ücret iadesi talep edilebilir?
+CEVAP: Her yıl belirlenen tarihler içerisinde kayıt sildirme , kayıt dondurma , yatay geçiş ,erken mezun mezuniyet ve fazla ödemelerde iade talep edebilirsiniz.
+
+SORU: Kayıt dondurma nedeniyle iade alabilir miyim?
+CEVAP: Dondurma türünüze göre Bahçeşehir Üniversitesi Ön Lisans ve Lisans Eğitim-Öğretim ve Sınav Yönetmeliği uyarınca belirlenen oranda iade talebi oluşturabilirsiniz.
+
+SORU: Hazırlık Okulu kurlarını ve yeterlilik sınavını güz dönemi sonunda tamamlarsam ücret iadesi alabilir miyim?
+CEVAP: Hazırlık eğitimini güz dönemi sonunda tamamlayan öğrenciler bahar döneminde fakültelerinden ders alarak eğitime devam edebilir. Bahar döneminde eğitime devam etmek yerine kayıt dondurmanız durumunda Bahçeşehir Üniversitesi Ön Lisans ve Lisans Eğitim-Öğretim ve Sınav Yönetmeliği uyarınca belirlenen oranda iade talebi oluşturabilirsiniz.
+
+SORU: Güz dönemi sonunda mezun olursam yıllık ödemenin bir kısmı iade edilir mi?
+CEVAP: Güz dönemi sonunda mezun olmanız durumunda bahar dönemi için ücret iadesi talebinde bulunabilirsiniz.
+
+SORU: İade işlemi ne kadar süre içinde gerçekleşir ?
+CEVAP: İadeniz onaylandıktan sonra 15 iş günü içerisinde belirttiğiniz banka hesabına yapılmaktadır. Detaylı bilgi için https://bau.edu.tr/help adresinden talep oluşturabilir ya da Öğrenci Cari Hizmetler Direktörlüğü'nü ziyaret edebilirsiniz.
+
+SORU: Kayıt sildirme durumunda ücret ödenir mi ?
+CEVAP: Eğitim aldığınız akademik yıllara dair herhangi mevcut bir borcunuz bulunmadığı durumda gelecek eğitim dönemleriniz için ödeme talep edilmemektedir.
+
+SORU: Ödeme yaptığımı gösteren belge alabilir miyim?
+CEVAP: Detaylı bilgi için https://bau.edu.tr/help adresinden talep oluşturabilir ya da Öğrenci Cari Hizmetler Direktörlüğü'nü ziyaret edebilirsiniz.
+
+SORU: Fatura talebini nasıl iletmeliyim?
+CEVAP: Öğrenci Bilgi Sistemi ( Umis) üzerinden Faturalarım sekmesini kullanarak temin edebilirsiniz.
+
+SORU: Hazırlık ücretleri fakülte ücretinden farklı mıdır?
+CEVAP: Hazırlık ücretleri ile fakülte ücretleri farklılık gösterebilir. https://aday.bau.edu.tr/ adresi üzerinden kontrol edebilirsiniz.
+
+SORU: Pilotaj Bülümü Uçuş okulu ücreti ödeme şekilleri nasıldır?
+CEVAP: Pilotaj lisans programında yıllık öğrenim ücretine ek olarak, Üniversitenin anlaşmalı olduğu uçuş okuluna her öğretim yılı başında bir taksit olacak şekilde toplam ücret eşit taksitlere bölünerek 4 taksit halinde ödenir. İlgili ücret her yıl aday bau sayfasında yayınlanmaktadır.
+
+SORU: Çift anadal ve Yandal kabul alan öğrenciler ek ücret ödüyor mu ?
+CEVAP: Çift anadal ve Yandal programlarına kabul alan öğrenciler ek ücret ödememektedirler.
+
+SORU: Bahçeşehir Üniversitesine kurumlararası yatay geçiş ile kayıt yaptırırken önceki üniversitemde bulunan bursum geçerli olur mu ? Burs için ne yapmalıyım?
+CEVAP: Bir önceki üniversitenizdeki burslar geçerli değildir. Burs başvurusu için aşağıdaki mail adreslerine ulaşabilirsiniz 
+[email protected]
+ / 
+[email protected]
+
+SORU: Kurum içi yatay geçiş işlemleri ile bölüm değiştirmem durumumda önceki bölümümde bulunan bursum geçerli olur mu ?
+CEVAP: Konu ile ilgili detaylı bilgi için ilgili yönergemizi inceleyebilirsiniz. ( https://aday.bau.edu.tr/burslar-ve-ucretler/)

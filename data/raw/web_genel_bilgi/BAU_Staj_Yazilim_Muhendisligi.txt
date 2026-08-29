@@ -1,0 +1,74 @@
+Staj - Yazılım Mühendisliği
+SEN4993 Dersi için Yaz Stajı Süreci – Yazılım Mühendisliği Öğrencileri
+Sayfadaki bilgiler Yazılım Mühendisliği öğrencilerinin mezuniyeti için gerekli olan
+SEN4993 kodlu zorunlu yaz stajı
+dersindeki süreçleri açıklamak için hazırlanmıştır.
+Bu bilgiler Bahçeşehir Üniversitesi Senatosunun 04.03.2021 tarih 2021/06/03 sayılı
+“Bahçeşehir Üniversitesi Mühendislik ve Doğa Bilimleri Fakültesi Mimarlık Fakültesi Staj Yönergesi”
+esas alınarak hazırlanmıştır.
+Her Yazılım Mühendisliği öğrencisi lisans programı eğitimi süresince
+EN AZ 30 işgünü
+Yazılım Mühendisliği ile ilgili bir konuda staj yapmak zorundadır.
+Öğrencilerimiz stajını en erken
+2. sınıf derslerini aldıktan sonra (dördüncü yarıyıldan sonra)
+akademik tatillerde yapabilirler.
+Öğrenci staj yapacağı tarih aralığını belirlerken mevcut akademik takvimi göz önünde bulundurmalıdır.
+Stajların akademik tatil dönemlerinde (bahar dönemi sonrası veya güz dönemi sonrası eğitim-öğretime verilen arada) yapılması esastır.
+Mezuniyet durumunda olan
+(mezuniyeti için so
+n iki dönemi kalan) öğrenciler derslerin ve sınavların olduğu dönemlerde haftalık ders programlarında en az 3 iş günü boş olması
+durumunda staj yapabilirler. Bunun için öğrencinin haftalık ders programında en az 3 iş günü hiç dersinin olmaması gerekmektedir.
+Online olan dersler de yüz yüze yapılan dersler şeklinde değerlendirilir. Zorunlu staj sadece belirtilen boş günlerde yapılabilir. Resmî tatiller ve bayramlar staj iş günü olarak kabul edilmemektedir.
+Staj yapılacak firmanın resmi beyan yazısı doğrultusunda cumartesi günü çalışma yapan kurumlar da staj yapacak öğrenciler için, cumartesi günü de iş günü olarak kabul edilmektedir.
+NOT:
+En az 30 işgününü sağlamak için belirtilen staj başlangıç ve bitiş tarihlerinin doğru beyan edilmesi öğrencinin sorumluluğundadır. Eksik gün sayısında yapılan stajlar
+zorunlu staj kapsamında değerlendirilmez.
+Stajda izlenecek adımlar aşağıda belirtilmiştir. Detaylar ve sıkça sorulan sorular (SSS) için mutlaka bu sayfadaki alt başlıkları okuyunuz.
+Staj Başvurusunda İzlenecek Adımlar:
+1. Staj yapılacak kurumun tespit edilmesi ve bölüm tarafından onaylanması (Staj yerinde en az 4 mühendisin çalışması),
+2. Staj yapılacak tarihlerin akademik takvime uygun olup olmadığının belirlenmesi,
+3. Staja kabul durumunda
+staj başvuru belgesinin
+firma tarafından doldurulup, imzalanarak bölüm staj başlangıcından sorumlu koordinatörüne teslim edilmesi. (Staj başlangıcından en erken 1 ay, en geç 15 gün önce) (Araştırma Görevlisi Simge AKAY:
+[email protected]
+)
+4. Staj yapılacak yere ve BAU İK'ya staj zorunluluk mektubunun öğrenci aracılığıyla gönderilmesi (Belge aşağıdaki linkten indirilip öğrenci tarafından doldurulduktan sonra staj başlangıcından sorumlu koordinatörden imza alınır.)
+NOT:
+Staj başlangıcı ile ilgili tüm yazışmalarınızda staj başlangıcından sorumlu koordinatör ile e-mail adresi üzerinden iletişime geçmeniz gerekmektedir. E-mail adresi haricinde gelen belgelere ve/veya sorulara yanıt verilmeyecektir. Yazışmalarda resmî Bahçeşehir Üniversitesi e-mail adresinizi kullanmanız gerekmektedir.
+Sigortayı Başlatmak İçin İzlenecek Adımlar:
+Staj yapılacak firmanın yurt içi veya yurt dışında olmasından bağımsız olarak staj süresince sigorta yaptırılması kanuni zorunluluktur.
+Sigortasız yapılan stajlar geçersizdir.
+Staj sigorta işlemleri BAU İnsan Kaynakları Daire Başkanlığı tarafından yürütülmektedir. Sigorta işlemleri staj başlangıç tarihinden en erken 1 ay, en geç üç gün önce yapılabilmektedir. İnsan Kaynakları Daire Başkanlığı staj ile ilgili prosedürlerine
+https://bau.edu.tr/icerik/3208-insan-kaynaklari-daire-baskanligi-staj-yonergesi
+linkinden erişebilirsiniz. Türk vatandaşı olmayan ve Türkiye’de staj yapmak isteyen öğrenciler muafiyet süreci hakkında staj koordinatörü ile iletişime geçmelidir.
+NOT:
+Bu prosedürden geçmemiş olan stajlar
+REDDEDİLECEKTİR.
+Öğrenciler, sigortalı işe giriş belgesinin bir nüshasını bölüm staj başlangıcından sorumlu koordinatöre (Araştırma Görevlisi Simge AKAY:
+[email protected]
+), bir nüshasını da staj yapılacak kuruma teslim etmelidir.
+Lütfen unutmayınız: Onaylı başvuru formu (firma tarafından doldurulmuş ve imzalanmış) ve staj zorunluluk belgesinin bölüm staj başlangıcından sorumlu koordinatöre teslim edilmemesi durumunda (Araştırma Görevlisi Simge AKAY:
+[email protected]
+) staj başlatılamaz ve geçerli sayılmaz.
+Staj sonrası işlemlerden sorumlu koordinatör SEN4993 dersinin öğretim üyesi iletişim bilgisi:
+[email protected]
+Staj Sonrasında İzlenecek Adımlar:
+1. Stajın bitiminden sonra staj dersi seçilir.
+· Stajın bitiminin en geç “ekle-sil” haftasının sonu olması durumunda ders seçilebilir.
+· Staj devam etmesine rağmen 30 iş günü tamamlandıysa staj dersi seçilebilir.
+· Stajın bitimi üzerinden 12 aydan fazla süre geçmiş olması durumunda staj sayılmaz.
+2. Öğrenci, staj başlamadan önce aldığı staj zorunluluk belgesinin kopyasını sisteme yükler.
+3. Öğrenci, staj başlangıç tarihinin gözüktüğü sigorta belgesini sisteme yükler.
+4. Öğrenci, staj raporunu 30 iş günü olacak şekilde doldurup sisteme yükler.
+5. Öğrenci, benzerlik raporunu sisteme yükler. Benzerlik oranı %20’yi aşan raporların uyarı olmaksızın öğrenci tarafından düzeltilmesi beklenir.
+6. Benzerlik oranı %20’yi aşmayan raporlar staj değerlendiricisi tarafından kontrol edilir ve varsa gerekli görülen düzenlemeler öğrenciye bildirilir. İlan edilen süre dahilinde öğrencinin düzeltilmiş raporunu tekrar sisteme yüklemesi beklenir.
+7. Raporun staj değerlendiricisi tarafından onaylanmasından sonra imza süreci başlar.
+8. Raporun imzalı ve mühürlü hali sisteme yüklenir.
+9. İmzalı ve mühürlü staj sicil belgesi, öğrencinin stajından sorumlu kişi tarafından staj bitiminden sorumlu koordinatöre e-posta yoluyla iletilir.
+10. İmzalı belgelerin ulaşmasıyla birlikte öğrencinin staj notu “S” olarak girilir.
+11. Staj raporu onaylanmayan ya da imzalı belgeleri vaktinde ulaşmayan öğrencinin staj notu “U” olarak girilir.
+İndirilecek olan gerekli belgelere aşağıdan ulaşabilirsiniz;
+Staj Başvuru Formu
+Zorunluluk Formu
+Staj Raporu
+Staj Değerlendirme Formu

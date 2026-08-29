@@ -1,0 +1,437 @@
+[
+  {
+    "id": "f1",
+    "category": "factual",
+    "query": "Yaz okulunda en fazla kaç ders alabilirim?",
+    "ground_truth_summary": "En fazla 4 ders (10 ulusal krediyi geçmemek kaydıyla); mezuniyet durumunda +1 ders.",
+    "answer": "Yaz okulunda alınabilecek toplam ders yükü **10 (on) kredidir** ([Kaynak 2] BAHÇEŞEHİR ÜNİVERSİTESİ YAZ OKULU YÖNERGESİ.pdf — Madde 9). \n\n*(Not: Bu yanıt bilgilendirme amaçlıdır; ders kayıtları, kredi sınırları ve kritik kararlarınızla ilgili güncel durumlar için ilgili üniversite birimleri veya danışmanınızla görüşerek doğrulama yapmanızı hatırlatırım.)*",
+    "retrieved_sources": [
+      {
+        "source_file": "BAHÇEŞEHİR ÜNİVERSİTESİ ÖN LİSANS VE LİSANS EĞİTİM-ÖĞRETİM VE SINAV YÖNETMELİĞİ.pdf",
+        "article_no": "21"
+      },
+      {
+        "source_file": "BAHÇEŞEHİR ÜNİVERSİTESİ YAZ OKULU YÖNERGESİ.pdf",
+        "article_no": null
+      },
+      {
+        "source_file": "BAHÇEŞEHİR ÜNİVERSİTESİ YAZ OKULU YÖNERGESİ.pdf",
+        "article_no": null
+      },
+      {
+        "source_file": "BAHÇEŞEHİR ÜNİVERSİTESİ YAZ OKULU YÖNERGESİ.pdf",
+        "article_no": null
+      },
+      {
+        "source_file": "BAHÇEŞEHİR ÜNİVERSİTESİ YAZ OKULU YÖNERGESİ.pdf",
+        "article_no": null
+      }
+    ]
+  },
+  {
+    "id": "f2",
+    "category": "factual",
+    "query": "Sınav sonuçlarına kaç iş günü içinde itiraz edebilirim?",
+    "ground_truth_summary": "Notlar ilan edildikten sonra 3 iş günü içinde yazılı itiraz.",
+    "answer": "BAHÇEŞEHİR ÜNİVERSİTESİ ÖN LİSANS VE LİSANS EĞİTİM-ÖĞRETİM VE SINAV YÖNETMELİĞİ (Madde 27) ve BAHÇEŞEHİR ÜNİVERSİTESİ SINAV YÖNERGESİ'ne (Madde 8) göre;\n\nAra sınav notlarına veya yarıyıl/yılsonu final, bütünleme, mazeret/telafi ve ek sınav sonunda ders başarı notlarına itiraz etmek isteyen öğrencilerin, notlar ilan edildikten sonra **üç iş günü içerisinde** yazılı olarak itirazda bulunması gerekmektedir. \n\n*Kaynaklar: BAHÇEŞEHİR ÜNİVERSİTESİ ÖN LİSANS VE LİSANS EĞİTİM-ÖĞRETİM VE SINAV YÖNETMELİĞİ.pdf, Madde 27 (bölüm 1 ve 2); BAHÇEŞEHİR ÜNİVERSİTESİ SINAV YÖNERGESİ.pdf, Madde 8 (fıkra 3).*\n\n*Not: Bu yanıt bilgilendirme amacıyla verilmiştir. Kritik kararlar (itiraz süreleri, başvuru yerleri, tarihler vb.) için ilgili üniversite birimiyle iletişime geçerek doğrulama yapmanız önerilir.*",
+    "retrieved_sources": [
+      {
+        "source_file": "BAHÇEŞEHİR ÜNİVERSİTESİ ÖN LİSANS VE LİSANS EĞİTİM-ÖĞRETİM VE SINAV YÖNETMELİĞİ.pdf",
+        "article_no": "27 (bölüm 1)"
+      },
+      {
+        "source_file": "BAHÇEŞEHİR ÜNİVERSİTESİ SINAV YÖNERGESİ.pdf",
+        "article_no": "8"
+      },
+      {
+        "source_file": "BAHÇEŞEHİR ÜNİVERSİTESİ ÖN LİSANS VE LİSANS EĞİTİM-ÖĞRETİM VE SINAV YÖNETMELİĞİ.pdf",
+        "article_no": "22 (bölüm 2)"
+      },
+      {
+        "source_file": "BAHÇEŞEHİR ÜNİVERSİTESİ LİSANSÜSTÜ EĞİTİM VE ÖĞRETİM YÖNETMELİĞİ.pdf",
+        "article_no": "5"
+      },
+      {
+        "source_file": "BAHÇEŞEHİR ÜNİVERSİTESİ ÖN LİSANS VE LİSANS EĞİTİM-ÖĞRETİM VE SINAV YÖNETMELİĞİ.pdf",
+        "article_no": "14"
+      }
+    ]
+  },
+  {
+    "id": "f3",
+    "category": "factual",
+    "query": "Nakdi burs almak için gereken minimum not ortalaması kaçtır?",
+    "ground_truth_summary": "GPA 3.50/4.00 ve üzeri, en az 2 dönem tamamlanmış olmalı, %100 ÖSYM burslu olmalı.",
+    "answer": "Nakdi destek talebinde bulunabilmek için öğrencilerin hazırlık programı hariç ana dal programlarında en az 2 yarıyılını tamamlamış ve **3.50/4.00 veya üzerinde** Genel Not Ortalamasına sahip olmaları gerekmektedir (Kaynak 1: BAHÇEŞEHİR ÜNİVERSİTESİ ÖN LİSANS, LİSANS, LİSANSÜSTÜ BURS VE DESTEK YÖNERGESİ.pdf, İKİNCİ BÖLÜM, Madde 16). \n\n*Lütfen unutmayın; bu yanıt bilgilendirme amaçlıdır ve resmi bir karar niteliği taşımaz. Kritik kararlar (başvuru tarihleri, uygunluk durumu, itirazlar vb.) için ilgili üniversite birimleriyle iletişime geçerek doğrulama yapmanızı hatırlatırız.*",
+    "retrieved_sources": [
+      {
+        "source_file": "BAHÇEŞEHİR ÜNİVERSİTESİ ÖN LİSANS, LİSANS, LİSANSÜSTÜ BURS VE DESTEK YÖNERGESİ.pdf",
+        "article_no": "16"
+      },
+      {
+        "source_file": "BAHÇEŞEHİR ÜNİVERSİTESİ AKADEMİK PERSONEL (ÖĞRETİM ELEMANLARI) YÜKSELTME VE ATAMA ESASLARI.pdf",
+        "article_no": "6 (bölüm 6)"
+      },
+      {
+        "source_file": "BAHÇEŞEHİR ÜNİVERSİTESİ ÖN LİSANS, LİSANS, LİSANSÜSTÜ BURS VE DESTEK YÖNERGESİ.pdf",
+        "article_no": "22 (bölüm 19)"
+      },
+      {
+        "source_file": "BAHÇEŞEHİR ÜNİVERSİTESİ AKADEMİK PERSONEL (ÖĞRETİM ELEMANLARI) YÜKSELTME VE ATAMA ESASLARI.pdf",
+        "article_no": "6 (bölüm 5)"
+      },
+      {
+        "source_file": "BAHÇEŞEHİR ÜNİVERSİTESİ ÖN LİSANS, LİSANS, LİSANSÜSTÜ BURS VE DESTEK YÖNERGESİ.pdf",
+        "article_no": "17 (bölüm 1)"
+      }
+    ]
+  },
+  {
+    "id": "f4",
+    "category": "factual",
+    "query": "Mühendislik fakültesinde staj başvurusu için hangi belge gereklidir?",
+    "ground_truth_summary": "Zorunlu staj formu belgesi ve staj başvuru formu.",
+    "answer": "Bahçeşehir Üniversitesi Mühendislik ve Doğa Bilimleri Fakültesi ile Mimarlık ve Tasarım Fakültesi Staj Yönergesi'ne göre, staj başvurusunda kullanılmak üzere ilgili fakülte dekanlıklarınca oluşturulan, öğrenciye ve staj çalışması yapılan kuruma ilişkin bilgilerin yer aldığı standart bir **\"Staj başvuru formu\"** bulunmaktadır ([Kaynak 1] Madde 4). \n\n*Lütfen unutmayın: Bu yanıt yalnızca bilgilendirme amaçlıdır; staj başvuru tarihleri, güncel formlar, uygunluk ve kesin kararlar gibi kritik konularda ilgili üniversite birimleri veya staj komisyonu ile iletişime geçerek doğrulama yapmanız önerilir.*",
+    "retrieved_sources": [
+      {
+        "source_file": "BAHÇEŞEHİR ÜNİVERSİTESİ MÜHENDİSLİK VE DOĞA BİLİMLERİ FAKÜLTESİ MİMARLIK VE TASARIM FAKÜLTESİ STAJ YÖNERGESİ.pdf",
+        "article_no": "4"
+      },
+      {
+        "source_file": "BAHÇEŞEHİR ÜNİVERSİTESİ LİSANSÜSTÜ PROGRAMLARINA YURTDIŞINDAN ÖĞRENCİ KABULÜ BAŞVURU VE KAYIT İŞLEMLERİNE İLİŞKİN YÖNERGE.pdf",
+        "article_no": "15 (bölüm 3)"
+      },
+      {
+        "source_file": "BAHÇEŞEHİR ÜNİVERSİTESİ STAJ YÖNERGESİ.pdf",
+        "article_no": "29 (bölüm 5)"
+      },
+      {
+        "source_file": "BAHÇEŞEHİR ÜNİVERSİTESİ LİSANSÜSTÜ PROGRAMLARINA YURTDIŞINDAN ÖĞRENCİ KABULÜ BAŞVURU VE KAYIT İŞLEMLERİNE İLİŞKİN YÖNERGE.pdf",
+        "article_no": "7 (bölüm 1)"
+      },
+      {
+        "source_file": "BAHÇEŞEHİR ÜNİVERSİTESİ LİSANSÜSTÜ EĞİTİM VE ÖĞRETİM YÖNETMELİĞİ.pdf",
+        "article_no": "6"
+      }
+    ]
+  },
+  {
+    "id": "f5",
+    "category": "factual",
+    "query": "What is the required GPA to apply for the double major program?",
+    "ground_truth_summary": "Application/admission conditions for double major are specified in Madde 7.",
+    "answer": "Bahçeşehir Üniversitesi Çift Anadal Programı Yönergesi'ne göre, çift anadal programına başvuru yapabilmek için anadal diploma programındaki genel not ortalamasının (AGNO) şu şartları sağlaması gerekir:\n\n* Ön lisans programları için en az **3.50/4.00**, lisans programları için ise en az **3.00/4.00** olması gerekmektedir (*BAHÇEŞEHİR ÜNİVERSİTESİ ÇİFT ANADAL PROGRAMI YÖNERGESİ.pdf*, Madde 7, Bölüm 2a ve 2c).\n\n*(Not: Bu yanıt bilgilendirme amaçlıdır; kritik kararlar, tarihler ve uygunluk durumları için ilgili üniversite birimleriyle görüşerek doğrulama yapmanız önerilir.)*",
+    "retrieved_sources": [
+      {
+        "source_file": "BAHÇEŞEHİR ÜNİVERSİTESİ ÇİFT ANADAL PROGRAMI YÖNERGESİ.pdf",
+        "article_no": "7 (bölüm 2)"
+      },
+      {
+        "source_file": "BAHÇEŞEHİR ÜNİVERSİTESİ ÖN LİSANS, LİSANS, LİSANSÜSTÜ BURS VE DESTEK YÖNERGESİ.pdf",
+        "article_no": "22 (bölüm 18)"
+      },
+      {
+        "source_file": "BAHÇEŞEHİR ÜNİVERSİTESİ ÇİFT ANADAL PROGRAMI YÖNERGESİ.pdf",
+        "article_no": "10 (bölüm 1)"
+      },
+      {
+        "source_file": "BAHÇEŞEHİR ÜNİVERSİTESİ ÖN LİSANS, LİSANS, LİSANSÜSTÜ BURS VE DESTEK YÖNERGESİ.pdf",
+        "article_no": "22 (bölüm 17)"
+      },
+      {
+        "source_file": "BAHÇEŞEHİR ÜNİVERSİTESİ ERASMUS+ ÖĞRENCİ  AKADEMİK VE İDARİ PERSONEL SEÇİM-DEĞİŞİM KRİTERLERİ VE UYGULAMA YÖNERGESİ.pdf",
+        "article_no": "21 (bölüm 9)"
+      }
+    ]
+  },
+  {
+    "id": "p1",
+    "category": "procedural",
+    "query": "Yatay geçiş başvurusu ne zaman yapılabilir?",
+    "ground_truth_summary": "Sadece ilan edilen süre içerisinde başvuru yapılabilir.",
+    "answer": "Yatay geçiş başvurularının zamanı, başvuru türüne ve programın düzeyine göre değişiklik göstermektedir:\n\n* **Merkezi Yerleştirme Puanıyla Yatay Geçiş (Ek Madde 1):** Hazırlık sınıfı da dâhil olmak üzere yapılabilmekte olup, başvuru takvimi Yükseköğretim Yürütme Kurulu tarafından tespit edilmektedir (*BAHÇEŞEHİR ÜNİVERSİTESİ ÖN LİSANS VE LİSANS DÜZEYİNDE YÜKSEKÖĞRETİM DİPLOMA PROGRAMLARI ARASI YATAY GEÇİŞLERE İLİŞKİN YÖNERGE.pdf, Madde 20*).\n* **Önlisans Programlarında Genel Not Ortalaması İle Kurumlar Arası Yatay Geçiş:** İkinci yarıyıl için kontenjanlar ile başvuru ve değerlendirme takvimi Ocak ayı içinde, üçüncü yarıyıl için ise Temmuz ayı içinde ilan edilmektedir (*BAHÇEŞEHİR ÜNİVERSİTESİ ÖN LİSANS VE LİSANS DÜZEYİNDE YÜKSEKÖĞRETİM DİPLOMA PROGRAMLARI ARASI YATAY GEÇİŞLERE İLİŞKİN YÖNERGE.pdf, Madde 13*).\n* **Lisans Programlarında Genel Not Ortalaması İle Kurumlar Arası Yatay Geçiş:** Dört yıllık eğitim verenlerde ikinci ve üçüncü sınıflar, beş yıllık eğitim verenlerde ikinci, üçüncü ve dördüncü sınıflar, altı yıllık eğitim verenlerde ise ikinci, üçüncü, dördüncü ve beşinci sınıflar için kontenjanlar ile başvuru ve değerlendirme takvimi Temmuz ayı içinde ilan edilmektedir (*BAHÇEŞEHİR ÜNİVERSİTESİ ÖN LİSANS VE LİSANS DÜZEYİNDE YÜKSEKÖĞRETİM DİPLOMA PROGRAMLARI ARASI YATAY GEÇİŞLERE İLİŞKİN YÖNERGE.pdf, Madde 13*).\n\n*Not: Bu yanıt bilgilendirme amaçlıdır. Başvuru tarihleri ve kritik kararlar gibi konularda mutlaka ilgili üniversite birimleriyle iletişime geçerek doğrulama yapmanız önerilir.*",
+    "retrieved_sources": [
+      {
+        "source_file": "BAHÇEŞEHİR ÜNİVERSİTESİ ÖN LİSANS VE LİSANS DÜZEYİNDE YÜKSEKÖĞRETİM DİPLOMA PROGRAMLARI ARASI YATAY GEÇİŞLERE İLİŞKİN YÖNERGE.pdf",
+        "article_no": "20"
+      },
+      {
+        "source_file": "BAHÇEŞEHİR ÜNİVERSİTESİ ÖN LİSANS VE LİSANS DÜZEYİNDE YÜKSEKÖĞRETİM DİPLOMA PROGRAMLARI ARASI YATAY GEÇİŞLERE İLİŞKİN YÖNERGE.pdf",
+        "article_no": "13 (bölüm 2)"
+      },
+      {
+        "source_file": "BAHÇEŞEHİR ÜNİVERSİTESİ ÖN LİSANS VE LİSANS DÜZEYİNDE YÜKSEKÖĞRETİM DİPLOMA PROGRAMLARI ARASI YATAY GEÇİŞLERE İLİŞKİN YÖNERGE.pdf",
+        "article_no": "25 (bölüm 13)"
+      },
+      {
+        "source_file": "BAHÇEŞEHİR ÜNİVERSİTESİ ÖN LİSANS VE LİSANS DÜZEYİNDE YÜKSEKÖĞRETİM DİPLOMA PROGRAMLARI ARASI YATAY GEÇİŞLERE İLİŞKİN YÖNERGE.pdf",
+        "article_no": "19 (bölüm 2)"
+      },
+      {
+        "source_file": "KULUÇKA VE GİRİŞİMCİLİK UYGULAMA VE ARAŞTIRMA MERKEZİ YÖNERGESİ.pdf",
+        "article_no": "23"
+      }
+    ]
+  },
+  {
+    "id": "p2",
+    "category": "procedural",
+    "query": "Araştırma ve yayın etiği ihlali iddiası nasıl değerlendirilir, kim karar verir?",
+    "ground_truth_summary": "Etik Kurulu ya da Etik Kurulun oluşturacağı Uzman Etik Kurulu tarafından sonuca bağlanır.",
+    "answer": "Bahçeşehir Üniversitesi'ndeki araştırma ve yayın etiği ile ilgili konular, Üniversite Senatosunca önerilen ve Rektör tarafından görevlendirilen \"Etik Kurulu\" ya da Etik Kurulun oluşturacağı \"Uzman Etik Kurulu\" tarafından sonuca bağlanır ([Kaynak 1] BAHÇEŞEHİR ÜNİVERSİTESİ ARAŞTIRMA VE YAYIN ETİĞİ YÖNERGESİ.pdf, Madde 4).\n\n*(Not: Bu yanıt bilgilendirme amaçlıdır; kritik kararlar, tarihler veya başvurular için ilgili üniversite birimleriyle görüşerek doğrulama yapmanızı hatırlatırım.)*",
+    "retrieved_sources": [
+      {
+        "source_file": "BAHÇEŞEHİR ÜNİVERSİTESİ ARAŞTIRMA VE YAYIN ETİĞİ YÖNERGESİ.pdf",
+        "article_no": null
+      },
+      {
+        "source_file": "BAHÇEŞEHİR ÜNİVERSİTESİ GİRİŞİMSEL OLMAYAN ÇALIŞMALAR ETİK KURULU YÖNERGESİ.pdf",
+        "article_no": "7 (bölüm 1)"
+      },
+      {
+        "source_file": "BAHÇEŞEHİR ÜNİVERSİTESİ GİRİŞİMSEL OLMAYAN ÇALIŞMALAR ETİK KURULU YÖNERGESİ.pdf",
+        "article_no": "7 (bölüm 2)"
+      },
+      {
+        "source_file": "BAHÇEŞEHİR ÜNİVERSİTESİ ARAŞTIRMA VE YAYIN ETİĞİ YÖNERGESİ.pdf",
+        "article_no": null
+      },
+      {
+        "source_file": "BAHÇEŞEHİR ÜNİVERSİTESİ AKREDİTE OLMAYAN BÖLÜMLER İÇİN ÖZ DEĞERLENDİRME VE AKRAN DENETİMİ USUL VE ESASLARI.pdf",
+        "article_no": "6"
+      }
+    ]
+  },
+  {
+    "id": "p3",
+    "category": "procedural",
+    "query": "Sınav sonucuma itiraz etmek için nereye başvurmam gerekiyor?",
+    "ground_truth_summary": "Dersin bağlı bulunduğu akademik birim sekreterliğine yazılı olarak başvuru.",
+    "answer": "Bahçeşehir Üniversitesi Ön Lisans ve Lisans Eğitim-Öğretim ve Sınav Yönetmeliği'ne göre sınav notlarına itiraz süreçleri şu şekildedir:\n\n* **Ara Sınav Notlarına İtiraz:** Ara sınav notlarına itiraz etmek istiyorsanız, notlar ilan edildikten sonra üç iş günü içerisinde dersin kodunun bağlı bulunduğu ilgili akademik birimin **bölüm veya program başkanlığına yazılı olarak** başvurmanız gerekmektedir ([Kaynak 1] Ön Lisans ve Lisans Eğitim-Öğretim ve Sınav Yönetmeliği, Madde 27/1).\n* **Yarıyıl/Yılsonu Final, Bütünleme, Mazeret/Telafi ve Ek Sınav Notlarına İtiraz:** Bu sınavların başarı notlarına itiraz etmek için de yine notlar ilan edildikten sonra üç iş günü içerisinde dersin kodunun bağlı bulunduğu ilgili akademik birimin **bölüm veya program başkanlığına yazılı olarak** başvurmanız gerekmektedir ([Kaynak 1] Ön Lisans ve Lisans Eğitim-Öğretim ve Sınav Yönetmeliği, Madde 27/2).\n\n*Not: Bu yanıt bilgilendirme amaçlıdır. Sınav itirazları gibi kritik kararlar, tarihler ve başvuru süreçleriyle ilgili olarak güncel durumu ilgili üniversite birimlerinden (bölüm veya program başkanlığınızdan) doğrulamanız tavsiye edilir.*",
+    "retrieved_sources": [
+      {
+        "source_file": "BAHÇEŞEHİR ÜNİVERSİTESİ ÖN LİSANS VE LİSANS EĞİTİM-ÖĞRETİM VE SINAV YÖNETMELİĞİ.pdf",
+        "article_no": "27 (bölüm 1)"
+      },
+      {
+        "source_file": "BAHÇEŞEHİR ÜNİVERSİTESİ ÖN LİSANS VE LİSANS EĞİTİM-ÖĞRETİM VE SINAV YÖNETMELİĞİ.pdf",
+        "article_no": "27 (bölüm 2)"
+      },
+      {
+        "source_file": "BAHÇEŞEHİR ÜNİVERSİTESİ ERASMUS+ ÖĞRENCİ  AKADEMİK VE İDARİ PERSONEL SEÇİM-DEĞİŞİM KRİTERLERİ VE UYGULAMA YÖNERGESİ.pdf",
+        "article_no": "10"
+      },
+      {
+        "source_file": "BAHÇEŞEHİR ÜNİVERSİTESİ YAYIN TEŞVİK YÖNERGESİ.pdf",
+        "article_no": "8"
+      },
+      {
+        "source_file": "BAHÇEŞEHİR ÜNİVERSİTESİ SINAV YÖNERGESİ.pdf",
+        "article_no": "9 (bölüm 1)"
+      }
+    ]
+  },
+  {
+    "id": "p4",
+    "category": "procedural",
+    "query": "How does the academic advising process work between a student and their advisor?",
+    "ground_truth_summary": "Advisor selection/assignment process and advisory services are described in Madde 5-6.",
+    "answer": "Bahçeşehir Üniversitesi akademik danışmanlık sürecine ilişkin bilmeniz gerekenler ilgili yönergede şu şekilde belirtilmiştir:\n\n* **Danışmanlık Hizmetleri:** Danışmanlar, öğrencilere akademik planlama ve ders seçimi konularında rehberlik eder, kariyer hedeflerine uygun akademik yönlendirmeler sağlar, ders başarıları ve genel akademik performanslarını takip eder ve akademik sorunlarına yönelik çözüm önerileri geliştirir ([Kaynak 2], Madde 5).\n* **Görüşmeler ve İletişim:** Danışman, haftanın belirli gün ve saatlerinde öğrencilerini kabul ederek ihtiyaç duydukları konularda yardımcı olur; uygun olduğu zaman dilimini planlayıp elektronik ortamda öğrencilere duyurur ve bağlı olduğu Akademik Birim Yönetimine bildirir ([Kaynak 3], Madde 7). Öğrenci ise gerektiğinde danışmanından görüşme talep etmeli, danışmanın programına uygun hareket etmeli ve geri bildirim sağlamaya çalışmalıdır ([Kaynak 5], Madde 8).\n* **Danışmanın Görevleri:** Danışman; öğrencinin akademik yolculuğunda rehberlik yapar, ders seçimi ve dönem planlaması hakkında bilgi verir, görüşmelerde öğrencinin akademik durumu, ders başarısı ve sınav sonuçları hakkında geri bildirim sağlar ve kişisel verilerin korunması yükümlülüklerini yerine getirir ([Kaynak 3], Madde 7).\n* **Öğrencinin Sorumlulukları:** Öğrenci; akademik programına uygun dersleri seçmeli, akademik performansını izlemeli, ek destek gerektiğinde danışmanıyla iletişim kurmalı, danışmanlık hizmetlerinden etkin yararlanmalı ve üniversiteden gelen duyuruları düzenli olarak okuyup gerektiğinde 2 gün içinde yanıt vermelidir ([Kaynak 5], Madde 8).\n\n*(Lütfen unutmayın: Bu yanıt yalnızca bilgilendirme amaçlıdır; son başvuru tarihleri, uygunluk, itirazlar veya kritik kararlar gibi konularda kesin bilgi almak için ilgili üniversite birimleriyle görüşerek doğrulama yapmanız önerilir.)*",
+    "retrieved_sources": [
+      {
+        "source_file": "BAHÇEŞEHİR ÜNİVERSİTESİ AKADEMİK DANIŞMANLIK YÖNERGESİ.pdf",
+        "article_no": "6"
+      },
+      {
+        "source_file": "BAHÇEŞEHİR ÜNİVERSİTESİ AKADEMİK DANIŞMANLIK YÖNERGESİ.pdf",
+        "article_no": "5"
+      },
+      {
+        "source_file": "BAHÇEŞEHİR ÜNİVERSİTESİ AKADEMİK DANIŞMANLIK YÖNERGESİ.pdf",
+        "article_no": "7"
+      },
+      {
+        "source_file": "BAHÇEŞEHİR ÜNİVERSİTESİ AKADEMİK DANIŞMANLIK YÖNERGESİ.pdf",
+        "article_no": "9"
+      },
+      {
+        "source_file": "BAHÇEŞEHİR ÜNİVERSİTESİ AKADEMİK DANIŞMANLIK YÖNERGESİ.pdf",
+        "article_no": "12 (bölüm 3)"
+      }
+    ]
+  },
+  {
+    "id": "e1",
+    "category": "explanatory",
+    "query": "AKTS/ECTS kredi sistemi ne amaçla kullanılır?",
+    "ground_truth_summary": "Öğrenci hareketliliğini kolaylaştırmak, öğrenci merkezli iş-yüküne dayalı eğitim modeli (Bologna Süreci kapsamında).",
+    "answer": "Merhaba! Bahçe-sihir, Bahçeşehir Üniversitesi öğrenci asistanınız. \n\nAKTS (Avrupa Kredi Transfer Sistemi / ECTS), öğrenci hareketliliğini kolaylaştırmak ve öğrencilerin yurt içinde ve yurt dışında aldıkları ve başarılı oldukları ders kredilerinin bir yükseköğretim kurumundan diğerine transfer edilmesi yoluyla akademik tanınmayı sağlamak amacıyla kullanılan bir akademik denklik sistemidir [Kaynak 1, Madde 4 (bölüm 1)]. Ayrıca ülkeler arasındaki eğitim ve notlandırma sistemlerindeki farklılıklar nedeniyle, öğrencilerin ders yüklerinin belirlenmesinde ve aldıkları notların transferinde bir çeşit \"ortak dil\" görevi görür [Kaynak 1, Madde 4 (bölüm 1)].\n\n*Lütfen unutmayın: Bu yanıt yalnızca bilgilendirme amaçlıdır; kritik kararlar (başvurular, muafiyetler, akademik planlamalar vb.) için ilgili üniversite birimleriyle görüşerek doğrulama yapmanız önemlidir.*",
+    "retrieved_sources": [
+      {
+        "source_file": "BAHÇEŞEHİR ÜNİVERSİTESİ AVRUPA KREDİ TRANSFER SİSTEMİ (AKTS ECTS) UYGULAMA YÖNERGESİ.pdf",
+        "article_no": "4 (bölüm 1)"
+      },
+      {
+        "source_file": "BAHÇEŞEHİR ÜNİVERSİTESİ AVRUPA KREDİ TRANSFER SİSTEMİ (AKTS ECTS) UYGULAMA YÖNERGESİ.pdf",
+        "article_no": "6"
+      },
+      {
+        "source_file": "BAHÇEŞEHİR ÜNİVERSİTESİ AVRUPA KREDİ TRANSFER SİSTEMİ (AKTS ECTS) UYGULAMA YÖNERGESİ.pdf",
+        "article_no": "4 (bölüm 2)"
+      },
+      {
+        "source_file": "BAHÇEŞEHİR ÜNİVERSİTESİ AVRUPA KREDİ TRANSFER SİSTEMİ (AKTS ECTS) UYGULAMA YÖNERGESİ.pdf",
+        "article_no": "7"
+      },
+      {
+        "source_file": "BAHÇEŞEHİR ÜNİVERSİTESİ AVRUPA KREDİ TRANSFER SİSTEMİ (AKTS ECTS) UYGULAMA YÖNERGESİ.pdf",
+        "article_no": "11"
+      }
+    ]
+  },
+  {
+    "id": "e2",
+    "category": "explanatory",
+    "query": "Mazeret sınavı nedir, hangi durumlarda uygulanır?",
+    "ground_truth_summary": "İlgili yönetim kurulunca kabul edilen haklı bir mazereti nedeniyle sınava giremeyen öğrenciler için yapılan sınav.",
+    "answer": "Mazeret sınavı, aşağıda belirtilen durumlarda öğrencinin bağlı bulunduğu birimin yönetim kurulunca kabul edilen haklı ve geçerli bir sebebe dayanarak sınavlara katılamayan öğrenciler için açılan bir sınavdır ([Kaynak 1] BAHÇEŞEHİR ÜNİVERSİTESİ SINAV YÖNERGESİ.pdf — İKİNCİ BÖLÜM - Sınav Türleri ve Uygulama Esasları — Madde 9, paragraf 1). \n\nYönergede belirtilen ve mazeret sınavı hakkı tanınan veya ilgili durumlardan bazıları şunlardır:\n* Aynı gün ve saatte ara sınavları çakışan öğrencilere, giremedikleri sınavlar için mazeret sınavı hakkı tanınır ([Kaynak 1] BAHÇEŞEHİR ÜNİVERSİTESİ SINAV YÖNERGESİ.pdf — İKİNCİ BÖLÜM - Sınav Türleri ve Uygulama Esasları — Madde 9, paragraf 3).\n* Güz ve bahar yarıyıllarında (yaz okulu hariç) final sınavlarına ilgili kurulca kabul edilen mazereti sebebiyle girememiş öğrenciler bütünleme sınavlarına girebilirler ([Kaynak 3] BAHÇEŞEHİR ÜNİVERSİTESİ ÖN LİSANS VE LİSANS EĞİTİM-ÖĞRETİM VE SINAV YÖNETMELİĞİ.pdf — DÖRDÜNCÜ BÖLÜM - Eğitim-Öğretim, Sınavlar ve Değerlendirmelerle İlgili Esaslar — Madde 23, paragraf 4).\n* Yaz döneminde alınan derslerin bütünleme sınavları yoktur, sadece kabul edilen mazeretleri nedeniyle final sınavına giremeyen öğrenciler için mazeret sınavları yapılır ([Kaynak 3] BAHÇEŞEHİR ÜNİVERSİTESİ ÖN LİSANS VE LİSANS EĞİTİM-ÖĞRETİM VE SINAV YÖNETMELİĞİ.pdf — DÖRDÜNCÜ BÖLÜM - Eğitim-Öğretim, Sınavlar ve Değerlendirmelerle İlgili Esaslar — Madde 23, paragraf 6).\n* Ulusal veya uluslararası yarışma, sportif faaliyet, üniversite tanıtım fuarı vb. nedeniyle üniversite veya diğer resmi kurumlarca yapılan görevlendirme nedeniyle sınava giremeyen öğrenciler için de mazeret durumları söz konusu olabilir ([Kaynak 2] BAHÇEŞEHİR ÜNİVERSİTESİ SINAV YÖNERGESİ.pdf — İKİNCİ BÖLÜM - Sınav Türleri ve Uygulama Esasları — Madde 13, paragraf 1).\n\n*Lütfen unutmayın: Bu yanıt bilgilendirme amaçlıdır; tarihler, uygunluk, başvuru ve itiraz gibi kritik kararlar için ilgili üniversite birimleriyle iletişime geçerek doğrulama yapmanız önerilir.*",
+    "retrieved_sources": [
+      {
+        "source_file": "BAHÇEŞEHİR ÜNİVERSİTESİ SINAV YÖNERGESİ.pdf",
+        "article_no": "9 (bölüm 1)"
+      },
+      {
+        "source_file": "BAHÇEŞEHİR ÜNİVERSİTESİ SINAV YÖNERGESİ.pdf",
+        "article_no": "13"
+      },
+      {
+        "source_file": "BAHÇEŞEHİR ÜNİVERSİTESİ ÖN LİSANS VE LİSANS EĞİTİM-ÖĞRETİM VE SINAV YÖNETMELİĞİ.pdf",
+        "article_no": "23"
+      },
+      {
+        "source_file": "BAHÇEŞEHİR ÜNİVERSİTESİ SINAV YÖNERGESİ.pdf",
+        "article_no": "23 (bölüm 12)"
+      },
+      {
+        "source_file": "BAHÇEŞEHİR ÜNİVERSİTESİ SINAV YÖNERGESİ.pdf",
+        "article_no": "4 (bölüm 2)"
+      }
+    ]
+  },
+  {
+    "id": "e3",
+    "category": "explanatory",
+    "query": "Engelli öğrenciler için sınavlarda ne tür düzenlemeler yapılır?",
+    "ground_truth_summary": "Amaç ve kapsam: engelli öğrencilere yönelik eğitim-öğretim ve sınav tedbirleri.",
+    "answer": "Bahçeşehir Üniversitesi Engelli Öğrencilere Yönelik Eğitim - Öğretim ve Sınav Tedbirlerine İlişkin Yönergesi'ne göre engelli öğrencilerin sınavlarında yapılabilecek düzenlemeler engel gruplarına ve durumlarına göre şu şekildedir:\n\n* **Bedensel Engelli Öğrenciler:**\n  * Sınav salonları, öğrencilerin engel durumları dikkate alınarak belirlenir (*BAHÇEŞEHİR ÜNİVERSİTESİ ENGELLİ ÖĞRENCİLERE YÖNELİK EĞİTİM - ÖĞRETİM VE SINAV TEDBİRLERİNE İLİŞKİN YÖNERGESİ.pdf, Madde 8*).\n  * Sağlık kurulu raporuna göre el ve kollarını kullanamayan öğrencilere sınavda okuyucu ve yazıcı görevlendirilir (*BAHÇEŞEHİR ÜNİVERSİTESİ ENGELLİ ÖĞRENCİLERE YÖNELİK EĞİTİM - ÖĞRETİM VE SINAV TEDBİRLERİNE İLİŞKİN YÖNERGESİ.pdf, Madde 8*).\n  * Öğrencilerin sınavlara ilaç, tıbbi malzeme ya da sıvı ile (insülin kalemi vb.) girmelerine izin verilir (*BAHÇEŞEHİR ÜNİVERSİTESİ ENGELLİ ÖĞRENCİLERE YÖNELİK EĞİTİM - ÖĞRETİM VE SINAV TEDBİRLERİNE İLİŞKİN YÖNERGESİ.pdf, Madde 8*).\n  * Öğrencilerin sınav sırasında sınav görevlisi nezaretinde tuvalet-lavabo ihtiyacını karşılamasına izin verilir (*BAHÇEŞEHİR ÜNİVERSİTESİ ENGELLİ ÖĞRENCİLERE YÖNELİK EĞİTİM - ÖĞRETİM VE SINAV TEDBİRLERİNE İLİŞKİN YÖNERGESİ.pdf, Madde 8*).\n\n* **Zihinsel Engel, Özel Öğrenme Güçlüğü, DEHB, Disleksi veya Yaygın Gelişimsel Bozukluğu Olan Öğrenciler:**\n  * Sınavlarda ek süre ve talepleri doğrultusunda okuyucu ve/veya yazıcı yardımı verilebilir (*BAHÇEŞEHİR ÜNİVERSİTESİ ENGELLİ ÖĞRENCİLERE YÖNELİK EĞİTİM - ÖĞRETİM VE SINAV TEDBİRLERİNE İLİŞKİN YÖNERGESİ.pdf, Madde 11, bölüm 2*).\n  * Okuyucu yardımı alan öğrencilerin istedikleri takdirde sınav esnasında soruları kendilerinin de okumasına izin verilir (*BAHÇEŞEHİR ÜNİVERSİTESİ ENGELLİ ÖĞRENCİLERE YÖNELİK EĞİTİM - ÖĞRETİM VE SINAV TEDBİRLERİNE İLİŞKİN YÖNERGESİ.pdf, Madde 11, bölüm 2*).\n  * Gerektiğinde öğrenci yazma gerektiren sınavlarda gözetmen kontrolünde bilgisayarda yazım seçeneğini kullanabilir (*BAHÇEŞEHİR ÜNİVERSİTESİ ENGELLİ ÖĞRENCİLERE YÖNELİK EĞİTİM - ÖĞRETİM VE SINAV TEDBİRLERİNE İLİŞKİN YÖNERGESİ.pdf, Madde 11, bölüm 2*).\n\n* **Ruhsal ve Duygusal Sağlık Sorunu Olan Öğrenciler:**\n  * Talepleri doğrultusunda okuyucu ve/veya yazıcı yardımı verilebilir (*BAHÇEŞEHİR ÜNİVERSİTESİ ENGELLİ ÖĞRENCİLERE YÖNELİK EĞİTİM - ÖĞRETİM VE SINAV TEDBİRLERİNE İLİŞKİN YÖNERGESİ.pdf, Madde 11, bölüm 2*).\n  * Yazıcı yardımı talep etmeyenler de istedikleri takdirde ayrı ortamda, ek süre ile ve Engelli Öğrenci Birimi gözetiminde sınava alınabilir (*BAHÇEŞEHİR ÜNİVERSİTESİ ENGELLİ ÖĞRENCİLERE YÖNELİK EĞİTİM - ÖĞRETİM VE SINAV TEDBİRLERİNE İLİŞKİN YÖNERGESİ.pdf, Madde 11, bölüm 2*).\n\n* **Diyabet Hastası ve Kronik Sağlık Sorunu Olan Öğrenciler:**\n  * Diyabet hastası öğrencilerin insülin pompası, şeker ölçüm cihazları, ek gıda vb. ile sınıf ve sınav salonlarına alınmalarına izin verilir (*BAHÇEŞEHİR ÜNİVERSİTESİ ENGELLİ ÖĞRENCİLERE YÖNELİK EĞİTİM - ÖĞRETİM VE SINAV TEDBİRLERİNE İLİŞKİN YÖNERGESİ.pdf, Madde 11, bölüm 2*).\n  * Kronik sağlık sorunu nedeniyle ilaç kullanan öğrencilerin yanlarında ilaç getirmesine izin verilir (*BAHÇEŞEHİR ÜNİVERSİTESİ ENGELLİ ÖĞRENCİLERE YÖNELİK EĞİTİM - ÖĞRETİM VE SINAV TEDBİRLERİNE İLİŞKİN YÖNERGESİ.pdf, Madde 11, bölüm 2*).\n  * Öğrencilerin sınav sırasında sınav görevlisi nezaretinde tuvalet-lavabo ihtiyacını karşılamasına izin verilir (*BAHÇEŞEHİR ÜNİVERSİTESİ ENGELLİ ÖĞRENCİLERE YÖNELİK EĞİTİM - ÖĞRETİM VE SINAV TEDBİRLERİNE İLİŞKİN YÖNERGESİ.pdf, Madde 11, bölüm 2*).\n\n* **Genel Düzenlemeler:**\n  * Sınavlarda talepler üzerine verilecek olan okuyucu ve yazıcılar Engelli Öğrenci Birimi tarafından temin edilir (*BAHÇEŞEHİR ÜNİVERSİTESİ ENGELLİ ÖĞRENCİLERE YÖNELİK EĞİTİM - ÖĞRETİM VE SINAV TEDBİRLERİNE İLİŞKİN YÖNERGESİ.pdf, Madde 19*).\n  * Geçici sağlık problemi olan öğrenciler ile hamilelik gibi özel durumu olan öğrenciler ihtiyaç halinde ek gıda, ilaç, sargı, alçı, atel, baston ve koltuk değneği ile sınava girebilir ve görevli nezaretinde tuvalet-lavabo ihtiyacını karşılayabilirler (*BAHÇEŞEHİR ÜNİVERSİTESİ ENGELLİ ÖĞRENCİLERE YÖNELİK EĞİTİM - ÖĞRETİM VE SINAV TEDBİRLERİNE İLİŞKİN YÖNERGESİ.pdf, Madde 11, bölüm 3 ve Madde 12*).\n\n*(Not: Bu yanıt bilgilendirme amaçlıdır; tarihler, son başvuru süreleri, uygunluk ve itiraz gibi kritik kararları ilgili üniversite birimleriyle doğrulamanız önerilir.)*",
+    "retrieved_sources": [
+      {
+        "source_file": "BAHÇEŞEHİR ÜNİVERSİTESİ ENGELLİ ÖĞRENCİLERE YÖNELİK EĞİTİM - ÖĞRETİM VE SINAV TEDBİRLERİNE İLİŞKİN YÖNERGESİ.pdf",
+        "article_no": "17 (bölüm 2)"
+      },
+      {
+        "source_file": "BAHÇEŞEHİR ÜNİVERSİTESİ ENGELLİ ÖĞRENCİLERE YÖNELİK EĞİTİM - ÖĞRETİM VE SINAV TEDBİRLERİNE İLİŞKİN YÖNERGESİ.pdf",
+        "article_no": "8"
+      },
+      {
+        "source_file": "BAHÇEŞEHİR ÜNİVERSİTESİ ENGELLİ ÖĞRENCİLERE YÖNELİK EĞİTİM - ÖĞRETİM VE SINAV TEDBİRLERİNE İLİŞKİN YÖNERGESİ.pdf",
+        "article_no": "11 (bölüm 3)"
+      },
+      {
+        "source_file": "BAHÇEŞEHİR ÜNİVERSİTESİ ENGELLİ ÖĞRENCİLERE YÖNELİK EĞİTİM - ÖĞRETİM VE SINAV TEDBİRLERİNE İLİŞKİN YÖNERGESİ.pdf",
+        "article_no": "11 (bölüm 2)"
+      },
+      {
+        "source_file": "BAHÇEŞEHİR ÜNİVERSİTESİ ENGELLİ ÖĞRENCİLERE YÖNELİK EĞİTİM - ÖĞRETİM VE SINAV TEDBİRLERİNE İLİŞKİN YÖNERGESİ.pdf",
+        "article_no": "7"
+      }
+    ]
+  },
+  {
+    "id": "c1",
+    "category": "comparative",
+    "query": "Yandal programı ile çift anadal programı arasındaki fark nedir?",
+    "ground_truth_summary": "Çift anadal ikinci bir diploma verir; yandal diploma vermez, sertifika niteliğindedir (Amaç/Kapsam maddeleri karşılaştırılmalı).",
+    "answer": "Merhaba! Bahçeşehir Üniversitesi öğrencisi olarak sorunuzda belirttiğiniz konuyla ilgili resmi yönergelerde yer alan bilgiler şu şekildedir:\n\n* **Çift Anadal Programı:** Bir ön lisans veya lisans programında başarılı olan öğrencilere, kayıtlı oldukları anadal programı dışında aynı düzeydeki ikinci bir programa devam etme hakkı verilen programdır (BAHÇEŞEHİR ÜNİVERSİTESİ ÖN LİSANS VE LİSANS EĞİTİM-ÖĞRETİM VE SINAV YÖNETMELİĞİ.pdf — Madde 35). Çift anadal programı, çift anadal yaptıran bölümün veya programın anadal programının tüm derslerini kapsar (BAHÇEŞEHİR ÜNİVERSİTESİ ÇİFT ANADAL PROGRAMI YÖNERGESİ.pdf — Madde 6). Çift anadal programı için ayrı bir not belgesi (transkript) düzenlenir ve bu belgede programın tüm dersleri yer alır; ayrıca çift anadal programı nedeniyle öğrencinin anadal programındaki başarısı ve mezuniyeti hiçbir biçimde etkilenmez (BAHÇEŞEHİR ÜNİVERSİTESİ ÇİFT ANADAL PROGRAMI YÖNERGESİ.pdf — Madde 9).\n\n* **Yandal Programı:** Sunulan metinler içerisinde yandal programının tanımı detaylı olarak yer almamakla birlikte, Madde 35'e göre öğrencinin kayıtlı olduğu anadal programı dışında devam etme hakkı verilen ikinci programlardan biri olarak ifade edilmiştir (BAHÇEŞEHİR ÜNİVERSİTESİ ÖN LİSANS VE LİSANS EĞİTİM-ÖĞRETİM VE SINAV YÖNERGESİ.pdf — Madde 35). Ayrıca, çift anadal programından ayrılan bir öğrenci, eğer o bölümde yandal programı da veriliyorsa ve şartları sağlıyorsa yandal sertifikası almaya hak kazanabilir veya eksik derslerini tamamlayarak yandal programına başvuru hakkı elde edebilir (BAHÇEŞEHİR ÜNİVERSİTESİ ÇİFT ANADAL PROGRAMI YÖNERGESİ.pdf — Madde 10). \n\nSağlanan belgelerde yandal programının kapsamı veya tanımına dair daha fazla ayrıntı bulunmamaktadır.\n\n*Lütfen unutmayın: Bu yanıt yalnızca bilgilendirme amaçlıdır; son başvuru tarihleri, uygunluk, itirazlar veya kritik kararlar gibi konularda resmi işlem yapmadan önce ilgili üniversite birimleriyle (Öğrenci İşleri Daire Başkanlığı vb.) görüşerek doğrulama yapmanız gerekir.*",
+    "retrieved_sources": [
+      {
+        "source_file": "BAHÇEŞEHİR ÜNİVERSİTESİ ÇİFT ANADAL PROGRAMI YÖNERGESİ.pdf",
+        "article_no": "9 (bölüm 1)"
+      },
+      {
+        "source_file": "BAHÇEŞEHİR ÜNİVERSİTESİ ÇİFT ANADAL PROGRAMI YÖNERGESİ.pdf",
+        "article_no": "11 (bölüm 1)"
+      },
+      {
+        "source_file": "BAHÇEŞEHİR ÜNİVERSİTESİ ÇİFT ANADAL PROGRAMI YÖNERGESİ.pdf",
+        "article_no": "6"
+      },
+      {
+        "source_file": "BAHÇEŞEHİR ÜNİVERSİTESİ ÖN LİSANS VE LİSANS EĞİTİM-ÖĞRETİM VE SINAV YÖNETMELİĞİ.pdf",
+        "article_no": "35"
+      },
+      {
+        "source_file": "BAHÇEŞEHİR ÜNİVERSİTESİ ÇİFT ANADAL PROGRAMI YÖNERGESİ.pdf",
+        "article_no": "10 (bölüm 2)"
+      }
+    ]
+  },
+  {
+    "id": "c2",
+    "category": "comparative",
+    "query": "Ara sınav ile mazeret sınavı arasındaki fark nedir?",
+    "ground_truth_summary": "Ara sınav dönem içi düzenli sınav; mazeret sınavı kabul edilen bir mazeret nedeniyle girilemeyen sınav yerine yapılır.",
+    "answer": "Sağlanan resmi yönetmelik ve yönerge metinlerinde ara sınav ile mazeret sınavının tanımları ve aralarındaki farklar şu şekildedir:\n\n* **Ara Sınav:** Lisansüstü programlarda her ders için her yarıyıl en az bir yazılı ara sınav yapılması mecburidir ([Kaynak 2] BAHÇEŞEHİR ÜNİVERSİTESİ LİSANSÜSTÜ EĞİTİM VE ÖĞRETİM YÖNETMELİĞİ.pdf — Madde 45). Ara sınav değerlendirmeleri, sınav yapıldıktan sonra en geç iki hafta içerisinde öğrencilere ilan edilir ([Kaynak 2] BAHÇEŞEHİR ÜNİVERSİTESİ LİSANSÜSTÜ EĞİTİM VE ÖĞRETİM YÖNETMELİĞİ.pdf — Madde 45).\n* **Mazeret Sınavı:** Bağlı bulunduğu birimin yönetim kurulunca kabul edilen haklı ve geçerli bir sebeple sınavlara katılamayan öğrenciler için açılan bir sınav türüdür ([Kaynak 1] BAHÇEŞEHİR ÜNİVERSİTESİ SINAV YÖNERGESİ.pdf — Madde 9). Örneğin, mazeretleri kabul edilen öğrenciler ara sınavlar ile ilgili mazeret sınavlarına içinde bulunulan dönemin son haftasında dekanlık/müdürlükçe planlanan programa göre girerler ([Kaynak 1] BAHÇEŞEHİR ÜNİVERSİTESİ SINAV YÖNERGESİ.pdf — Madde 9).\n\n*(Not: Bu yanıt bilgilendirme amaçlıdır; kritik kararlar, tarihler veya uygunluk durumları için ilgili üniversite birimleriyle görüşerek doğrulama yapmanız önerilir.)*",
+    "retrieved_sources": [
+      {
+        "source_file": "BAHÇEŞEHİR ÜNİVERSİTESİ SINAV YÖNERGESİ.pdf",
+        "article_no": "9 (bölüm 1)"
+      },
+      {
+        "source_file": "BAHÇEŞEHİR ÜNİVERSİTESİ LİSANSÜSTÜ EĞİTİM VE ÖĞRETİM YÖNETMELİĞİ.pdf",
+        "article_no": "45 (bölüm 1)"
+      },
+      {
+        "source_file": "BAHÇEŞEHİR ÜNİVERSİTESİ ÖN LİSANS VE LİSANS EĞİTİM-ÖĞRETİM VE SINAV YÖNETMELİĞİ.pdf",
+        "article_no": "23"
+      },
+      {
+        "source_file": "BAHÇEŞEHİR ÜNİVERSİTESİ SINAV YÖNERGESİ.pdf",
+        "article_no": "23 (bölüm 16)"
+      },
+      {
+        "source_file": "BAHÇEŞEHİR ÜNİVERSİTESİ SINAV YÖNERGESİ.pdf",
+        "article_no": "4 (bölüm 1)"
+      }
+    ]
+  },
+  {
+    "id": "c3",
+    "category": "comparative",
+    "query": "Burs ile destek arasındaki fark nedir?",
+    "ground_truth_summary": "Tanımlar maddesinde burs ve destek ayrı ayrı tanımlanır (burs: öğrenim ücretine yapılan destek).",
+    "answer": "Bahçeşehir Üniversitesi Ön Lisans, Lisans, Lisansüstü Burs ve Destek Yönergesi kapsamında, doğrudan burs ile destek arasındaki farkın tanımı veya açıklaması yer almamaktadır. Sağlanan bağlamda yalnızca belirli burs ve destek türlerinin (örneğin spor başarı bursu veya nakdi destekler, BAU E-Spor burs veya desteği, konaklama/yemek/yurtdışı araştırma desteği gibi) koşulları ve işleyişleri açıklanmıştır.\n\n*(Hatırlatma: Bu yanıt bilgilendirme amaçlıdır; kritik kararlar ve resmi başvurular için ilgili üniversite birimleriyle görüşerek doğrulama yapmanız önerilir.)*",
+    "retrieved_sources": [
+      {
+        "source_file": "BAHÇEŞEHİR ÜNİVERSİTESİ ÖN LİSANS, LİSANS, LİSANSÜSTÜ BURS VE DESTEK YÖNERGESİ.pdf",
+        "article_no": "22 (bölüm 11)"
+      },
+      {
+        "source_file": "BAHÇEŞEHİR ÜNİVERSİTESİ ÖN LİSANS, LİSANS, LİSANSÜSTÜ BURS VE DESTEK YÖNERGESİ.pdf",
+        "article_no": "8 (bölüm 2)"
+      },
+      {
+        "source_file": "BAHÇEŞEHİR ÜNİVERSİTESİ ÖN LİSANS, LİSANS, LİSANSÜSTÜ BURS VE DESTEK YÖNERGESİ.pdf",
+        "article_no": "22 (bölüm 19)"
+      },
+      {
+        "source_file": "BAHÇEŞEHİR ÜNİVERSİTESİ ÖN LİSANS, LİSANS, LİSANSÜSTÜ BURS VE DESTEK YÖNERGESİ.pdf",
+        "article_no": "17 (bölüm 2)"
+      },
+      {
+        "source_file": "BAHÇEŞEHİR ÜNİVERSİTESİ ÖN LİSANS, LİSANS, LİSANSÜSTÜ BURS VE DESTEK YÖNERGESİ.pdf",
+        "article_no": "22 (bölüm 7)"
+      }
+    ]
+  }
+]

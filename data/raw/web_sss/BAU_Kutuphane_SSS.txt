@@ -1,0 +1,58 @@
+BAU Kütüphane Sıkça Sorulan Sorular (Üyelik, Ödünç Verme, Elektronik Kaynaklar, OpenAthens)
+
+SORU: Kütüphaneye nasıl üye olabilirim?
+CEVAP: Kütüphanemize yalnızca BAU mensupları (öğrenciler, akademisyenler ve idari personel) üye olabilir. Üyelik için öğrenci kartı veya personel kimlik kartı yeterlidir.
+
+SORU: Üye olduktan sonra hangi hizmetlerden yararlanabilirim?
+CEVAP: Kütüphaneye üye olduktan sonra kitap ve dergi ödünç alabilir, elektronik kaynaklara erişebilir, internet hizmetlerinden yararlanabilir, ders çalışma alanlarını kullanabilir ve araştırma yapabilirsiniz.
+
+SORU: Kitap ödünç almak için ne yapmalıyım?
+CEVAP: Web sayfamızda bulunan kütüphane katalog sistemi üzerinden arama yaparak istediğiniz kitapları bulabilir ve ödünç almak için ilgili kitapları raftan alabilirsiniz. Ödünç alma işlemi için öğrenci kartı veya personel kimlik kartınızı kullanmanız yeterlidir.
+
+SORU: Kitapları ne kadar süreyle ödünç alabilirim?
+CEVAP: Akademik personel, 30 gün süreyle 40 kitap, 3 gün süreyle 1 dergi ve 2 gün süreyle 1 multimedya öğesi ödünç alabilir. İdari personel, 30 gün süreyle 10 kitap, 3 gün süreyle 1 dergi ve 2 gün süreyle 1 multimedya öğesi ödünç alabilir. Lisans öğrencileri, 15 gün süreyle 10 kitap, 3 gün süreyle 1 dergi ve 2 gün süreyle 1 multimedya öğesi ödünç alabilir. Yüksek lisans öğrencileri, 30 gün süreyle 15 kitap, 3 gün süreyle 1 dergi ve 2 gün süreyle 1 multimedya öğesi ödünç alabilir. Doktora öğrencileri ise 30 gün süreyle 20 kitap, 3 gün süreyle 1 dergi ve 2 gün süreyle 1 multimedya öğesi ödünç alabilir.
+
+SORU: Kitapları nasıl uzatabilirim?
+CEVAP: Mail veya telefon ile iletişime geçerek, Kütüphane Hesabım üzerinden ya da kütüphane ödünç verme bankosundan uzatma işlemi yapabilirsiniz. İade tarihine 3 gün kala kitaplar için uzatma işlemi yapabilirsiniz. İade tarihi geçen kitaplar için uzatma yapılamaz ve her bir kitap için günlük 1,00 TL ceza uygulanır.
+
+SORU: Kütüphanede hangi tür kaynaklar mevcut?
+CEVAP: Kütüphanemizde, basılı kitaplar, dergiler, e-kitaplar, elektronik dergiler, multimedya kaynakları (DVD, CD vb.), araştırma veri tabanları ve diğer dijital kaynaklar gibi çeşitli materyaller bulunmaktadır.
+
+SORU: Kütüphanede bilgisayar kullanabilir miyim?
+CEVAP: Evet, kütüphanemizde bilgisayarınızı kullanabilirsiniz.
+
+SORU: Elektronik kaynaklara nasıl erişebilirim?
+CEVAP: Kütüphanemizin web sitesi üzerinden dijital kaynaklara erişebilir, araştırmalarınızı online veri tabanları ve e-kitaplar aracılığıyla yapabilirsiniz.
+
+SORU: Kayıp veya hasar gören kitaplar için ne yapmalıyım?
+CEVAP: Ödünç aldığınız kitaba zarar verdiyseniz veya kaybettiyseniz, ilgili kitabın yenisini kütüphaneye temin etmeniz gerekmektedir.
+
+SORU: Kitapları nasıl rezerve edebilirim?
+CEVAP: Rezerve işlemi yalnızca akademik personel tarafından talep edilebilir. Akademisyenler, rezerve edilmesini istedikleri kaynakların isimlerini, dersin adını ve kodunu, rezerve süresini ve yapılacak kütüphane bilgilerini içeren bir e-posta ile kütüphaneye başvurabilirler.
+
+SORU: Kütüphane nerede ve hangi saatlerde açık?
+CEVAP: Barbaros Kütüphanesi Hafta İçi 08.30–22.00, Hafta Sonu 10.00–22.00. Kuzey Kampüsü Kütüphanesi Hafta İçi 08.30–17.30, Hafta Sonu Kapalı. Hukuk Fakültesi Kütüphanesi Hafta İçi 08.30–17.30, Hafta Sonu Kapalı. Diş Hekimliği Fakültesi Kütüphanesi Hafta İçi 8.30–17.30, Hafta Sonu Kapalı. Göztepe Tıp Fakültesi Kütüphanesi Her Gün 8.30–24.00. Göztepe Medical Park Hastanesi Kütüphanesi Her Gün 7/24.
+
+SORU: Kütüphaneye hangi tür kitaplar bağışlanabilir?
+CEVAP: Kütüphanemize, orijinal ve fiziksel olarak hasar görmemiş tüm kitaplar bağış olarak kabul edilebilir. Bağış olarak alınan kitaplar, başka kurumlara da bağışlanabilir; bu durumun kabul edilmesi gerekmektedir.
+
+SORU: Kütüphanemizde yabancı dilde kitaplar mevcut mu?
+CEVAP: Kütüphanemizde birçok dilde kitap bulunmaktadır.
+
+SORU: Kütüphanede fotokopi veya yazıcı kullanabilir miyim?
+CEVAP: Kütüphanemizde fotokopi hizmeti verilmemektedir.
+
+SORU: Kütüphanede öğrenciler için özel imkanlar var mı?
+CEVAP: Kütüphanemizde asistan öğrenci olarak çalışma imkânı sunulmaktadır.
+
+SORU: E-kitaplar ve dijital kaynaklar ücretsiz mi?
+CEVAP: Kütüphane derlememizdeki tüm kaynaklar, BAU mensuplarına ücretsiz erişim imkânı sunmaktadır.
+
+SORU: Kütüphanede film veya DVD ödünç alabilir miyim?
+CEVAP: Elbette! Geniş bir film koleksiyonuna sahip kütüphanemizden multimedya ödünç alabilirsiniz.
+
+SORU: Kitaplarımı başkası ödünç alabilir mi?
+CEVAP: Ödünç işlemleri, kişi dışında başkası tarafından yapılmamaktadır.
+
+SORU: Kütüphaneye kampüs dışından nasıl bağlanabilirim?
+CEVAP: Kütüphanemizin elektronik kaynaklarına kampüs dışından OpenAthens ile erişebilirsiniz. Bunun için kütüphane web sayfasında yer alan E-Kaynaklar → Tüm Veritabanları bölümünden ilgili veri tabanını seçerek giriş yapabilirsiniz. Öğrenciler için: "BAU – Student / Öğrenci" seçeneğini seçiniz. Kullanıcı adı alanına, @bahcesehir.edu.tr uzantısı olmadan yalnızca ad.soyad bilginizi giriniz. Şifre alanına UMIS şifrenizi yazınız. Akademik ve idari personel için: "BAU – Academic / Akademik" seçeneğini seçiniz. Kullanıcı adı alanına, @bau.edu.tr uzantısı olmadan yalnızca ad.soyad bilginizi giriniz. Şifre alanına ofis bilgisayarı şifrenizi yazınız.

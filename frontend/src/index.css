@@ -1,0 +1,30 @@
+:root {
+  --navy-deep: #0a1a35;
+  --navy: #123a6b;
+  --royal: #1e4d9b;
+  --gold: #cda36a;
+  --ivory: #f3f1ea;
+  --font-serif: ui-serif, Georgia, "Times New Roman", serif;
+  --font-sans: -apple-system, BlinkMacSystemFont, "Segoe UI", sans-serif;
+
+  color-scheme: dark;
+  font-family: var(--font-sans);
+}
+
+* {
+  box-sizing: border-box;
+}
+
+html,
+body,
+#root {
+  margin: 0;
+  padding: 0;
+  width: 100%;
+  height: 100%;
+  background: var(--navy-deep);
+}
+
+body {
+  overflow: hidden;
+}

@@ -1,0 +1,75 @@
+Staj-İşletme Mühendisliği
+İşletme Mühendisliği - Staj
+Staj başvurusunda izlenecek adımlar ve gerekli belgeleri indirmek için
+tıklayın
+.
+ENM3995 Staj Raporunu indirmek için
+tıklayın
+.
+ENM4995 Staj Raporunu indirmek için
+tıklayın
+[CG3]
+.
+İŞLETME MÜHENDİSLİĞİ STAJ YÖNERGESİ
+1. Staj Tanımı
+Staj, mühendislik lisans programında alınan mühendislik bilgilerinin çalışma hayatında uygulanışını gözlemlemek için tasarlanmış bir uygulama çalışmasıdır. Stajlar, özel işyerlerinde bölümler tarafından uygun görülen zamanlarda, sürelerde ve konularda yapılır.
+2. Stajın Amacı
+Mühendislik eğitimi boyunca yapılacak stajlar, öğrencilerin ilgi alanlarını keşfetmelerine, iş hayatına hazırlanmalarına ve öğrenilen teorik bilgileri uygulamaya geçirmelerine yardımcı olur.
+· İlgi alanlarını keşfetme: Stajlar, öğrencilere farklı mühendislik alanları hakkında bilgi edinme ve ilgi alanlarına uygun bir kariyer seçmesine yardımcı olur.
+· İş hayatına hazırlanma: Stajlar, öğrencilere gerçek bir iş ortamında çalışma deneyimi kazandırır ve iş yerindeki davranış, iletişim ve problem çözme becerilerini geliştirmelerine yardımcı olur.
+· Öğrenilen teorik bilgileri uygulamaya geçirme: Stajlar, öğrencilere öğrenilen teorik bilgileri uygulama fırsatı verir ve bu sayede bilgilerini pekiştirmelerine yardımcı olur.
+3. Staj Tarihleri ve Süreleri
+Staj; dördüncü yarıyıldan sonra, akademik tatillerde, herbiri en az 20 iş günü süreli iki dönemde yapılır. Staj yapacak öğrencinin haftalık ders programında 3 günü tamamen boş olmalıdır. Online olarak uzaktan yürütülen dersler de programda doluluk teşkil ettiği için bu günler resmi olarak staj yapılabilecek iş günü olarak kabul edilememektedir. Bu noktada sadece Capstone derslerinin bulunduğu günlerde öğrencinin Capstone dışında bir dersi yoksa o günler staj yapılabilecek iş günü olarak kabul edilmektedir. Firma Cumartesi günleri de çalışıyorsaa bu günler de iş günü olarak kabul edilir. Her staj dönemi farklı bir işletmede tamamlanmak zorundadır.
+ENM3995 stajının mutlaka üretim süreci olan bir firmada tamamlanması gerekmektedir. Öğrenci üretim sürecinde bulunabilmeli ve çeşitli üretim süreçlerini yakından görebilmelidir. ENM3995 stajının yapılabileceği departmanlar; Üretim, Üretim Planlama, ARGE, Satın Alma, Kalite, Satış Sonrası Destek, Lojistik/Tedarik Zinciri ve benzer departmanlar olarak tanımlanmıştır. Öğrenciler mutlaka üretimin gerçekleştiği yerleşkede stajını yapmak durumundadırlar. Bu durum bir örnekle açıklanacak olursa; firmanın üretim yaptığı yer Tuzla'da, satış ofisi Halkalı'da ise bu durumda öğrencinin 20 iş günü olan tüm staj sürecini firmanın üretim yaptığı yerde yani Tuzla'da geçirmesi gerekir.
+ENM4995 stajında üretim firması şartı aranmaz, fakat öğrencilerin İşletme Mühendisliği uygulamaları gözlemleyecekleri firmalarda staj yapmaları teşvik edilir. Her staj bir ders olarak değerlendirilir ve öğrencinin not belgesinde, stajın yapıldığı tarihi izleyen yarıyıl programında, bir ders koduyla gösterilir. Öğrenci bu dersi almak zorundadır. Bu dersler için ilgili yönetmeliğe uygun olarak başarılı / başarısız (satisfactory / unsatisfactory) notlarından biri verilir.
+4. Staj Yeri Temini ve Staj Başvurusu
+Öğrenciler, bölüm tarafından onaylanan işyerlerinde staj yapabilirler. Staj yapılacak işletmede kapsamlı İşletme mühendisliği uygulamaları yapılması gerekmektedir. Bu sebele, Çok küçük işletmeler, kamu kuruluşları, staj yapacak kişinin kendi aile şirketi ve start-up’lar staj yeri olarak kabul edilmemektedir.
+Öğrenci staja başlamadan önce bölüm web sayfasından “Staj Başvuru Belgesi” ve “Staj Sicil Belgesi” almalıdır. Firma tarafından istenilirse bölüm staj sorumlusundan “Staj Zorunluluk Belgesi” de alabilir.
+İlgili kurum, staj başlamadan önce, öğrencinin “Staj Başvuru Belgesi”ni doldurup onaylamalıdır. “Staj Başvuru Belgesi” yerine, öğrencinin staj yapacağı kurumdan alacağı, kurumun antetli kağıdına onaylı, şirket bilgilerini içeren, staj yapılacak bölümü ve yapılacak işi açıklayan yazı da yeterli olur. “Staj Başvuru Belgesi”nin aslı bölüm staj sorumlusuna onaylatılıp bir kopyası elektronik ortamda veya elden bölüm staj sorumlusuna teslim edilmelidir. Mali işler ofisinde izlenecek adımlar https://www.bau.edu.tr/icerik/3208-personel-daire-baskanligi-staj-yonergesi adresinden takip edilmelidir. Öğrenci, mali işler ofisinde gerekli işlemleri yaptırdıktan sonra staja başlayabilir. İşlemleri tamamlanmamış stajlar kabul edilmez.
+5. Staj Çalışması
+Staj yeri belli olan her öğrenci, aldığı “Öğrenci Staj Sicil Belgesi”ni staj yaptığı firmadaki staj danışmanına iletir. Bu belge, staj tamamlandıktan sonra staj danışmanı tarafından onaylanıp, kapalı bir zarf içinde öğrenciye verilir. Öğrenci bu zarfı staj defteriyle birlikte bölüm staj sorumlusuna teslim eder.
+Öğrenci staj kılavuzu doğrultusunda staj çalışmalarını sürdürür ve staj defterini staj kılavuzundaki soruları cevaplayarak hazırlar. Staj kılavuzu bölüm web sayfasından temin edilmelidir. Bölüm, gerektiğinde, staj yerlerinde öğrencilerin çalışmalarını ve devamlılıklarını denetler. Stajını tamamlayan öğrenci, stajı izleyen dönemin başından itibaren staj sorumlusunun yapacağı duyurulara uygun olarak en geç bir ay içinde, bu yönerge ekinde belirtilen biçimde hazırlanmış staj defterinin dijital (“.doc” formatında) ve ciltli birer kopyasını staj dersinin itslearning sayfası üzerinden ve belirtilen tarihlere uygun olacak şekilde teslim eder. Staj
+defterini zamanında teslim etmeyen öğrencilerin stajı başarısız sayılır. Staj dersini alan öğrenciler, staj sorumlusunun yapacağı duyuruları takip etmekle yükümlüdür.
+6. Staj Değerlendirmesi
+Staj defteri, bölüm staj sorumlusu tarafından bölüm staj komisyonuna iletilir. Staj değerlendirmesi iki aşamadan oluşur.
+Birinci aşamada stajın geçerli ve başarılı olup olmadığı saptanır. Staj yapılan işyerinin uygun olmaması, Staj Sicil Formu’nda öğrenciye verilen notların ortalamasının 3.00/5.00’dan düşük olması, staj süresince yeterli çalışma yapılmaması veya yapıldığı belirtilen çalışmaların staj danışmanı tarafından onaylanmamış olması durumlarında staj başarısız olarak değerlendirilir. Bu durumda staj raporu değerlendirmeye alınmaz.
+İkinci aşamada, geçerli staja ilişkin rapor değerlendirilir. Bölüm Staj Komisyonu, biçim ve içerik olarak incelediği raporu kabul eder, ya da düzeltme ister. Staj raporu için düzeltme istenmesi durumunda, öğrenci bir ay içinde düzeltilmiş staj raporunu bölüme teslim etmek zorundadır. Staj raporunun kabul edilmesi durumunda staj başarılı; düzeltme istenen raporun zamanında teslim edilmemesi veya ikinci kez reddedilmesi durumunda ise staj başarısız sayılır.
+7. Özel Koşullar
+Beklemeli öğrenciler, son sınıf öğrencileri ve yaz okulundan ders alan öğrenciler, öğrenci işlerinden veya danışmanlarından onaylı ders programları ile başvurmaları durumunda,
+en az  üç tam iş günü serbest olmak koşulu ile
+, akademik yıl içerisinde staj çalışması yapabilirler.
+İlgili öğretim üyesi ve Bölüm Staj Komisyonu’nun uygun görmesi durumunda, üniversite laboratuvarlarında ya da uygulama merkezlerinde yapılan, süre ve kapsam koşullarını sağlayan çalışmalar, bir dönem stajı olarak kabul edilir.
+Çift anadal programı kapsamında olan öğrenciler, ikinci dalları ile ilgili en az bir ek staj yapmak zorundadırlar.
+Öğrencilerin
+hem üretim hem de yönetim stajı yapması zorunluluğu vardır
+ancak bunlar içerisinde
+bir öncelik sırası yoktur
+. Bu durumda
+Üretim Stajı (Staj 1-Enm3995)
+yapılmadan ilk olarak Yönetim Stajı (Staj2-Enm4995) yapılabilir.
+Tersi durumda ilk olarak
+Üretim Stajı (Staj 1-Enm3995)
+yapılıp sonrasında
+Yönetim
+Stajı da (Staj2-Enm4995) yapılabilir.
+İkinci stajını aynı şirkette yapacak öğrenciler bu stajı
+mutlaka farklı bir departmanda
+yapmak zorundadırlar.
+Öğrencilerin SGK’ları okul tarafından karşılanmaktadır. Eğer öğrencinin SGK’sı şirket tarafından karşılanıyorsa, bu durum şirket tarafından yazılmış bir yazıyla okula bildirilmelidir.
+Şirket eğer Cumartesi günleri de çalışıyor ve staj yapan öğrenci bu günü de stajının zorunlu iş günü sayısına saydırmak istiyorsa, şirket bunu resmi bir yazıyla okula bildirmelidir.
+Staj yapacak öğrencinin 4. Dönem derslerini bitirmiş olması gerekmektedir. Aksi takdirde yaptığı staj zorunlu stajına sayılmayacaktır.
+Staj belgelerinin değerlendirilmesinde ve stajlardan muaf tutulma işlemlerinde, yukarıda açıklanan hususların dışında kalan durumlarda İşletme Mühendisliği Staj Komisyonu yetkilidir.
+Öğrencilerin
+geriye dönük olarak tamamlamış
+olduğu stajlar zorunlu staja saydırılamamaktadır. Bu sebeple öğrencilerin gönüllü olarak yaptıkları stajları saydırmak için talepte bulunmaması gerekir.
+Öğrenciler tamamlamış oldukları
+z
+orunlu staj raporlarını
+o dönem içerisinde teslim için yetiştiremezlerse, stajın tamamlandığı dönemi takip eden 2 dönem boyunca staj raporlarını yükleme haklarına sahiptir. Stajın tamamlanmasını
+takip eden 3. dönemden itibaren zaman aşımı
+söz konusu olacağı için, bu tarihten itibaren
+raporlar kabul edilmeyecek ve yapılan staj geçersiz
+sayılacak ve öğrencilerden stajı tekrar yapmaları istenecektir.
+STAJ KOMİSYONU
+ENM3995 Staj Koordinatörü: Doç. Dr. Çağlar Sivri
+ENM4995 Staj Koordinatörü: Dr. Öğr. Üyesi Cihangir GÜMÜŞTAŞ

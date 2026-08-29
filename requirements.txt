@@ -1,0 +1,37 @@
+# --- Backend framework ---
+fastapi==0.115.6
+uvicorn[standard]==0.34.0
+pydantic==2.10.4
+pydantic-settings==2.7.1
+python-dotenv==1.0.1
+
+# --- LLM (Gemini) ---
+langchain-google-genai==2.0.8
+google-generativeai==0.8.3
+
+# --- Dense retrieval (embeddings + exact cosine-similarity search via numpy) ---
+sentence-transformers==3.3.1
+
+# --- Sparse retrieval ---
+rank-bm25==0.2.2
+
+# --- Reranking (cross-encoder ships with sentence-transformers) ---
+# cross-encoder/mmarco-mMiniLMv2-L12-H384-v1 loaded via sentence_transformers.CrossEncoder
+
+# --- Chunking ---
+langchain-text-splitters==0.3.8
+
+# --- Document parsing ---
+pypdf==5.1.0
+python-docx==1.1.2
+
+# --- Web scraping (FAQ pages for web_sss category) ---
+beautifulsoup4==4.12.3
+
+# --- Utilities ---
+numpy==1.26.4
+tqdm==4.67.1
+
+# --- Dev / testing ---
+pytest==8.3.4
+httpx==0.28.1

@@ -1,0 +1,96 @@
+Zorunlu Staj
+BAU MEKATRONİK STAJ
+Sayfadaki bilgiler Mekatronik Mühendisliği öğrencilerinin mezuniyeti için gerekli olan MCH3995 ve MCH4993 kodlu zorunlu yaz stajı derslerindeki süreçleri açıklamak için hazırlanmıştır. Sayfadaki bilgiler Bahçeşehir Üniversitesi Senatosunun 04.03.2021 tarih 2021/06/03 sayılı “
+Bahçeşehir Üniversitesi Mühendislik ve Doğa Bilimleri Fakültesi Mimarlık Fakültesi Staj Yönergesi
+” esas alınarak hazırlanmıştır.
+Tüm Mekatronik Mühendisliği öğrencileri lisans programı eğitimi süresince her biri EN AZ 20 iş günü olmak üzere toplam 40 iş günü iki zorunlu staj yapmak zorundadır. Öğrencilerimiz ilk stajını en erken 2. sınıf derslerini aldıktan sonra, ikinci stajını ise en erken 3. sınıf derslerini aldıktan sonra yapabilirler.
+Stajda izlenecek adımlar aşağıdaki akış diyagramında
+özet olarak gösterilmiştir
+(Her iki staj için de aynı adımlar uygulanacaktır). Detaylar ve sıkça sorulan sorular (SSS) için mutlaka bu sayfadaki alt başlıkları okuyunuz.
+Staj için gerekli olan Form ve web adresleri
+0)
+BAU Mekatronik Mühendisliği Staj Tanıtım Mektubu (STF-0)
+1)
+Staj Başvuru Formu (STF-1)
+2)
+Zorunlu Staj Formunu (STF-2)
+3)
+BAU İnsan Kaynakları Daire Başkanlığı - Staj Yönergesi web sitesi
+4)
+Staj Sicil Formu
+5)
+Staj Raporu
+Mekatronik Mühendisliği bölümü staj sorumlusu Öğr. Gör. Sinan YİĞİT’tir. Staj ile ilgili tüm yazışmalar aşağıdaki e-mail üzerinden yapılacaktır. Bu e-mail adresi haricinde staj ile ilgili gelen mesajlara yanıt verilemeyecektir. MCH staj emaili “
+[email protected]
+”. Yazışmalarda resmî Bahçeşehir Üniversitesi e-mail adresinizi kullanmanız
+gerekmektedir
+.
+Maillerin cevaplanma süresi azami 3 iş günüdür. Lütfen bu süre zarfında aynı konuyla ilgili tekrardan mail atmayınız yapılacak dönüşü bekleyiniz.
+Yaz Stajı Genel Esasları:
+Mekatronik Mühendisliği Bölümü zorunlu yaz stajı derslerinde (MCH3995 Yaz Stajı-I ve MCH4995 Yaz Stajı-II) aşağıdaki genel esaslara uyulmalıdır:
+1- Mekatronik Mühendisliği bölümünde kayıtlı her öğrencinin 20’ şer günlük iki ayrı staj (toplamda 40 gün) yapması ve MCH3995 Yaz Stajı-I ile MCH4995 Yaz Stajı-II derslerinden başarılı olması (“S” notu alması) mezuniyet için zorunludur.
+2- Öğrencilerimiz ilk stajını en erken 2. Sınıf derslerini aldıktan sonra, ikinci stajını ise en erken 3. Sınıf derslerini aldıktan sonra yapabilirler.
+3- Öğrenci staj yapacağı tarih aralığını belirlerken mevcut akademik takvimi göz önünde bulundurmalıdır. Stajların akademik tatil dönemlerinde (bahar dönemi sonrası veya güz dönemi sonrası eğitim-öğretime verilen arada) yapılması esastır.
+4- Mezuniyet durumunda olan öğrenciler (mezuniyeti için son iki dönemi kalan) derslerin ve sınavların olduğu dönemlerde haftalık ders programlarında en az 3 iş günü boş olması durumunda staj yapabilirler. Bunun için öğrencinin haftalık ders programında en az 3 iş günü hiç dersinin olmaması gerekmektedir. Online olan dersler de yüz yüze yapılan dersler şeklinde değerlendirilir. Staj yapılacak firmanın resmi beyan yazısı doğrultusunda cumartesi günü çalışma yapan kurumlar da staj yapacak öğrenciler için, cumartesi günü de iş günü olarak kabul edilmektedir. Zorunlu staj sadece belirtilen boş günlerde yapılabilir.
+5- Resmî tatiller ve bayramlar staj iş günü olarak kabul edilmemektedir.
+6- Staj yapılacak firma öğrenci tarafından tespit edilir. Staj yapılacak birimde Mekatronik Mühendisliği ile ilgili süreçlerden en az biri mevcut olmalıdır. Örneğin üretim, otomasyon, robotik, çeşitli mekanik sistemler, donanımlara ilişkin kalite kontrol, yazılım-elektronik (gömülü sistemler) gibi teknik alanları içeren birimler staj için uygundur. İnsan kaynakları, satın alma, satış departmanı, muhasebe, idari işler, süreçlerin kalite kontrolü, yönetim ofisi gibi birimler ise uygun değildir.
+7- Stajın yapılacağı firmada alanı mekatronik, makine, elektrik-elektronik veya kontrol mühendisliği olacak şekilde en az iki tam zamanlı mühendis bulunmalıdır.
+8- Aynı firmada iki stajın yapılmasına izin verilmemektedir fakat istisnaları vardır. Ayrıntılar için SSS kısmına bakınız.
+9- Staj yapılacak firmanın yurt içi veya yurt dışında olmasından bağımsız olarak staj süresince sigorta yaptırılması kanuni zorunluluktur. Sigortasız yapılan stajlar geçerli sayılmayacaktır. Staj sigorta işlemleri BAU İnsan Kaynakları Daire Başkanlığı tarafından yürütülmektedir. Sigorta işlemleri staj başlangıç tarihinden en erken 1 ay, en geç üç gün önce yapılabilmektedir. Lütfen
+https://bau.edu.tr/icerik/3208-insan-kaynaklari-daire-baskanligi-staj-yonergesi
+adresine gidiniz.
+10- Staj yapılacak firma öğrencinin 1. derece akrabasına ait olamaz.
+Staj Başvurusunda İzlenecek Adımlar:
+1- Öğrenci, Genel Esaslar’ da belirtilen kriterlere uygun olacak şekilde staj yapacağı firmayı ve staj tarihlerini belirler.
+Öğrenci firmanın stajının zorunlu olduğuna dair yazı istemesi durumunda “BAU Mekatronik Mühendisliği Staj Tanıtım Mektubu (STF-0)” nu çıktı olarak alıp verebilir.
+2- Öğrenci, Staj Başvuru Formunu (STF-1) elektronik ortamda herhangi bir pdf okuyucu programı ile doldurulabilir (form elektronik ortamda doldurulabilecek şekilde hazırlanmış özel bir formdur. Text kısımlarına sadece text, sayı kısımlarına sadece sayı girilebilir, tarihleri ilgili alanın sağında açılan pull-down menüden seçiniz). Form doldurulduktan sonra çıktısı alınır ve firmaya onaylatılır.
+3- Staj Başvuru formunda belirtilen staj tarihlere sadık olacak şekilde Zorunlu Staj Formunu (STF-2) da elektronik ortamda herhangi bir pdf okuyucu programı ile doldurulur (form elektronik ortamda doldurulabilecek şekilde hazırlanmış özel bir formdur. Text kısımlarına sadece text, sayı kısımlarına sadece sayı girilebilir, tarihleri ilgili alanın sağında açılan pull-down menüden seçiniz).
+Bu iki formu
+STF-1 ve STF-2 (resmini değil, bilgisayarda doldurulmuş hali)
+MCH bölüm staj koordinatörüne (
+[email protected]
+) e-mail ile gönderilir. Staj koordinatörü başvurunuz ile ilgili size geri bildirimde bulunur. **Belgelerin staj başlangıcından en az 3 iş günü öncesinden gönderilmesi gerekmektedir. Uygun görülen başvurular için aşağıdaki adımlar takip edilmelidir. Başvurusu kabul edilmeyen öğrenciler koordinatörün önerileri doğrultusunda başvurularını güncellerler.
+4- Öğrenci staj sigortasını yaptırır. Staj sigorta işlemleri BAU İnsan Kaynakları Daire Başkanlığı tarafından yürütülmektedir. Sigorta işlemleri staj başlangıç tarihinden en erken 1 ay, en geç üç gün önce yapılabilmektedir. Lütfen
+https://bau.edu.tr/icerik/3208-insan-kaynaklari-daire-baskanligi-staj-yonergesi
+adresine gidiniz ve oradaki tüm adımları tamamlayınız.
+Staj Sırasında İzlenecek Adımlar:
+1- Öğrencinin staj boyunca Mekatronik Mühendisliği Bölümü' ne ait Staj Raporu' nu, aynı raporda yer alan "Format Requirements" başlığı altındaki kriterlere uyacak şekilde bilgisayar kullanarak doldurması gerekmektedir. Staj raporu “günlük raporlar” ve “genel rapor” (Introduction, About the Company, Practical Training ve Conclusion kısımları) olmak üzere iki temel bölümden oluşmaktadır.
+2- Staj sonunda ilgili firmadaki staj sorumlusu öğrencinin bilgisayar üzerinde doldurarak çıktısını aldığı ve ciltli hale getirdiği staj raporunu kontrol eder, sonuç olarak rapor içeriğini onaylar (günlük ve genel raporların yazıldığı kısımları imzalar ve firma kaşesi ile mühürler) veya düzeltme ister.
+3- İlgili firmadaki staj sorumlusu staj raporunu onayladıktan sonra stajyer öğrenci tarafından kendisine (üzerine öğrencinin bir fotoğrafı yapıştırılmış halde) verilecek olan Staj Sicil Formu’ nu doldurarak öğrencinin staj çalışmasını değerlendirir. Firma staj sorumlusu staj sicil belgesini imzalayıp, firma kaşesi ile mühürledikten sonra kapalı zarf içerisinde öğrenciye teslim eder.
+Staj Sonrasında İzlenecek Adımlar:
+1-   Akademik tatil dönemleri (yaz veya kış) içerisinde yapılan stajlar için staj çalışmasının yapıldığı tarihleri izleyen ilk akademik dönem içerisindeki ders seçim haftasında öğrenci MCH3995 Yaz Stajı I ya da MCH4995 Yaz Stajı II derslerinden birini veya her ikisini seçer. Eğer staj dönem içi -güz veya bahar ders döneminde- yapılacaksa stajın yapılacağı döneme ait ders seçim haftasında staj derslerini seçer.
+2-     Öğrenci; formata uygun olarak doldurmuş olduğu ve firma staj sorumlusu tarafından onaylanmış staj başvuru belgesini, staj raporunu, sicil formunu ve gerekli olan diğer evrakları Itslearning siteminde ilan edilmiş teslim şekline göre staj komisyonuna ilgili akademik dönem içerisinde, staj dersinin alındığı akademik dönemin 4. haftasının sonuna kadar teslim eder.
+3-    Raporlar bölüm staj komitesi tarafından değerlendirilir. Değerlendirme sonucunda staj raporu içerik bakımından uygun görülen, ayrıca başvuru, sicil formlarını ve istenen diğer evrakları zamanında teslim etmiş olan öğrenci dönemin sonunda staj dersinden başarılı sayılır ("S" notu alır).
+4- Değerlendirme sonucunda içerik bakımından yeterli görülmeyen raporlar öğrencilere bildirilir ve gerekli düzeltmeler için 2 hafta verilir. Düzeltme sonrasında staj raporu içerik yönünden uygun görülmeyen öğrenciye aynı staj raporu için ikinci bir düzeltme hakkı verilmez. Bu durumda öğrenci dönem sonunda staj dersinden başarısız sayılır ("U" notu alır) ve stajı farklı bir firmada tekrarlamak zorundadır.
+5- Staj raporu içerik bakımından uygun görülmüş olup, başvuru/sicil formlarından herhangi biri veya her ikisi eksik olan öğrenci dönem sonunda staj dersinden başarısız sayılır ("U" notu alır). Bu durumdaki bir öğrenci eksik olan belgelerini tamamladığı takdirde takip eden dönem içerisinde ilgili staj dersini tekrar seçerek staj raporunun tekrar değerlendirilmesini isteyebilir. Bu hak, yapılan bir staj için yalnızca bir defaya mahsus olarak verilir.
+6- Tamamlanmış olan bir staja ait raporun teslim edilmesi için zaman aşımı süresi, stajın bitiş tarihini takip eden günden başlamak üzere, iki akademik dönemdir. Bu süre aşıldıktan sonra staj raporu teslim edilmiş olsa bile, kesinlikle değerlendirmeye alınmaz (Stajı takip eden 3. dönemde teslim edilen staj değerlendirmeye alınmayacaktır.).
+Sıkça Sorulan Sorular:
+Staja başlama öncesi
+- Bahar dönemi sonunda birinci sınıfı (2. dönem sonu) bitirdim. Zorunlu stajımı yaz ara döneminde yapabilir miyim?
+Hayır yapamazsınız. Öğrencilerimiz ilk stajını en erken 2. sınıf derslerini aldıktan sonra (4. dönem), ikinci stajını ise en erken 3. Sınıf derslerini aldıktan sonra yapabilirler.
+- Irregular öğrenciyim (1. sınıfa Bahar dönemi başlayan öğrenciler). Bahar dönemi sonunda birinci dönemimi bitirdim. Zorunlu stajımı yaz ara döneminde yapabilir miyim?
+Hayır yapamazsınız. Irregular öğrenciler en erken 3. dönemin sonunda ilk stajını, 5. dönemin sonunda da ikinci stajlarına başlayabilirler.
+- Daha önce staj yaptığım yerde ikinci stajımı yapabilir miyim?
+Zorunlu stajı öğrencilerimizin gerçek hayat deneyimlerini tanımak için çok önemli bir fırsat olarak görmekteyiz. Stajda kazanılan deneyimlerin ve bilgilerin öğrencilerimize gerçek iş yaşamında önemli katkı sağladığını önceki tecrübelerimizden gözlemlemekteyiz. Bu katkının fazla olabilmesi için öğrencilerimizin farklı firmalarda deneyim kazanmanızı arzuluyoruz. Bu nedenlerle ilke olarak öğrencilerimizin küçük ve orta ölçekli firmalarda iki zorunlu stajını yapmasını uygun bulmuyoruz.
+Fakat büyük ölçekli firmaların (örnek vermek gerekirse; Arçelik, Vestel, Beko, Mercedes-Benz, Fiat, Renault, THY Teknik, Aselsan, vb.) farklı departmanların her birinin nitelik ve nicelik olarak bağımsız bir firmaya eşit olmasından dolayı öğrenciler isterlerse iki zorunlu stajını büyük firmaların farklı departmanlarında bölüm staj koordinatöründen onay almak şartıyla yapabilirler.
+İki staj da farklı firmalarda yapılacaksa birimler aynı (örneğin ikisi de üretim birimi) olabilir. Fakat her iki staj da aynı firmada yapılacaksa birimler farklı (örneğin birisi üretim, diğeri kalite kontrol birimi) olmak zorundadır.
+-
+Staj eposta defalarca mesaj attım ama cevap gelmedi ne yapmalıyım?
+Yukarıda belirtilen doğru eposta adresine mesaj attığınızdan eminseniz belirtilen azami sürenin dolmasını beklemelisiniz(3 iş günü). Ayrıca aynı konu için kısa sürelerde birden çok mail atmamaya özen göstermelisiniz. Bu durumlar dışında yukarıda belirtilen staj koordinatörü ile iletişime geçebilirsiniz.
+Staj Sigortası
+- Firma staj sigortasını Bahçeşehir Üniversitesinin karşılayıp karşılamadığını soruyor.
+Bahçeşehir Üniversitesi, staj yapacak tüm öğrencilerinin staj yaptıkları tarihlerdeki staj sigortasını karşılamaktadır.
+- Yabancı öğrenciyim, zorunlu staj esnasında ben de sigorta yaptırmak zorunda mıyım?
+Evet sigorta yaptırmalısınız. Staj yapan tüm öğrencilerimiz, uyruğuna ve staj yerinin Türkiye de veya Yurtdışında olmasına bakılmaksızın sigorta olması Yasal bir zorunluluktur.
+- Staj yapacağım firma yurt dışında, staj esnasında ben de sigorta yaptırmak zorunda mıyım?
+Evet sigorta yaptırmalısınız. Staj yapan tüm öğrencilerimiz, uyruğuna ve staj yerinin Türkiye de veya Yurtdışında olmasına bakılmaksızın sigorta olması Yasal bir zorunluluktur.
+- SGK işe giriş bildirgesini aldıktan sonra staj tarihlerinde herhangi bir değişiklik olduğu takdirde ne yapmalıyım?
+Bu değişikliği gösterir yeni şirket yazısı ile tekrar BAU İnsan Kaynakları Daire Başkanlığı'na başvurması gerekecektir.
+- Benim daha önceden başlatılmış ve zaten düzenli yatırılan sigortam var. Ben de staj sigortası yaptıracak mıyım?
+Daha önceden başlatılmış ve zaten düzenli yatırılan sigortası olan öğrenciler de İnsan Kaynakları Daire Başkanlığına staj sigortası için başvurmak zorundadır.
+- Kendimi geliştirmek için gönüllü staj yapmak istiyorum, staj sigortamı Bahçeşehir Üniversitesi karşılar mı?
+BAU İnsan Kaynakları Daire Başkanlığı, iki zorunlu stajdan daha fazla staj yapmak isteyen öğrencilerin bütün staj sigortalarını yapmaktadır. Örneğin, eğitimi boyunca 4 staj yapan öğrencinin 4 stajı da okul tarafından sigortalanmaktadır; fakat sadece bölümün onayladıkları içinden iki stajı zorunlu staja sayılmaktadır.
+- Kendimi geliştirmek için gönüllü staj yapmak istiyorum, ne yapmam lazım
+Staj formları içinden “Staj Başvuru Formu (STF-1)” nu doldurup, onaylatın ve ek olarak “Zorunlu Staj Formunu (STF-2)“ doldurunuz. Gönüllü staj yapmak istediğinizi ve iki formu bölüm staj e-mail adresine gönderiniz. Staj koordinatörü geri kalan adımlarda sizi yönlendirecektir.
+-  Stajımı yaptım şimdi ne yapacağım
+Yukardaki “Staj Sonrasında İzlenecek Adımlar” başlığındaki adımları izleyiniz.

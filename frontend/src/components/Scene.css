@@ -1,0 +1,89 @@
+.scene {
+  position: absolute;
+  inset: 0;
+  overflow: hidden;
+  perspective: 1400px;
+  pointer-events: none;
+  z-index: 0;
+}
+
+.scene-inner {
+  position: absolute;
+  inset: 0;
+  transform-style: preserve-3d;
+  transform: rotateY(calc(var(--mx, 0) * 14deg)) rotateX(calc(var(--my, 0) * -14deg));
+  transition: transform 0.2s cubic-bezier(0.2, 0.8, 0.2, 1);
+}
+
+.layer {
+  position: absolute;
+  inset: -8%;
+  width: 116%;
+  height: 116%;
+  transition: transform 0.25s cubic-bezier(0.2, 0.8, 0.2, 1);
+}
+
+.layer-glow {
+  background: radial-gradient(ellipse 55% 40% at 78% 86%, rgba(205, 163, 106, 0.16), transparent 70%);
+  transform: translate3d(calc(var(--mx, 0) * 20px), calc(var(--my, 0) * 12px), 0);
+}
+
+.layer-skyline {
+  opacity: 0.5;
+  transform: translate3d(calc(var(--mx, 0) * 30px), calc(var(--my, 0) * 15px), 0);
+}
+
+.layer-bridge {
+  opacity: 0.45;
+  transform: translate3d(calc(var(--mx, 0) * 44px), calc(var(--my, 0) * 20px), 0);
+}
+
+.layer-water {
+  transform: translate3d(calc(var(--mx, 0) * 52px), calc(var(--my, 0) * 20px), 0);
+}
+
+.reflection {
+  opacity: 0.18;
+  animation: shimmer 4s ease-in-out infinite;
+}
+@keyframes shimmer {
+  0%, 100% { opacity: 0.1; transform: translateX(0); }
+  50% { opacity: 0.4; transform: translateX(10px); }
+}
+
+.layer-tower {
+  transform: translate3d(calc(var(--mx, 0) * 70px), calc(var(--my, 0) * 30px), 0);
+}
+
+.tower-window {
+  fill: rgba(159, 179, 209, 0.12);
+}
+.tower-window.lit {
+  fill: rgba(227, 203, 160, 0.85);
+  animation: twinkle 4s ease-in-out infinite;
+}
+@keyframes twinkle {
+  0%, 100% { opacity: 0.85; }
+  50% { opacity: 0.35; }
+}
+
+.beacon {
+  animation: beaconPulse 2.4s ease-in-out infinite;
+}
+@keyframes beaconPulse {
+  0%, 100% { opacity: 1; }
+  50% { opacity: 0.3; }
+}
+
+@media (prefers-reduced-motion: reduce) {
+  .scene-inner,
+  .layer {
+    transition: none;
+    transform: none !important;
+  }
+  .reflection,
+  .tower-window.lit,
+  .beacon {
+    animation: none;
+  }
+}

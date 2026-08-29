@@ -1,0 +1,18 @@
+.stage {
+  position: relative;
+  width: 100vw;
+  height: 100dvh;
+  overflow: hidden;
+  background: radial-gradient(ellipse at 50% 40%, var(--navy) 0%, var(--navy-deep) 72%);
+}
+
+.grain {
+  position: absolute;
+  inset: 0;
+  opacity: 0.05;
+  pointer-events: none;
+  background-image: radial-gradient(circle at 20% 30%, #ffffff 0.5px, transparent 0.5px),
+    radial-gradient(circle at 70% 65%, #ffffff 0.5px, transparent 0.5px),
+    radial-gradient(circle at 45% 80%, #ffffff 0.5px, transparent 0.5px);
+  background-size: 120px 120px, 160px 160px, 140px 140px;
+}

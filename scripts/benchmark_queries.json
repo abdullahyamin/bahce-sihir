@@ -1,0 +1,356 @@
+[
+  {
+    "id": "f1",
+    "category": "factual",
+    "query": "Yaz okulunda en fazla kaç ders alabilirim?",
+    "expected_source_files": [
+      "BAHÇEŞEHİR ÜNİVERSİTESİ ÖN LİSANS VE LİSANS EĞİTİM-ÖĞRETİM VE SINAV YÖNETMELİĞİ.pdf",
+      "BAHÇEŞEHİR ÜNİVERSİTESİ YAZ OKULU YÖNERGESİ.pdf"
+    ],
+    "expected_articles": ["18", "9"],
+    "ground_truth_summary": "En fazla 4 ders (10 ulusal krediyi geçmemek kaydıyla); mezuniyet durumunda +1 ders."
+  },
+  {
+    "id": "f2",
+    "category": "factual",
+    "query": "Sınav sonuçlarına kaç iş günü içinde itiraz edebilirim?",
+    "expected_source_files": [
+      "BAHÇEŞEHİR ÜNİVERSİTESİ SINAV YÖNERGESİ.pdf",
+      "BAHÇEŞEHİR ÜNİVERSİTESİ ÖN LİSANS VE LİSANS EĞİTİM-ÖĞRETİM VE SINAV YÖNETMELİĞİ.pdf"
+    ],
+    "expected_articles": ["8", "27"],
+    "ground_truth_summary": "Notlar ilan edildikten sonra 3 iş günü içinde yazılı itiraz."
+  },
+  {
+    "id": "f3",
+    "category": "factual",
+    "query": "Nakdi burs almak için gereken minimum not ortalaması kaçtır?",
+    "expected_source_files": [
+      "BAHÇEŞEHİR ÜNİVERSİTESİ ÖN LİSANS, LİSANS, LİSANSÜSTÜ BURS VE DESTEK YÖNERGESİ.pdf"
+    ],
+    "expected_articles": ["16"],
+    "ground_truth_summary": "GPA 3.50/4.00 ve üzeri, en az 2 dönem tamamlanmış olmalı, %100 ÖSYM burslu olmalı."
+  },
+  {
+    "id": "f4",
+    "category": "factual",
+    "query": "Mühendislik fakültesinde staj başvurusu için hangi belge gereklidir?",
+    "expected_source_files": [
+      "BAHÇEŞEHİR ÜNİVERSİTESİ MÜHENDİSLİK VE DOĞA BİLİMLERİ FAKÜLTESİ MİMARLIK VE TASARIM FAKÜLTESİ STAJ YÖNERGESİ.pdf"
+    ],
+    "expected_articles": ["8"],
+    "ground_truth_summary": "Zorunlu staj formu belgesi ve staj başvuru formu."
+  },
+  {
+    "id": "f5",
+    "category": "factual",
+    "query": "What is the required GPA to apply for the double major program?",
+    "expected_source_files": [
+      "BAHÇEŞEHİR ÜNİVERSİTESİ ÇİFT ANADAL PROGRAMI YÖNERGESİ.pdf"
+    ],
+    "expected_articles": ["7"],
+    "ground_truth_summary": "Application/admission conditions for double major are specified in Madde 7."
+  },
+  {
+    "id": "p1",
+    "category": "procedural",
+    "query": "Yatay geçiş başvurusu ne zaman yapılabilir?",
+    "expected_source_files": [
+      "BAHÇEŞEHİR ÜNİVERSİTESİ ÖN LİSANS VE LİSANS DÜZEYİNDE YÜKSEKÖĞRETİM DİPLOMA PROGRAMLARI ARASI YATAY GEÇİŞLERE İLİŞKİN YÖNERGE.pdf"
+    ],
+    "expected_articles": ["7"],
+    "ground_truth_summary": "Sadece ilan edilen süre içerisinde başvuru yapılabilir."
+  },
+  {
+    "id": "p2",
+    "category": "procedural",
+    "query": "Araştırma ve yayın etiği ihlali iddiası nasıl değerlendirilir, kim karar verir?",
+    "expected_source_files": [
+      "BAHÇEŞEHİR ÜNİVERSİTESİ ARAŞTIRMA VE YAYIN ETİĞİ YÖNERGESİ.pdf"
+    ],
+    "expected_articles": ["4"],
+    "ground_truth_summary": "Etik Kurulu ya da Etik Kurulun oluşturacağı Uzman Etik Kurulu tarafından sonuca bağlanır."
+  },
+  {
+    "id": "p3",
+    "category": "procedural",
+    "query": "Sınav sonucuma itiraz etmek için nereye başvurmam gerekiyor?",
+    "expected_source_files": [
+      "BAHÇEŞEHİR ÜNİVERSİTESİ SINAV YÖNERGESİ.pdf"
+    ],
+    "expected_articles": ["8"],
+    "ground_truth_summary": "Dersin bağlı bulunduğu akademik birim sekreterliğine yazılı olarak başvuru."
+  },
+  {
+    "id": "p4",
+    "category": "procedural",
+    "query": "How does the academic advising process work between a student and their advisor?",
+    "expected_source_files": [
+      "BAHÇEŞEHİR ÜNİVERSİTESİ AKADEMİK DANIŞMANLIK YÖNERGESİ.pdf"
+    ],
+    "expected_articles": ["5", "6"],
+    "ground_truth_summary": "Advisor selection/assignment process and advisory services are described in Madde 5-6."
+  },
+  {
+    "id": "e1",
+    "category": "explanatory",
+    "query": "AKTS/ECTS kredi sistemi ne amaçla kullanılır?",
+    "expected_source_files": [
+      "BAHÇEŞEHİR ÜNİVERSİTESİ AVRUPA KREDİ TRANSFER SİSTEMİ (AKTS ECTS) UYGULAMA YÖNERGESİ.pdf"
+    ],
+    "expected_articles": ["2"],
+    "ground_truth_summary": "Öğrenci hareketliliğini kolaylaştırmak, öğrenci merkezli iş-yüküne dayalı eğitim modeli (Bologna Süreci kapsamında)."
+  },
+  {
+    "id": "e2",
+    "category": "explanatory",
+    "query": "Mazeret sınavı nedir, hangi durumlarda uygulanır?",
+    "expected_source_files": [
+      "BAHÇEŞEHİR ÜNİVERSİTESİ SINAV YÖNERGESİ.pdf"
+    ],
+    "expected_articles": ["3", "9"],
+    "ground_truth_summary": "İlgili yönetim kurulunca kabul edilen haklı bir mazereti nedeniyle sınava giremeyen öğrenciler için yapılan sınav."
+  },
+  {
+    "id": "e3",
+    "category": "explanatory",
+    "query": "Engelli öğrenciler için sınavlarda ne tür düzenlemeler yapılır?",
+    "expected_source_files": [
+      "BAHÇEŞEHİR ÜNİVERSİTESİ ENGELLİ ÖĞRENCİLERE YÖNELİK EĞİTİM - ÖĞRETİM VE SINAV TEDBİRLERİNE İLİŞKİN YÖNERGESİ.pdf"
+    ],
+    "expected_articles": ["1", "2"],
+    "ground_truth_summary": "Amaç ve kapsam: engelli öğrencilere yönelik eğitim-öğretim ve sınav tedbirleri."
+  },
+  {
+    "id": "c1",
+    "category": "comparative",
+    "query": "Yandal programı ile çift anadal programı arasındaki fark nedir?",
+    "expected_source_files": [
+      "BAHÇEŞEHİR ÜNİVERSİTESİ YAN DAL PROGRAMI YÖNERGESİ.pdf",
+      "BAHÇEŞEHİR ÜNİVERSİTESİ ÇİFT ANADAL PROGRAMI YÖNERGESİ.pdf"
+    ],
+    "expected_articles": ["1", "2"],
+    "ground_truth_summary": "Çift anadal ikinci bir diploma verir; yandal diploma vermez, sertifika niteliğindedir (Amaç/Kapsam maddeleri karşılaştırılmalı)."
+  },
+  {
+    "id": "c2",
+    "category": "comparative",
+    "query": "Ara sınav ile mazeret sınavı arasındaki fark nedir?",
+    "expected_source_files": [
+      "BAHÇEŞEHİR ÜNİVERSİTESİ SINAV YÖNERGESİ.pdf"
+    ],
+    "expected_articles": ["3", "9"],
+    "ground_truth_summary": "Ara sınav dönem içi düzenli sınav; mazeret sınavı kabul edilen bir mazeret nedeniyle girilemeyen sınav yerine yapılır."
+  },
+  {
+    "id": "c3",
+    "category": "comparative",
+    "query": "Burs ile destek arasındaki fark nedir?",
+    "expected_source_files": [
+      "BAHÇEŞEHİR ÜNİVERSİTESİ ÖN LİSANS, LİSANS, LİSANSÜSTÜ BURS VE DESTEK YÖNERGESİ.pdf"
+    ],
+    "expected_articles": ["4"],
+    "ground_truth_summary": "Tanımlar maddesinde burs ve destek ayrı ayrı tanımlanır (burs: öğrenim ücretine yapılan destek)."
+  },
+  {
+    "id": "f6",
+    "category": "factual",
+    "query": "İntörn doktorların eğitim sürecinde tabi olduğu yönerge ve bu yönergenin ilgili maddesi nedir?",
+    "expected_source_files": [
+      "BAU_Tip_Intorn_Doktorluk_Yonergesi.pdf"
+    ],
+    "expected_articles": ["5"],
+    "ground_truth_summary": "İntörn doktorlar BAU Tıp Fakültesi İntörn Doktorluk Yönergesi'ne (Madde 5) tabidir."
+  },
+  {
+    "id": "f7",
+    "category": "factual",
+    "query": "How many books can a graduate (master's) student borrow from the library and for how long?",
+    "expected_source_files": [
+      "BAU_Kutuphane_SSS.txt"
+    ],
+    "expected_articles": [],
+    "ground_truth_summary": "Yüksek lisans öğrencileri 30 gün süreyle 15 kitap ödünç alabilir."
+  },
+  {
+    "id": "f8",
+    "category": "factual",
+    "query": "What is the daily late fee for an overdue library book?",
+    "expected_source_files": [
+      "BAU_Kutuphane_Kurallari.txt",
+      "BAU_Kutuphane_SSS.txt"
+    ],
+    "expected_articles": [],
+    "ground_truth_summary": "Her gün için 1,00 TL gecikme cezası uygulanır."
+  },
+  {
+    "id": "f9",
+    "category": "factual",
+    "query": "What is the minimum weighted GPA required for undergraduate students to apply for an Erasmus exchange program?",
+    "expected_source_files": [
+      "BAU_Exchange_Erasmus_FAQ.txt"
+    ],
+    "expected_articles": [],
+    "ground_truth_summary": "Lisans öğrencileri için ağırlıklı GPA en az 2.20/4 olmalıdır."
+  },
+  {
+    "id": "f10",
+    "category": "factual",
+    "query": "BAU İletişim Fakültesi hangi kampüste yer almaktadır ve bu kampüsün adresi nedir?",
+    "expected_source_files": [
+      "BAU_Kampusler_Iletisim_Ulasim.txt"
+    ],
+    "expected_articles": [],
+    "ground_truth_summary": "Galata Yerleşkesi; Müeyyetzade Mahallesi Kemeraltı Caddesi Karaoğlan Sokağı No: 24/a Galata/Karaköy İSTANBUL."
+  },
+  {
+    "id": "p5",
+    "category": "procedural",
+    "query": "Öğrenciler EFT veya havale ile ödeme yaptıklarında açıklama kısmına ne yazmalıdır?",
+    "expected_source_files": [
+      "BAU_Cari_Hizmetler_SSS.txt"
+    ],
+    "expected_articles": [],
+    "ground_truth_summary": "Açıklama kısmına öğrenci adı soyadı ve T.C. kimlik numarası, aralarında boşluk bırakılarak yazılmalıdır."
+  },
+  {
+    "id": "p6",
+    "category": "procedural",
+    "query": "How can a student access BAU library's electronic resources from outside the campus?",
+    "expected_source_files": [
+      "BAU_Kutuphane_SSS.txt"
+    ],
+    "expected_articles": [],
+    "ground_truth_summary": "OpenAthens üzerinden; E-Kaynaklar → Tüm Veritabanları bölümünden kullanıcı tipine göre giriş yapılır."
+  },
+  {
+    "id": "e4",
+    "category": "explanatory",
+    "query": "Does BAU provide on-campus dormitories for students, and what alternative does it offer?",
+    "expected_source_files": [
+      "BAU_International_FAQ.txt"
+    ],
+    "expected_articles": [],
+    "ground_truth_summary": "BAU is a city university with no on-campus dormitories; it is affiliated with Ortaköy Aparts and lists nearby private/female dorm options."
+  },
+  {
+    "id": "e5",
+    "category": "explanatory",
+    "query": "Ön Lisans ve Lisans öğrencileri için 2026-2027 güz yarıyılı ders kayıt döneminde mali işlemlerini tamamlamamanın sonucu nedir?",
+    "expected_source_files": [
+      "BAU_Akademik_Takvim_Onlisans_Lisans.txt"
+    ],
+    "expected_articles": [],
+    "ground_truth_summary": "Mali işlemlerini tamamlamayan öğrencilerin birinci ders kayıt döneminde sistemi kapalı olur ve ders kaydı yaptıramazlar."
+  },
+  {
+    "id": "c4",
+    "category": "comparative",
+    "query": "Lisans öğrencileri ile yüksek lisans öğrencileri arasında kütüphaneden kitap ödünç alma süre ve sayısı bakımından ne fark vardır?",
+    "expected_source_files": [
+      "BAU_Kutuphane_SSS.txt"
+    ],
+    "expected_articles": [],
+    "ground_truth_summary": "Lisans öğrencileri 15 gün süreyle 10 kitap; yüksek lisans öğrencileri 30 gün süreyle 15 kitap ödünç alabilir."
+  },
+  {
+    "id": "f11",
+    "category": "factual",
+    "query": "Bilgisayar Mühendisliği Lisans Programının hedefi nedir?",
+    "expected_source_files": [
+      "BAU_AKTS_Lisans_Programlari.txt"
+    ],
+    "expected_articles": [],
+    "ground_truth_summary": "Donanım, yazılım ve ağ problemlerine yaratıcı çözümler üretebilecek, motivasyonu yüksek bilgisayar mühendisleri yetiştirmek."
+  },
+  {
+    "id": "f12",
+    "category": "factual",
+    "query": "BESL yurt dışı hazırlık programına katılan öğrenciler hangi şehirde ve hangi kurumda eğitim alır?",
+    "expected_source_files": [
+      "BAU_Exchange_BESL_(Study_Abroad_English_Program).txt"
+    ],
+    "expected_articles": [],
+    "ground_truth_summary": "Washington D.C.'deki Mentora College'da hazırlık eğitimi alırlar."
+  },
+  {
+    "id": "f13",
+    "category": "factual",
+    "query": "İnşaat Mühendisliği öğrencileri staj başvurusunda hangi belgeleri indirmelidir?",
+    "expected_source_files": [
+      "BAU_Staj_Insaat_Muhendisligi.txt"
+    ],
+    "expected_articles": [],
+    "ground_truth_summary": "Staj başvuru adımları/belgeleri, staj defteri ve sigorta evrakları indirilmelidir."
+  },
+  {
+    "id": "f14",
+    "category": "factual",
+    "query": "BAU Bilgi İşlem Daire Başkanlığı'na hangi telefon numarasından ulaşılabilir?",
+    "expected_source_files": [
+      "BAU_BIDB_Iletisim.txt"
+    ],
+    "expected_articles": [],
+    "ground_truth_summary": "444 28 64 numarasından ulaşılabilir."
+  },
+  {
+    "id": "p7",
+    "category": "procedural",
+    "query": "Elektrik-Elektronik Mühendisliği öğrencisi stajını en erken hangi dönemde yapabilir ve staj süresi kaç iş günüdür?",
+    "expected_source_files": [
+      "BAU_Staj_Elektrik_Elektronik_Muhendisligi.txt"
+    ],
+    "expected_articles": [],
+    "ground_truth_summary": "Staj en erken 3. yıl yazında yapılabilir; staj süresi 30 iş günüdür."
+  },
+  {
+    "id": "p8",
+    "category": "procedural",
+    "query": "Öğrenci İşleri Daire Başkanlığı'nın öğrencilere sunduğu formlardan iki örnek verir misiniz?",
+    "expected_source_files": [
+      "BAU_Ogrenci_Isleri_Formlar.txt"
+    ],
+    "expected_articles": [],
+    "ground_truth_summary": "Örnekler: Adres Bildirim Formu, Çift Anadal Başvuru Formu, Ders Muafiyeti Başvuru Formu vb."
+  },
+  {
+    "id": "e6",
+    "category": "explanatory",
+    "query": "BAU'nun CO-OP eğitim modeli nedir ve 'Markalı Dersler' kavramı ne anlama gelir?",
+    "expected_source_files": [
+      "BAU_AKTS_Kariyer_Yönlendirme_Merkezi.txt"
+    ],
+    "expected_articles": [],
+    "ground_truth_summary": "CO-OP, üniversite eğitimiyle iş hayatını birleştiren bir modeldir; Markalı Dersler ise firmaların kendi marka/ürünleri için açtığı, sektör temsilcilerince verilen seçmeli derslerdir."
+  },
+  {
+    "id": "e7",
+    "category": "explanatory",
+    "query": "Moleküler Biyoloji ve Genetik programı mezunları hangi tür problemlere çözüm üretebilecek şekilde yetiştirilir?",
+    "expected_source_files": [
+      "BAU_AKTS_Lisans_Programlari.txt"
+    ],
+    "expected_articles": [],
+    "ground_truth_summary": "Eğitim, endüstri, tarım, sağlık ve çevre problemlerine biyoteknoloji uygulayabilecek şekilde yetiştirilirler."
+  },
+  {
+    "id": "c5",
+    "category": "comparative",
+    "query": "Yazılım Mühendisliği ile Bilgisayar Mühendisliği staj süreleri arasında fark var mı?",
+    "expected_source_files": [
+      "BAU_Staj_Yazilim_Muhendisligi.txt"
+    ],
+    "expected_articles": [],
+    "ground_truth_summary": "Yazılım Mühendisliği öğrencileri en az 30 iş günü staj yapmalıdır (BAU Senato kararına dayalı MDBF/MTF Staj Yönergesi kapsamında)."
+  },
+  {
+    "id": "f15",
+    "category": "factual",
+    "query": "What is the goal of the Doktora (PhD) program in Computer Engineering at BAU?",
+    "expected_source_files": [
+      "BAU_AKTS_Doktora_Programlari.txt"
+    ],
+    "expected_articles": [],
+    "ground_truth_summary": "Regression test for query_classifier.py's degree-level boost: before the fix, this query returned 'not enough information' despite the correct chunk existing (raw dense rank 6th-9th, crowded out by near-identical Lisans/Yüksek Lisans program chunks). Advanced education in computer architecture, embedded systems, AI, cybersecurity, network systems; prepares students for academia/industry/research careers."
+  }
+]

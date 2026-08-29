@@ -1,0 +1,10 @@
+AKTS Dağılımı
+Avrupa Kredi Transfer Sistemi (AKTS),  öğrenci merkezli, öğrencinin iş yüküne dayalı bir kredi sistemidir. Öğrencinin bir dersi başarıyla tamamlayabilmesi için yapması gereken çalışmaların tümünü (teorik ders, uygulama, seminer, bireysel çalışma, sınavlar, ödevler vb.) kapsayan bir değerdir. Bu değerin hesaplanmasında önemli ölçüt öğrenme kazanımlarıdır. Öğrencinin, öğrenme kazanımlarını elde edebilmek için  harcadığı süre  bir dersin AKTS değerini belirlemektedir.  Diğer bir deyişle,  AKTS kredilerinin belirlenmesinde temel ölçüt  ‘öğrenci  işyükü’ dür.              Bahçeşehir Üniversitesi, Bologna sürecinin önemli bir parçası olan Avrupa Kredi Transfer sistemini 2008 yılından bu yana uygulamaktadır.  AKTS kredilerinin nasıl hesaplanacağı, Üniversitemiz Senatosunda kabul edilen yönetmelikle  yeniden gözden geçirilmiş,   2012 yılında yapılan yeni düzenlemeler  ile,  ECTS Guide ve  TYYÇ ‘nin belirlediği yetkinlik düzeylerine   ve program kazanımlarına göre, derslerin işyükü dağılımları  yeniden  düzenlenmiştir. Bir akademik yılda alınması gerekli tüm derslerin kredilerinin toplamı 60; yarıyıl başına alınması gereken derslerin tümünün  kredi olarak karşılığı 30 AKTS olacak şekilde düzenlenmiştir.  Bir akademik yıl 1500 saat/60 AKTS , bir sömestr 750 saat /30 AKTS   olarak kabul edilmistir.  Bahcesehir Üniversitesinde  1 AKTS  25 saate eşdeğer kabul edilmiş ve  aşağıdaki gibi bir tablo oluşmuştur .
+TYYÇ Düzeylerine göre BAU  için Toplam Kredi (AKTS) ve Öğrenci Çalışma Yükü Aralıkları
+TYYÇ DÜZEYLERİ — SÜRE(Yıl) — TOPLAM AKTS KREDİSİ (Yıl x 60 AKTS) — TOPLAM ÖĞRENCİ ÇALIŞMA YÜKÜ (Saat) (1 AKTS= 25saat)
+8. DÜZEY(DOKTORA) — 3 — 180 — 4.500
+4 — 240 — 6.000
+7. DÜZEY (YÜKSEK LİSANS) — Projeli Programlar — 1,5 — 90 — 2.250
+Tezli Programlar — 2 — 120 — 3.000
+6. DÜZEY (LİSANS) — 4 — 240 — 6.000
+5. DÜZEY (ÖN LİSANS) — 2 — 120 — 3.000

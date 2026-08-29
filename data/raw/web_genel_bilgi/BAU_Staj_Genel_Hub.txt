@@ -1,0 +1,75 @@
+Staj
+Her Bilgisayar Mühendisliği öğrencisi lisans programı eğitimi süresince EN AZ 1 defa EN AZ 30 işgünü süresince, Bilgisayar Mühendisliği ile ilgili bir konuda staj yapmak zorundadır.
+Stajda izlenecek adımlar aşağıdaki akış diyagramında belirtildiği gibidir.
+Akış diyagramında bahsedilen dosyalara aşağıdaki link’lerden erişebilirsiniz:
+-
+Staj Teklif Formu
+(IF – 01)
+-
+Staj Zorunluluk Formu
+(IF – 02)
+-
+Staj Başvuru Formu
+(IF – 03)
+-
+Staj Değerlendirme Formu
+(IF – 04)
+-
+Staj Rapor Şablonu ve Kuralları
+Bilgisayar Mühendisliği bölümü staj sorumlusu
+Dr.Öğr.Üyesi Tarkan Aydın'dır.
+Staj ile ilgili yazışmalarınızda
+-kendisinin e-mail
+adresi üzerinden iletişime geçmeniz gerekmektedir. Yazışmalarda resmî Bahçeşehir Üniversitesi e-mail adresinizi kullanmanız gerekmektedir.
+İnsan Kaynakları Daire Başkanlığı staj ile ilgili prosedürlerine
+bu linkten
+erişebilirsiniz.
+NOT
+: Bu prosedürden geçmemiş olan stajlar
+REDDEDİLECEKTİR
+.
+NOT
+: IF-02 formunun staj başlangıç tarihiden
+EN AZ
+3 iş günü öncesinde gönderilmesi gerekmektedir. Eski tarihli IF-02 formlarına, staj başlangıç tarihi IF-02 form tarihinden öncesinde olan formlara işlem
+YAPILMAYACAKTIR
+. Tüm staj e-mail gönderimleri aynı e-mail thread’i üzerinden yürütülmesi gerekmektedir (
+Her staj yazışmasında ayrı ayrı konulu e-mail’ler göndermeyin, aynı e-mail’e reply ile cevap yazın
+).
+Staj ile ilgili sık sorulan sorular
+-    “
+Online staj’lar kabul edilmekte midir?”
+Covid19 salgını süresince hem yüzyüze (klasik) hem de online stajlar kabul edilmektedir.
+-
+“Stajı yaz döneminde mi yapmak zorundayım?”
+Stajın yaz döneminde yapılması tavsiye edilmektedir. Ancak imkânsızlıklardan ötürü ders dönemleri süresince ya da Güz – Bahar dönemleri arasında yapılması staj sorumlusunun onayıyla kabul edilebilmektedir.
+-
+"Dönem esnasında staj yapabilir miyim?"
+Ders döneminde yapılan stajlar aynı anda dersiniz varsa hem dersler hem de staj üzerinde olumsuz etki oluşturmaktadır.
+Ancak dönem boyunca haftada en fazla 2 gün dersiniz varsa, hafta içinin geri kalanında staj yapabilirsiniz. (ör: Hafta içi 2 gün dersiniz varsa, geri kalan 3 günde staj yapabilirsiniz).
+Bu durumda hafta içinde aldığınız derslerin bilgisini, haftalık ders programı ile staj prosedürünün başlangıcında staj sorumlusuna göndermek zorundasınız.
+Capstone dersleri ve tamamiyle online olarak yürütülen sosyal seçmeli dersler bu sınırın dışındadır. Ama ders programınızda bu bilgiyi de paylaşmanız gerekmektedir.
+-    “
+Mezun durumundayım (yâni mezuniyetime sadece staj kaldı) stajım için bu prosedürdeki staj sonunda kısmını takip etmem gerekiyor mu?
+Bu durumda staj raporunuzu staj sonunda teslim ettikten sonra staj sorumlusuna mezun durumunuzu bildirin. Ders almaya gerek olmadan dönem arası ek bir prosedür ile staj onaylamanız gerçekleştirilecektir.
+-
+“Türkiye dışındaki bir firmada stajımı yapabilir miyim?”
+Evet, ama bu durumda SGK işlemlerinizin nasıl olacağı konusunda Personel Daire Başkanlığıyla konuşmanız gerekmektedir.
+-
+“Birden fazla staj yapabilir miyim? 30 iş gününden fazla staj yapabilir miyim?”
+Evet, ama bu ek stajlar zorunlu stajınızı etkilemeyecektir.
+-
+“Yaptığım stajın raporunu hangi dönemde teslim etmem gerekiyor?”
+Akış diyagramındaki staj sonrası işlemler kısmını stajın bittiğinden sonraki ilk dönemde yapmanız gerekmektedir. Stajın bitiminden sona 2 eğitim döneminde teslim edilmemiş stajlar otomatik olarak reddedilecektir.
+-
+“Stajım reddedildi, ne yapmam gerekiyor?
+Stajınız reddedildiği takdirde, başka bir firmada (ya da önceki staj yaptığınız firmanın bir başka departmanında) aynı staj prosedürüne göre bir başka staj yapmanız gerekmektedir.
+-
+“Başka üniversiteden/bölümden gelmiş bir öğrenciyim. Önceki üniversitemde/bölümümdeki stajım Bahçeşehir Üniversitesi Bilgisayar Mühendisliğinde kabul edilir mi?”
+BAU Bilgisayar Mühendisliğinden önceki bölümünüzde yaptığınız stajlar, bölüme intibâk sürecinizde değerlendirilir, içeriğine, uzunluğuna, niteliğine göre kabul edilebilir ya da reddedilebilir. Reddedilirse yukarıda anlatıldığı gibi bir stajı sıfırdan yapmanız gerekmektedir.
+-
+“Yatay/Dikey geçiş öğrencisiyim. Önceki üniversitemde/bölümümdeki stajım Bahçeşehir Üniversitesi Bilgisayar Mühendisliğinde kabul edilir mi?”
+Bir önceki sorunun cevabına bakınız.
+-
+“Bir firmada bir süredir çalışmaktayım. Bu firmadaki çalışmam staj olarak kabul edilir mi?”
+Genellikle hayır. Ama staj sorumlusunun onayıyla kabul edilebilir.
