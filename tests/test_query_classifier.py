@@ -8,10 +8,12 @@ from src.retrieval.query_classifier import (
     apply_category_boost,
     detect_academic_year,
     detect_degree_level,
+    SUMMER_SCHOOL_COURSE_LIMIT_BOOST,
     find_definition_chunks_matching_query,
     is_add_drop_query,
     is_definition_seeking_query,
     is_generic_engineering_faculty_staj_query,
+    is_summer_school_course_limit_query,
 )
 from src.retrieval.store import ChunkRecord
 
@@ -265,3 +267,34 @@ def test_apply_category_boost_promotes_add_drop_calendar_chunk():
 
     assert boosted[0][0] == 1
     assert boosted[0][1] == 0.03 + ADD_DROP_BOOST
+
+
+def test_is_summer_school_course_limit_query():
+    assert is_summer_school_course_limit_query("Yaz okulunda en fazla kaç ders alabilirim?")
+    assert is_summer_school_course_limit_query("How many courses can I take in summer school?")
+    assert not is_summer_school_course_limit_query("Yaz okulu ne zaman başlar?")
+
+
+def test_apply_category_boost_promotes_summer_school_course_count_chunk():
+    # Regression test: Yaz Okulu Yönergesi's own Madde 9 (the credit cap, "10 kredi")
+    # answers a related-but-incomplete version of this question and, once properly
+    # chunked, dominates the rerank pool on its own — crowding out the chunk in a
+    # DIFFERENT document (the general Eğitim-Öğretim Yönetmeliği) that states the
+    # actual course-count cap ("en fazla dört ders").
+    store = _FakeStore({
+        0: _record(
+            "BAHÇEŞEHİR ÜNİVERSİTESİ YAZ OKULU YÖNERGESİ.pdf",
+            text="Yaz Okulu'nda toplam ders yükü 10 (On) kredidir.",
+        ),
+        1: _record(
+            "BAHÇEŞEHİR ÜNİVERSİTESİ ÖN LİSANS VE LİSANS EĞİTİM-ÖĞRETİM VE SINAV YÖNETMELİĞİ.pdf",
+            text="Bir öğrenci, yaz okulunda 10 ulusal krediyi geçmemek üzere en fazla dört ders alabilir.",
+        ),
+    })
+    fused = [(0, 0.1), (1, 0.03)]
+
+    boosted = apply_category_boost(fused, "Yaz okulunda en fazla kaç ders alabilirim?", store)
+    boosted_scores = dict(boosted)
+
+    assert boosted_scores[0] == 0.1
+    assert boosted_scores[1] == 0.03 + SUMMER_SCHOOL_COURSE_LIMIT_BOOST

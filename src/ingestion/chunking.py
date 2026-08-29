@@ -7,7 +7,11 @@ from langchain_text_splitters import RecursiveCharacterTextSplitter
 MAX_CHUNK_CHARS = 1800
 CHUNK_OVERLAP = 200
 
-_ARTICLE_RE = re.compile(r"(?im)^[ \t]*Madde[ \t]+(\d+)[ \t]*[-–—]")
+# Some older yönerge documents (e.g. Yaz Okulu Yönergesi) terminate the article
+# heading with a period ("Madde 1.") instead of the far more common dash/en-dash/
+# em-dash ("Madde 1 -"). Without matching that, the whole document falls through
+# to naive character-based chunking and loses article-level structure entirely.
+_ARTICLE_RE = re.compile(r"(?im)^[ \t]*Madde[ \t]+(\d+)[ \t]*[-–—.]")
 _QA_RE = re.compile(r"(?im)^SORU:[ \t]*")
 _SUBCLAUSE_RE = re.compile(r"(?m)^\((\d+)\)[ \t]")
 _LETTERED_ITEM_RE = re.compile(r"(?m)^([a-zçğıöşü])\)[ \t]")

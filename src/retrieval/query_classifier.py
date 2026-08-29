@@ -102,6 +102,26 @@ def is_add_drop_query(query: str) -> bool:
     return bool(_ADD_DROP_QUERY_RE.search(query))
 
 
+# "Yaz okulunda en fazla kaç ders alabilirim?" — Yaz Okulu Yönergesi's own Madde 9
+# ("toplam ders yükü 10 kredidir") answers a related but incomplete version of this:
+# it's the *credit* cap, not the *course-count* cap. The actual "en fazla dört ders"
+# rule lives in a different document (the general Ön Lisans/Lisans Eğitim-Öğretim
+# Yönetmeliği's Madde 18), which loses the embedding race badly once Yaz Okulu
+# Yönergesi's own now-properly-chunked articles (see chunking.py's period-header fix)
+# dominate the rerank pool with closely related content. Boost the specific chunk
+# that states the course-count limit rather than just the credit limit.
+_SUMMER_SCHOOL_COURSE_LIMIT_QUERY_RE = re.compile(
+    r"(?i)yaz\s*okul.*(ka[çc]|en\s*fazla|en\s*[çc]ok|maks|limit)|summer\s*school.*course|"
+    r"how\s*many\s*courses.*summer|max.*courses?.*summer"
+)
+_SUMMER_SCHOOL_COURSE_LIMIT_CHUNK_RE = re.compile(r"(?i)yaz\s*okul.*(d[öo]rt\s*ders|4\s*ders)")
+SUMMER_SCHOOL_COURSE_LIMIT_BOOST = 0.1
+
+
+def is_summer_school_course_limit_query(query: str) -> bool:
+    return bool(_SUMMER_SCHOOL_COURSE_LIMIT_QUERY_RE.search(query))
+
+
 def is_definition_seeking_query(query: str) -> bool:
     return bool(_DEFINITION_QUERY_RE.search(query))
 
@@ -149,7 +169,15 @@ def apply_category_boost(
     faculty_staj = is_generic_engineering_faculty_staj_query(query)
     definition_seeking = is_definition_seeking_query(query)
     add_drop = is_add_drop_query(query)
-    if level is None and year is None and not faculty_staj and not definition_seeking and not add_drop:
+    summer_course_limit = is_summer_school_course_limit_query(query)
+    if (
+        level is None
+        and year is None
+        and not faculty_staj
+        and not definition_seeking
+        and not add_drop
+        and not summer_course_limit
+    ):
         return fused
 
     target_file = _LEVEL_TO_FILE.get(level) if level else None
@@ -173,6 +201,8 @@ def apply_category_boost(
             adjusted += FACULTY_STAJ_BOOST
         if add_drop and _ADD_DROP_CHUNK_RE.search(store[idx].text):
             adjusted += ADD_DROP_BOOST
+        if summer_course_limit and _SUMMER_SCHOOL_COURSE_LIMIT_CHUNK_RE.search(store[idx].text):
+            adjusted += SUMMER_SCHOOL_COURSE_LIMIT_BOOST
         if year is not None:
             years_in_chunk = set(_ACADEMIC_YEAR_RE.findall(store[idx].text))
             if years_in_chunk == {year}:

@@ -17,6 +17,27 @@ def test_article_structure_produces_one_chunk_per_madde():
     assert all(c.category == "yonergeler" for c in chunks)
 
 
+def test_article_structure_recognizes_period_terminated_headers():
+    # Regression test: some older yönerge documents (e.g. Yaz Okulu Yönergesi) use
+    # "Madde 1." instead of "Madde 1 -". Without recognizing this, the whole document
+    # fell through to naive character-based chunking and lost article structure
+    # entirely, which buried a specific fact (max summer-school course count) deep in
+    # an unstructured chunk instead of a cleanly retrievable per-article one.
+    text = (
+        "BİRİNCİ BÖLÜM\n"
+        "Amaç ve Kapsam\n"
+        "Madde 1. \n"
+        "Bu yönergenin amacı öğrenci işlerini düzenlemektir.\n"
+        "Madde 2. \n"
+        "Bu yönerge tüm öğrencileri kapsar.\n"
+    )
+    chunks = chunk_document(text, "test.pdf", "yonergeler")
+
+    assert len(chunks) == 2
+    assert chunks[0].article_no == "1"
+    assert chunks[1].article_no == "2"
+
+
 def test_article_chunk_carries_chapter_as_section():
     text = (
         "BİRİNCİ BÖLÜM\n"
