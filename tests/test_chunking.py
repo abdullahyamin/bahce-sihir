@@ -86,3 +86,45 @@ def test_no_structure_falls_back_to_character_splitter_with_title():
 def test_empty_document_produces_no_crash():
     chunks = chunk_document("", "empty.txt", "web_genel_bilgi")
     assert chunks == [] or all(c.text == "" for c in chunks)
+
+
+def test_tanimlar_article_splits_one_chunk_per_lettered_definition():
+    # Regression test: a "Tanımlar" (definitions) article bundling many unrelated
+    # terms as lettered items diluted the embedding for any single term (e.g. "Burs"
+    # unretrievable because it shared a chunk with CO-OP, Enstitü, Üst Yönetim, etc.).
+    text = (
+        "BİRİNCİ BÖLÜM\n"
+        "Tanımlar\n"
+        "Madde 4- (1) Bu Yönergede geçen,\n"
+        "a) Burs: Öğrenim ücretine yapılan desteği,\n"
+        "b) CO-OP: Şirketler ile yapılan eğitim anlaşmalarını koordine eden birimi,\n"
+        "c) Destek: Öğrenciye yapılan nakdi nitelikteki katkıları,\n"
+        "ifade eder.\n"
+    )
+    chunks = chunk_document(text, "test.pdf", "yonergeler")
+
+    assert len(chunks) == 3
+    assert [c.article_no for c in chunks] == ["4-a", "4-b", "4-c"]
+    burs_chunk = chunks[0]
+    assert "Burs:" in burs_chunk.text
+    assert "CO-OP" not in burs_chunk.text
+    assert "Destek:" not in burs_chunk.text
+    # each item still carries the article's section/heading context
+    assert "Tanımlar" in burs_chunk.text
+
+
+def test_tanimlar_article_with_few_items_falls_back_to_normal_splitting():
+    # Fewer than 3 lettered items isn't the bundling problem this fix targets —
+    # avoid needlessly fragmenting short definitions articles.
+    text = (
+        "BİRİNCİ BÖLÜM\n"
+        "Tanımlar\n"
+        "Madde 4- (1) Bu Yönergede geçen,\n"
+        "a) Üniversite: Bahçeşehir Üniversitesini,\n"
+        "b) Rektör: Üniversite Rektörünü,\n"
+        "ifade eder.\n"
+    )
+    chunks = chunk_document(text, "test.pdf", "yonergeler")
+
+    assert len(chunks) == 1
+    assert chunks[0].article_no == "4"

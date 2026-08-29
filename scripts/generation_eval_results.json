@@ -4,7 +4,7 @@
     "category": "factual",
     "query": "Yaz okulunda en fazla kaç ders alabilirim?",
     "ground_truth_summary": "En fazla 4 ders (10 ulusal krediyi geçmemek kaydıyla); mezuniyet durumunda +1 ders.",
-    "answer": "Yaz okulunda toplam ders yükü 10 kredidir; ayrıca yaz okulunda ders ekleme, ders bırakma ve dersten çekilme uygulanmaz.\n\nSOURCES: Yaz Okulu Yönergesi, Madde 9",
+    "answer": "Yaz okulunda toplam ders yükü 10 (on) kredidir.\n\nSOURCES: BAHÇEŞEHİR ÜNİVERSİTESİ YAZ OKULU YÖNERGESİ.pdf, Madde 9",
     "retrieved_sources": [
       {
         "source_file": "BAHÇEŞEHİR ÜNİVERSİTESİ DERS AÇMA VE YÜRÜTME YÖNERGESİ.pdf",
@@ -23,7 +23,7 @@
         "article_no": null
       },
       {
-        "source_file": "BAHÇEŞEHİR ÜNİVERSİTESİ YAZ OKULU YÖNERGESİ.pdf",
+        "source_file": "BAU_Akademik_Takvim_Lisansustu.txt",
         "article_no": null
       }
     ]
@@ -33,27 +33,27 @@
     "category": "factual",
     "query": "Sınav sonuçlarına kaç iş günü içinde itiraz edebilirim?",
     "ground_truth_summary": "Notlar ilan edildikten sonra 3 iş günü içinde yazılı itiraz.",
-    "answer": "Sınav sonuçlarına, notlar ilan edildikten sonra üç iş günü içerisinde yazılı olarak itirazda bulunabilirsiniz.\n\nSOURCES: BAHÇEŞEHİR ÜNİVERSİTESİ SINAV YÖNERGESİ.pdf, Madde 8",
+    "answer": "Sınav sonuçlarına, notların ilan edilmesinden itibaren üç iş günü içerisinde yazılı olarak itirazda bulunabilirsiniz.\n\nSOURCES: BAHÇEŞEHİR ÜNİVERSİTESİ SINAV YÖNERGESİ.pdf, Madde 8",
     "retrieved_sources": [
       {
         "source_file": "BAHÇEŞEHİR ÜNİVERSİTESİ SINAV YÖNERGESİ.pdf",
         "article_no": "8"
       },
       {
+        "source_file": "BAU_Tip_Egitim_Ogretim_ve_Sinav_Yonetmeligi.pdf",
+        "article_no": "34 (bölüm 2)"
+      },
+      {
         "source_file": "BAHÇEŞEHİR ÜNİVERSİTESİ SINAV YÖNERGESİ.pdf",
         "article_no": "18 (bölüm 2)"
       },
       {
+        "source_file": "BAHÇEŞEHİR ÜNİVERSİTESİ BİLGİ EDİNME HAKKI KANUNUNUN UYGULANMASINA İLİŞKİN ESAS VE USULLER HAKKINDA YÖNERGE.pdf",
+        "article_no": "24"
+      },
+      {
         "source_file": "BAHÇEŞEHİR ÜNİVERSİTESİ LİSANSÜSTÜ EĞİTİM VE ÖĞRETİM YÖNETMELİĞİ.pdf",
         "article_no": "14 (bölüm 2)"
-      },
-      {
-        "source_file": "BAHÇEŞEHİR ÜNİVERSİTESİ ÖN LİSANS VE LİSANS EĞİTİM-ÖĞRETİM VE SINAV YÖNETMELİĞİ.pdf",
-        "article_no": "14"
-      },
-      {
-        "source_file": "BAHÇEŞEHİR ÜNİVERSİTESİ ÖN LİSANS VE LİSANS EĞİTİM-ÖĞRETİM VE SINAV YÖNETMELİĞİ.pdf",
-        "article_no": "26 (bölüm 2)"
       }
     ]
   },
@@ -62,12 +62,8 @@
     "category": "factual",
     "query": "Nakdi burs almak için gereken minimum not ortalaması kaçtır?",
     "ground_truth_summary": "GPA 3.50/4.00 ve üzeri, en az 2 dönem tamamlanmış olmalı, %100 ÖSYM burslu olmalı.",
-    "answer": "Nakdi destek (nakdi burs) talebinde bulunabilmek için genel not ortalamasının en az 3.50/4.00 veya üzerinde olması gerekmektedir.\n\nSOURCES: BAHÇEŞEHİR ÜNİVERSİTESİ ÖN LİSANS, LİSANS, LİSANSÜSTÜ BURS VE DESTEK YÖNERGESİ.pdf, Madde 16; BAU_Burs_ve_Destek_Yonergesi.pdf, Madde 16",
+    "answer": "Nakdi destek talebinde bulunabilmek için öğrencilerin hazırlık programı hariç ana dal programlarında en az 2 yarıyılını tamamlamış, 3.50/4.00 veya üzerinde bir Genel Not Ortalamasına sahip ve normal öğrenim süresini aşmamış olmaları gerekmektedir.\n\nSOURCES: BAU_Burs_ve_Destek_Yonergesi.pdf, Madde 16",
     "retrieved_sources": [
-      {
-        "source_file": "BAHÇEŞEHİR ÜNİVERSİTESİ ÖN LİSANS, LİSANS, LİSANSÜSTÜ BURS VE DESTEK YÖNERGESİ.pdf",
-        "article_no": "16"
-      },
       {
         "source_file": "BAU_Burs_ve_Destek_Yonergesi.pdf",
         "article_no": "16"
@@ -83,6 +79,10 @@
       {
         "source_file": "BAU_Burs_ve_Destek_Yonergesi.pdf",
         "article_no": "17 (bölüm 1)"
+      },
+      {
+        "source_file": "BAU_Exchange_Erasmus_FAQ.txt",
+        "article_no": null
       }
     ]
   },
@@ -91,27 +91,27 @@
     "category": "factual",
     "query": "Mühendislik fakültesinde staj başvurusu için hangi belge gereklidir?",
     "ground_truth_summary": "Zorunlu staj formu belgesi ve staj başvuru formu.",
-    "answer": "Endüstri Mühendisliği Bölümü öğrencileri, staj yerine gitmeden önce ilgili staj organizasyonu tarafından doldurulup onaylanması gereken staj onay belgesinin yanı sıra onaylı staj defterini de temin etmek zorundadır.\n\nSOURCES: BAU_Staj_Endustri_Muhendisligi.txt; BAHÇEŞEHİR ÜNİVERSİTESİ STAJ YÖNERGESİ.pdf, Madde 16",
+    "answer": "Mühendislik fakültesinde staj başvurusu ve işlemleri için gerekli belgeler şunlardır: Yönergede belirtilen form ve dilekçelerin eksiksiz düzenlenmesi ve istenen birime veya birimlere süresi içinde teslim edilmesi, nüfus cüzdanı fotokopisi, bir adet fotoğraf, yerleşke belgesi (ikametgah) ya da adına kayıtlı yeni tarihli fatura (yabancı uyruklu öğrenciler için pasaport ve ikamet belgesi fotokopisi), Zorunlu Staj Formu, Staj Başvuru Formu, Staj Sigorta Belgeleri ve Staj Sicil Belgesi gerekmektedir.\n\nSOURCES: BAHÇEŞEHİR ÜNİVERSİTESİ MÜHENDİSLİK VE DOĞA BİLİMLERİ FAKÜLTESİ MİMARLIK VE TASARIM FAKÜLTESİ STAJ YÖNERGESİ.pdf, Madde 12",
     "retrieved_sources": [
       {
-        "source_file": "BAU_Staj_Endustri_Muhendisligi.txt",
-        "article_no": null
+        "source_file": "BAHÇEŞEHİR ÜNİVERSİTESİ MÜHENDİSLİK VE DOĞA BİLİMLERİ FAKÜLTESİ MİMARLIK VE TASARIM FAKÜLTESİ STAJ YÖNERGESİ.pdf",
+        "article_no": "12"
       },
       {
-        "source_file": "BAHÇEŞEHİR ÜNİVERSİTESİ STAJ YÖNERGESİ.pdf",
-        "article_no": "29 (bölüm 5)"
+        "source_file": "BAHÇEŞEHİR ÜNİVERSİTESİ MÜHENDİSLİK VE DOĞA BİLİMLERİ FAKÜLTESİ MİMARLIK VE TASARIM FAKÜLTESİ STAJ YÖNERGESİ.pdf",
+        "article_no": "7 (bölüm 1)"
       },
       {
         "source_file": "BAHÇEŞEHİR ÜNİVERSİTESİ LİSANSÜSTÜ PROGRAMLARINA YURTDIŞINDAN ÖĞRENCİ KABULÜ BAŞVURU VE KAYIT İŞLEMLERİNE İLİŞKİN YÖNERGE.pdf",
         "article_no": "7 (bölüm 1)"
       },
       {
-        "source_file": "BAHÇEŞEHİR ÜNİVERSİTESİ LİSANSÜSTÜ PROGRAMLARINA YURTDIŞINDAN ÖĞRENCİ KABULÜ BAŞVURU VE KAYIT İŞLEMLERİNE İLİŞKİN YÖNERGE.pdf",
-        "article_no": "6"
+        "source_file": "BAHÇEŞEHİR ÜNİVERSİTESİ MÜHENDİSLİK VE DOĞA BİLİMLERİ FAKÜLTESİ MİMARLIK VE TASARIM FAKÜLTESİ STAJ YÖNERGESİ.pdf",
+        "article_no": null
       },
       {
-        "source_file": "BAHÇEŞEHİR ÜNİVERSİTESİ LİSANSÜSTÜ EĞİTİM VE ÖĞRETİM YÖNETMELİĞİ.pdf",
-        "article_no": "6"
+        "source_file": "BAHÇEŞEHİR ÜNİVERSİTESİ MÜHENDİSLİK VE DOĞA BİLİMLERİ FAKÜLTESİ MİMARLIK VE TASARIM FAKÜLTESİ STAJ YÖNERGESİ.pdf",
+        "article_no": "2"
       }
     ]
   },
@@ -120,8 +120,12 @@
     "category": "factual",
     "query": "What is the required GPA to apply for the double major program?",
     "ground_truth_summary": "Application/admission conditions for double major are specified in Madde 7.",
-    "answer": "The provided context does not contain enough information to state the required GPA to apply for the double major program.\n\nSOURCES: BAHÇEŞEHİR ÜNİVERSİTESİ ÇİFT ANADAL PROGRAMI YÖNERGESİ.pdf, Madde 5",
+    "answer": "To apply for a double major program, an undergraduate student must have a general grade point average of at least 3.00 out of 4.00, and an associate degree student must have a general grade point average of at least 3.50 out of 4.00.\n\nSOURCES: BAHÇEŞEHİR ÜNİVERSİTESİ ÇİFT ANADAL PROGRAMI YÖNERGESİ.pdf, Madde 7",
     "retrieved_sources": [
+      {
+        "source_file": "BAHÇEŞEHİR ÜNİVERSİTESİ ÇİFT ANADAL PROGRAMI YÖNERGESİ.pdf",
+        "article_no": "7 (bölüm 2)"
+      },
       {
         "source_file": "BAHÇEŞEHİR ÜNİVERSİTESİ ERASMUS+ ÖĞRENCİ  AKADEMİK VE İDARİ PERSONEL SEÇİM-DEĞİŞİM KRİTERLERİ VE UYGULAMA YÖNERGESİ.pdf",
         "article_no": "21 (bölüm 13)"
@@ -131,16 +135,12 @@
         "article_no": "5 (bölüm 1)"
       },
       {
-        "source_file": "BAHÇEŞEHİR ÜNİVERSİTESİ ERASMUS+ ÖĞRENCİ  AKADEMİK VE İDARİ PERSONEL SEÇİM-DEĞİŞİM KRİTERLERİ VE UYGULAMA YÖNERGESİ.pdf",
-        "article_no": "21 (bölüm 9)"
-      },
-      {
         "source_file": "BAU_Exchange_Erasmus_FAQ.txt",
         "article_no": null
       },
       {
-        "source_file": "BAU_Exchange_Erasmus_FAQ.txt",
-        "article_no": null
+        "source_file": "BAHÇEŞEHİR ÜNİVERSİTESİ LİSANSÜSTÜ PROGRAMLARINA YURTDIŞINDAN ÖĞRENCİ KABULÜ BAŞVURU VE KAYIT İŞLEMLERİNE İLİŞKİN YÖNERGE.pdf",
+        "article_no": "7 (bölüm 2)"
       }
     ]
   },
@@ -149,7 +149,7 @@
     "category": "procedural",
     "query": "Yatay geçiş başvurusu ne zaman yapılabilir?",
     "ground_truth_summary": "Sadece ilan edilen süre içerisinde başvuru yapılabilir.",
-    "answer": "Önlisans programlarında yatay geçiş kontenjanları ile başvuru ve değerlendirme takvimi ikinci yarıyıl için Ocak ayı içinde, üçüncü yarıyıl için ise Temmuz ayı içinde ilan edilmektedir. Lisans programlarında ise dört yıllık eğitim verenlerin ikinci ve üçüncü sınıfları, beş yıllık eğitim verenlerin ikinci, üçüncü ve dördüncü sınıfları ve altı yıllık eğitim verenlerin ikinci, üçüncü, dördüncü ve beşinci sınıfları için yatay geçiş kontenjanları ile başvuru ve değerlendirme takvimi Temmuz ayı içinde ilan edilmektedir. Ayrıca, hazırlık sınıfı dahil olmak üzere merkezi yerleştirme puanıyla yatay geçiş için başvuru takvimi Yükseköğretim Yürütme Kurulu tarafından tespit edilmektedir. Akademik takvime göre, 2026-2027 akademik yılı için yatay geçiş başvuruları 01-15 Ağustos 2026 tarihlerinde yapılmıştır.\n\nSOURCES: BAHÇEŞEHİR ÜNİVERSİTESİ ÖN LİSANS VE LİSANS DÜZEYİNDE YÜKSEKÖĞRETİM DİPLOMA PROGRAMLARI ARASI YATAY GEÇİŞLERE İLİŞKİN YÖNERGE, Madde 20, Madde 13; BAU_Akademik_Takvim_Onlisans_Lisans.txt",
+    "answer": "Yatay geçiş başvurularının ne zaman yapılabileceği konusunda sağlanan kaynaklarda belirli bir başvuru tarihi aralığı verilmemiştir. Ancak akademik takvimde yatay geçiş başvurularının 01-15 Ağustos 2026 tarihlerinde yapıldığına dair bir ifade bulunmaktadır. Bununla birlikte, merkezi yerleştirme puanıyla yapılacak yatay geçişlerde başvuru takviminin Yükseköğretim Yürütme Kurulu tarafından tespit edildiği belirtilmiştir.\n\nSOURCES: BAHÇEŞEHİR ÜNİVERSİTESİ ÖN LİSANS VE LİSANS DÜZEYİNDE YÜKSEKÖĞRETİM DİPLOMA PROGRAMLARI ARASI YATAY GEÇİŞLERE İLİŞKİN YÖNERGE, Madde 20; BAU_Akademik_Takvim_Onlisans_Lisans.txt",
     "retrieved_sources": [
       {
         "source_file": "BAHÇEŞEHİR ÜNİVERSİTESİ ÖN LİSANS VE LİSANS DÜZEYİNDE YÜKSEKÖĞRETİM DİPLOMA PROGRAMLARI ARASI YATAY GEÇİŞLERE İLİŞKİN YÖNERGE.pdf",
@@ -157,7 +157,7 @@
       },
       {
         "source_file": "BAHÇEŞEHİR ÜNİVERSİTESİ ÖN LİSANS VE LİSANS DÜZEYİNDE YÜKSEKÖĞRETİM DİPLOMA PROGRAMLARI ARASI YATAY GEÇİŞLERE İLİŞKİN YÖNERGE.pdf",
-        "article_no": "13 (bölüm 2)"
+        "article_no": "25 (bölüm 13)"
       },
       {
         "source_file": "BAHÇEŞEHİR ÜNİVERSİTESİ ÖN LİSANS VE LİSANS DÜZEYİNDE YÜKSEKÖĞRETİM DİPLOMA PROGRAMLARI ARASI YATAY GEÇİŞLERE İLİŞKİN YÖNERGE.pdf",
@@ -169,7 +169,7 @@
       },
       {
         "source_file": "BAHÇEŞEHİR ÜNİVERSİTESİ ÖN LİSANS VE LİSANS DÜZEYİNDE YÜKSEKÖĞRETİM DİPLOMA PROGRAMLARI ARASI YATAY GEÇİŞLERE İLİŞKİN YÖNERGE.pdf",
-        "article_no": "16 (bölüm 1)"
+        "article_no": "6 (bölüm 4)"
       }
     ]
   },
@@ -207,7 +207,7 @@
     "category": "procedural",
     "query": "Sınav sonucuma itiraz etmek için nereye başvurmam gerekiyor?",
     "ground_truth_summary": "Dersin bağlı bulunduğu akademik birim sekreterliğine yazılı olarak başvuru.",
-    "answer": "Sınav sonucunuza itiraz etmek için, dersin kodunun bağlı bulunduğu ilgili akademik birimin bölüm veya program başkanlığına notlar ilan edildikten sonra üç iş günü içerisinde yazılı olarak başvurmanız gerekmektedir. Alternatif olarak, tıp eğitimi alan öğrenciler sınav notuna ilişkin itirazları için sonuçların ilan edilmesini takip eden ilk beş iş günü içinde Dekanlığa yazılı olarak başvurmalıdır.\n\nSOURCES: BAHÇEŞEHİR ÜNİVERSİTESİ ÖN LİSANS VE LİSANS EĞİTİM-ÖĞRETİM VE SINAV YÖNETMELİĞİ, Madde 27; BAU_Tip_Egitim_Ogretim_ve_Sinav_Yonetmeligi.pdf, Madde 35",
+    "answer": "Sınav sonuçlarına veya ders başarı notlarına itiraz etmek için başvurulması gereken yer, öğrencinin kayıtlı olduğu programın veya eğitimin türüne göre değişiklik göstermektedir:\n\n1. Tıp fakültesi öğrencilerinin sınav sorularına ilişkin itirazları için Fakültedeki öğrenci işleri birimine, sınav notuna ilişkin itirazları için ise Dekanlığa yazılı olarak başvurması gerekmektedir. Alan içi seçmeli derslerin sonuçlarına yapılan itirazlar ise dönem koordinatörü veya seçmeli ders sorumlu öğretim üyesi tarafından sonuçlandırılır ve Dekanlık tarafından ilan edilir.\n2. Ön lisans ve lisans öğrencilerinin ara sınav notları ile yarıyıl/yılsonu final, bütünleme, mazeret/telafi ve ek sınav sonundaki ders başarı notlarına itirazları için dersin kodunun bağlı bulunduğu ilgili akademik birimin bölüm veya program başkanlığına yazılı olarak başvurması gerekir.\n3. Lisansüstü öğrencilerinin yarıyıl/yıl sonu final, bütünleme, mazeret/telafi ve ek sınav sonundaki ders başarı notlarına itirazları için dersin kodunun bağlı bulunduğu ilgili akademik birimin bölüm veya program başkanlığına yazılı olarak başvurması gerekmektedir.\n\nSOURCES: BAU_Tip_Egitim_Ogretim_ve_Sinav_Yonetmeligi.pdf, Madde 35; BAHÇEŞEHİR ÜNİVERSİTESİ ÖN LİSANS VE LİSANS EĞİTİM-ÖĞRETİM VE SINAV YÖNETMELİĞİ.pdf, Madde 27; BAHÇEŞEHİR ÜNİVERSİTESİ LİSANSÜSTÜ EĞİTİM VE ÖĞRETİM YÖNETMELİĞİ.pdf, Madde 45",
     "retrieved_sources": [
       {
         "source_file": "BAU_Tip_Egitim_Ogretim_ve_Sinav_Yonetmeligi.pdf",
@@ -218,16 +218,16 @@
         "article_no": "27 (bölüm 1)"
       },
       {
-        "source_file": "BAHÇEŞEHİR ÜNİVERSİTESİ SINAV YÖNERGESİ.pdf",
-        "article_no": "23 (bölüm 11)"
-      },
-      {
-        "source_file": "BAHÇEŞEHİR ÜNİVERSİTESİ YAYIN TEŞVİK YÖNERGESİ.pdf",
-        "article_no": "8"
+        "source_file": "BAHÇEŞEHİR ÜNİVERSİTESİ LİSANSÜSTÜ EĞİTİM VE ÖĞRETİM YÖNETMELİĞİ.pdf",
+        "article_no": "45 (bölüm 2)"
       },
       {
         "source_file": "BAHÇEŞEHİR ÜNİVERSİTESİ SINAV YÖNERGESİ.pdf",
         "article_no": "9 (bölüm 1)"
+      },
+      {
+        "source_file": "BAU_Tip_Egitim_Ogretim_ve_Sinav_Yonetmeligi.pdf",
+        "article_no": "34 (bölüm 1)"
       }
     ]
   },
@@ -236,15 +236,19 @@
     "category": "procedural",
     "query": "How does the academic advising process work between a student and their advisor?",
     "ground_truth_summary": "Advisor selection/assignment process and advisory services are described in Madde 5-6.",
-    "answer": "The academic advising process begins when students submit their advising requests, which are then evaluated by the faculty or department presidencies. Academic advisors are assigned from among full-time faculty members based on student preference, departmental needs, and the advisors' areas of expertise. Advisor assignment procedures are carried out by the academic unit through the University Information Management System (UMIS) upon the recommendation of the head of the department. Once assigned, academic advising services include providing guidance to students on academic planning and course selection, offering academic direction aligned with their career goals, tracking their course success and overall academic performance, and developing proposed solutions for their academic problems.\n\nSOURCES: BAU_Akademik_Danismanlik_Yonergesi.pdf, Madde 5, Madde 6; BAHÇEŞEHİR ÜNİVERSİTESİ AKADEMİK DANIŞMANLIK YÖNERGESİ.pdf, Madde 5, Madde 6",
+    "answer": "The academic advising process involves specific duties and responsibilities for both the advisor and the student. For the advisor, services include guiding students in academic planning and course selection, providing academic direction aligned with career goals, tracking course success and general academic performance, and developing solutions for academic problems. Advisors also mentor students throughout their academic journey, offer information on course selection and semester planning, deliver feedback on academic status and performance during consultations, supply resources supporting academic development, hold weekly consultation sessions on designated days and times, plan and electronically announce available time slots, and fulfill obligations under personal data protection legislation regarding student information. For the student, responsibilities include requesting meetings with the advisor when necessary, acting in accordance with the advisor's availability, striving to provide feedback, selecting courses that align with the academic program, monitoring academic performance, communicating with advisors for additional support, effectively utilizing advisory services to contribute to personal academic development, and regularly reading university announcements while responding within two days when required.\n\nSOURCES: BAHÇEŞEHİR ÜNİVERSİTESİ AKADEMİK DANIŞMANLIK YÖNERGESİ.pdf, Madde 5; BAU_Akademik_Danismanlik_Yonergesi.pdf, Madde 5",
     "retrieved_sources": [
       {
+        "source_file": "BAHÇEŞEHİR ÜNİVERSİTESİ AKADEMİK DANIŞMANLIK YÖNERGESİ.pdf",
+        "article_no": "6"
+      },
+      {
         "source_file": "BAU_Akademik_Danismanlik_Yonergesi.pdf",
         "article_no": "6"
       },
       {
         "source_file": "BAHÇEŞEHİR ÜNİVERSİTESİ AKADEMİK DANIŞMANLIK YÖNERGESİ.pdf",
-        "article_no": "6"
+        "article_no": "5"
       },
       {
         "source_file": "BAU_Akademik_Danismanlik_Yonergesi.pdf",
@@ -252,11 +256,7 @@
       },
       {
         "source_file": "BAHÇEŞEHİR ÜNİVERSİTESİ AKADEMİK DANIŞMANLIK YÖNERGESİ.pdf",
-        "article_no": "5"
-      },
-      {
-        "source_file": "BAHÇEŞEHİR ÜNİVERSİTESİ LİSANSÜSTÜ EĞİTİM VE ÖĞRETİM YÖNETMELİĞİ.pdf",
-        "article_no": "13"
+        "article_no": "12 (bölüm 3)"
       }
     ]
   },
@@ -265,7 +265,7 @@
     "category": "explanatory",
     "query": "AKTS/ECTS kredi sistemi ne amaçla kullanılır?",
     "ground_truth_summary": "Öğrenci hareketliliğini kolaylaştırmak, öğrenci merkezli iş-yüküne dayalı eğitim modeli (Bologna Süreci kapsamında).",
-    "answer": "Avrupa Kredi Transfer Sistemi (AKTS), öğrenci hareketliliğini kolaylaştırmak ve öğrencilerin yurt içinde ve yurt dışında aldıkları ve başarılı oldukları ders kredilerinin bir yükseköğretim kurumundan diğerine transfer edilmesi yoluyla akademik tanınmayı sağlamak amacıyla geliştirilmiş bir akademik denklik sistemidir. Ayrıca, ülkeler arasındaki eğitim ve notlandırma sistemlerindeki farklılıklar nedeniyle öğrencilerin ders yüklerinin belirlenmesinde ve aldıkları notların transferinde ortak bir dil olarak kullanılmaktadır.\n\nSOURCES: BAHÇEŞEHİR ÜNİVERSİTESİ AVRUPA KREDİ TRANSFER SİSTEMİ (AKTS ECTS) UYGULAMA YÖNERGESİ.pdf, Madde 4",
+    "answer": "AKTS kredi sistemi, öğrenci hareketliliğini kolaylaştırmak ve öğrencilerin yurt içinde ve yurt dışında aldıkları ve başarılı oldukları ders kredilerinin bir yükseköğretim kurumundan diğerine transfer edilmesi yoluyla akademik tanınmayı sağlamak amacıyla geliştirilmiş bir akademik denklik sistemidir. Ayrıca ülkeler arasındaki eğitim ve notlandırma sistemlerindeki farklılıklar nedeniyle öğrencilerin ders yüklerinin belirlenmesinde ve aldıkları notların transferinde ortak bir dil olarak işlev görür.\n\nSOURCES: BAHÇEŞEHİR ÜNİVERSİTESİ AVRUPA KREDİ TRANSFER SİSTEMİ (AKTS ECTS) UYGULAMA YÖNERGESİ.pdf, Madde 4",
     "retrieved_sources": [
       {
         "source_file": "BAHÇEŞEHİR ÜNİVERSİTESİ AVRUPA KREDİ TRANSFER SİSTEMİ (AKTS ECTS) UYGULAMA YÖNERGESİ.pdf",
@@ -284,8 +284,8 @@
         "article_no": "6"
       },
       {
-        "source_file": "BAHÇEŞEHİR ÜNİVERSİTESİ AVRUPA KREDİ TRANSFER SİSTEMİ (AKTS ECTS) UYGULAMA YÖNERGESİ.pdf",
-        "article_no": "7"
+        "source_file": "BAHÇEŞEHİR ÜNİVERSİTESİ ERASMUS+ ÖĞRENCİ  AKADEMİK VE İDARİ PERSONEL SEÇİM-DEĞİŞİM KRİTERLERİ VE UYGULAMA YÖNERGESİ.pdf",
+        "article_no": "4-b"
       }
     ]
   },
@@ -294,15 +294,11 @@
     "category": "explanatory",
     "query": "Mazeret sınavı nedir, hangi durumlarda uygulanır?",
     "ground_truth_summary": "İlgili yönetim kurulunca kabul edilen haklı bir mazereti nedeniyle sınava giremeyen öğrenciler için yapılan sınav.",
-    "answer": "Mazeret sınavı, ilgili birimin yönetim kurulunca kabul edilen haklı ve geçerli bir sebeple sınavlara katılamayan öğrenciler için açılan bir sınavdır. Mazeret sınavı, ara sınavlar ile ilgili olarak uygulanır; ancak quiz, ödev, proje ve benzeri çalışmalar ile bütünleme ve ek sınavlar için mazeret sınav hakkı verilmez. Ayrıca güz ve bahar yarıyıllarında final sınavlarının mazeret sınavları yoktur, bunun yerine kabul edilen mazereti sebebiyle final sınavına giremeyen öğrenciler bütünleme sınavlarına girebilirler; yaz döneminde ise sadece kabul edilen mazeretleri nedeniyle final sınavına giremeyen öğrenciler için mazeret sınavları yapılır.\n\nSOURCES: Bahçeşehir Üniversitesi Sınav Yönergesi, Madde 9; Bahçeşehir Üniversitesi Ön Lisans ve Lisans Eğitim-Öğretim ve Sınav Yönetmeliği, Madde 23",
+    "answer": "Mazeret sınavı, ilgili birimin yönetim kurulunca kabul edilen haklı ve geçerli bir sebeple sınavlara katılamayan öğrenciler için açılan bir sınavdır. Mazeret sınavı, ara sınavlar ile ilgili olarak uygulanır; ayrıca yaz döneminde alınan derslerin bütünleme sınavları olmadığı için sadece kabul edilen mazeretleri nedeniyle final sınavına giremeyen öğrenciler için de mazeret sınavları yapılır. Quiz, ödev, proje gibi çalışmalar ile bütünleme ve ek sınavlar için mazeret sınav hakkı verilmez. Aynı gün ve saatte ara sınavları çakışan öğrencilere de giremedikleri sınavlar için mazeret sınavı hakkı tanınır; ancak çakışan sınav genel eğitimle ilgili bir sınavsa öğrenci öncelikle genel eğitim dersi sınavına girmek zorundadır.\n\nSOURCES: BAHÇEŞEHİR ÜNİVERSİTESİ SINAV YÖNERGESİ.pdf, Madde 9; BAHÇEŞEHİR ÜNİVERSİTESİ ÖN LİSANS VE LİSANS EĞİTİM-ÖĞRETİM VE SINAV YÖNETMELİĞİ.pdf, Madde 23",
     "retrieved_sources": [
       {
         "source_file": "BAHÇEŞEHİR ÜNİVERSİTESİ SINAV YÖNERGESİ.pdf",
         "article_no": "9 (bölüm 1)"
-      },
-      {
-        "source_file": "BAHÇEŞEHİR ÜNİVERSİTESİ SINAV YÖNERGESİ.pdf",
-        "article_no": "13"
       },
       {
         "source_file": "BAHÇEŞEHİR ÜNİVERSİTESİ SINAV YÖNERGESİ.pdf",
@@ -314,7 +310,11 @@
       },
       {
         "source_file": "BAHÇEŞEHİR ÜNİVERSİTESİ SINAV YÖNERGESİ.pdf",
-        "article_no": "23 (bölüm 12)"
+        "article_no": "23 (bölüm 16)"
+      },
+      {
+        "source_file": "BAHÇEŞEHİR ÜNİVERSİTESİ SINAV YÖNERGESİ.pdf",
+        "article_no": "4 (bölüm 1)"
       }
     ]
   },
@@ -323,8 +323,12 @@
     "category": "explanatory",
     "query": "Engelli öğrenciler için sınavlarda ne tür düzenlemeler yapılır?",
     "ground_truth_summary": "Amaç ve kapsam: engelli öğrencilere yönelik eğitim-öğretim ve sınav tedbirleri.",
-    "answer": "Engelli öğrencilerin sınavlarına yönelik olarak üniversite düzenlemelerinde çeşitli tedbirler alınmaktadır. Bedensel engelli öğrencilerin sınav salonları engel durumları dikkate alınarak belirlenirken; sağlık kurulu raporuna göre el ve kollarını kullanamayan öğrencilere sınavda okuyucu ve yazıcı görevlendirilir, ayrıca sınavlara ilaç, tıbbi malzeme veya sıvı ile girmelerine ve sınav görevlisi nezaretinde tuvalet ve lavabo ihtiyacını karşılamalarına izin verilir. İşitme engelli öğrencilerin sınavları talep edilmesi halinde açık, anlaşılır ve karmaşık olmayan sorulardan oluşturulur, sınav öncesi veya sırasında yapılacak düzeltme ve açıklamalar bu öğrencilerin anlayacağı şekilde özel olarak yapılır ve talep etmeleri halinde sınavlarına ek süre ile Engelli Öğrenci Birimi gözetiminde girerler. Geçici sağlık problemi olan veya hamilelik gibi özel durumu olan öğrenciler de ihtiyaç duyulması halinde ek gıda, ilaç, sargı, alçı, atel, baston ve koltuk değneği ile sınava girebilir ve sınav görevlisi nezaretinde tuvalet ile lavabo ihtiyaçlarını karşılayabilirler. Ayrıca, üniversite kampüslerinde elektronik ortamda yapılacak sınavlarda erişilebilirlik düzenlemeleri yapılmamış ise engelli öğrencilere okuyucu ve yazıcı desteği sağlanır.\n\nSOURCES: Bahçeşehir Üniversitesi Engelli Öğrencilere Yönelik Eğitim - Öğretim ve Sınav Tedbirlerine İlişkin Yönergesi, Madde 8, Madde 10, Madde 11 ve Madde 14",
+    "answer": "Engelli öğrenciler için sınavlarda yapılan düzenlemeler ve tedbirler engel gruplarına ve sınav türlerine göre değişiklik göstermektedir. Zihinsel engelli, kronik hastalıklı, özel öğrenme güçlüğü, dil ve konuşma bozukluğu, dikkat eksikliği ve hiperaktivite bozukluğu, disleksi, yaygın gelişimsel bozukluk ile ruhsal ve duygusal sağlık sorunu olan özel gereksinimli öğrencilerin talepleri doğrultusunda, engel türüne, düzeyine veya özel gereksinime göre aynı öğrenme çıktılarını ölçen başka sorular hazırlanabilir veya eşdeğer başka bir değerlendirme yöntemi kullanılabilir. Bedensel engelli öğrenciler için sınav salonları engel durumları dikkate alınarak belirlenir; sağlık kurulu raporuna göre el ve kollarını kullanamayan öğrencilere sınavda okuyucu ve yazıcı görevlendirilir; bu öğrencilerin sınavlara ilaç, tıbbi malzeme veya sıvı ile girmelerine ve sınav sırasında sınav görevlisi nezaretinde tuvalet ve lavabo ihtiyacını karşılamalarına izin verilir. Geçici sağlık problemi veya hamilelik gibi özel durumu olan öğrenciler ise ihtiyaç olması halinde ek gıda, ilaç, sargı, alçı, atel, baston ve koltuk değneği ile sınava girebilir ve sınav görevlisi nezaretinde tuvalet ve lavabo ihtiyaçlarını karşılayabilirler. Ayrıca, engelli öğrencilerin sınavlarda talep etmeleri halinde verilecek okuyucu ve yazıcılar Engelli Öğrenci Birimi tarafından temin edilir. Üniversite kampüslerinde elektronik ortamda yapılacak sınavlar için uzaktan eğitim portalı ve sınav uygulamaları erişilebilir bir yazılım veya tasarım ile hazırlanır, erişilebilirlik düzenlemeleri yapılmamışse okuyucu ve yazıcı desteği verilir ve kullanılacak bilgisayarların en az yüzde onuna yaygın olarak kullanılan ekran okuyucu ve ekran büyütme programları kurulur.\n\nSOURCES: BAHÇEŞEHİR ÜNİVERSİTESİ ENGELLİ ÖĞRENCİLERE YÖNELİK EĞİTİM - ÖĞRETİM VE SINAV TEDBİRLERİNE İLİŞKİN YÖNERGESİ.pdf, Madde 8, Madde 11, Madde 14, Madde 19",
     "retrieved_sources": [
+      {
+        "source_file": "BAHÇEŞEHİR ÜNİVERSİTESİ ENGELLİ ÖĞRENCİLERE YÖNELİK EĞİTİM - ÖĞRETİM VE SINAV TEDBİRLERİNE İLİŞKİN YÖNERGESİ.pdf",
+        "article_no": "11 (bölüm 1)"
+      },
       {
         "source_file": "BAHÇEŞEHİR ÜNİVERSİTESİ ENGELLİ ÖĞRENCİLERE YÖNELİK EĞİTİM - ÖĞRETİM VE SINAV TEDBİRLERİNE İLİŞKİN YÖNERGESİ.pdf",
         "article_no": "17 (bölüm 2)"
@@ -332,10 +336,6 @@
       {
         "source_file": "BAHÇEŞEHİR ÜNİVERSİTESİ ENGELLİ ÖĞRENCİLERE YÖNELİK EĞİTİM - ÖĞRETİM VE SINAV TEDBİRLERİNE İLİŞKİN YÖNERGESİ.pdf",
         "article_no": "8"
-      },
-      {
-        "source_file": "BAHÇEŞEHİR ÜNİVERSİTESİ ENGELLİ ÖĞRENCİLERE YÖNELİK EĞİTİM - ÖĞRETİM VE SINAV TEDBİRLERİNE İLİŞKİN YÖNERGESİ.pdf",
-        "article_no": "10"
       },
       {
         "source_file": "BAHÇEŞEHİR ÜNİVERSİTESİ ENGELLİ ÖĞRENCİLERE YÖNELİK EĞİTİM - ÖĞRETİM VE SINAV TEDBİRLERİNE İLİŞKİN YÖNERGESİ.pdf",
@@ -352,12 +352,8 @@
     "category": "comparative",
     "query": "Yandal programı ile çift anadal programı arasındaki fark nedir?",
     "ground_truth_summary": "Çift anadal ikinci bir diploma verir; yandal diploma vermez, sertifika niteliğindedir (Amaç/Kapsam maddeleri karşılaştırılmalı).",
-    "answer": "Yandal programı ile çift anadal programı, bir öğrencinin kayıtlı olduğu anadal programı dışında devam etme hakkı verilebilen ikinci program türleridir; ancak bu iki programın yönetmeliklerde belirtilen kuralları, ilişkileri ve işleyişleri farklıdır. Yan dal programı başarı nedeniyle öğrencinin anadal lisans programındaki başarı ve mezuniyetini hiçbir şekilde etkilemezken, yan dal için ayrı karne ve not belgesi düzenlenmekte ve bir dönemde anadal, çift anadal ve yan dalda alınabilecek toplam kredi yükü 33 krediyi aşamamaktadır. Çift anadal programında ise öğrencinin anadal programındaki başarısı ve mezuniyeti hiçbir biçimde etkilenmemekle birlikte, çift anadal için tüm derslerinin yer aldığı ayrı bir not belgesi düzenlenir, intibak işlemleri özel bir karşılaştırma ile yapılır, öğrenci çift anadalda aldığı bir dersi anadalında hiçbir şekilde eşdeğer saydıramaz ve anadalındaki tüm dersleri kendi anadalından alması gerekir. Ayrıca, çift anadal programından ayrılan bir öğrenci eğer çift anadal verilen bölümce yan dal programları da veriliyorsa ve tüm gereklerini yerine getirmişse o yan dal programına ait sertifikayı almaya hak kazanırken, eksik dersleri varsa yarıyıl kısıtı olmaksızın o yan dal programına başvuru hakkı tanınmaktadır.\n\nSOURCES: BAHÇEŞEHİR ÜNİVERSİTESİ YAN DAL PROGRAMI YÖNERGESİ.pdf, Madde 8; BAHÇEŞEHİR ÜNİVERSİTESİ ÇİFT ANADAL PROGRAMI YÖNERGESİ.pdf, Madde 9, Madde 10, Madde 11; BAHÇEŞEHİR ÜNİVERSİTESİ ÖN LİSANS VE LİSANS EĞİTİM-ÖĞRETİM VE SINAV YÖNETMELİĞİ.pdf, Madde 35",
+    "answer": "Sağlanan belgelerde yandal programı ile çift anadal programı arasındaki farkın tanımı yer almamaktadır; belgeler yalnızca çift anadal programını tanımlamakta ve her iki programın yürütülmesine ilişkin bazı esasları belirtmektedir. Çift anadal programı, başarı şartını ve diğer koşulları sağlayan öğrencilerin aynı yükseköğretim kurumunun iki diploma programından eş zamanlı olarak ders alıp, iki ayrı diploma alabilmesini sağlayan program olarak tanımlanmıştır.\n\nSOURCES: BAHÇEŞEHİR ÜNİVERSİTESİ ÇİFT ANADAL PROGRAMI YÖNERGESİ.pdf, Madde 4-ğ; BAHÇEŞEHİR ÜNİVERSİTESİ ÖN LİSANS VE LİSANS EĞİTİM-ÖĞRETİM VE SINAV YÖNETMELİĞİ.pdf, Madde 35",
     "retrieved_sources": [
-      {
-        "source_file": "BAHÇEŞEHİR ÜNİVERSİTESİ YAN DAL PROGRAMI YÖNERGESİ.pdf",
-        "article_no": "8"
-      },
       {
         "source_file": "BAHÇEŞEHİR ÜNİVERSİTESİ ÇİFT ANADAL PROGRAMI YÖNERGESİ.pdf",
         "article_no": "9 (bölüm 1)"
@@ -365,6 +361,10 @@
       {
         "source_file": "BAHÇEŞEHİR ÜNİVERSİTESİ ÇİFT ANADAL PROGRAMI YÖNERGESİ.pdf",
         "article_no": "10 (bölüm 2)"
+      },
+      {
+        "source_file": "BAHÇEŞEHİR ÜNİVERSİTESİ ÇİFT ANADAL PROGRAMI YÖNERGESİ.pdf",
+        "article_no": "4-ğ"
       },
       {
         "source_file": "BAHÇEŞEHİR ÜNİVERSİTESİ ÖN LİSANS VE LİSANS EĞİTİM-ÖĞRETİM VE SINAV YÖNETMELİĞİ.pdf",
@@ -381,7 +381,7 @@
     "category": "comparative",
     "query": "Ara sınav ile mazeret sınavı arasındaki fark nedir?",
     "ground_truth_summary": "Ara sınav dönem içi düzenli sınav; mazeret sınavı kabul edilen bir mazeret nedeniyle girilemeyen sınav yerine yapılır.",
-    "answer": "Ara sınav, yarıyıl içinde yapılan yazılı sınavları ifade ederken; mazeret sınavı, ilgili birimin yönetim kurulunca kabul edilen haklı ve geçerli bir sebep dolayısıyla ara sınavlara katılamayan öğrenciler için açılan ve içinde bulunulan dönemin son haftasında dekanlık veya müdürlükçe planlanan programa göre düzenlenen bir sınav türüdür.\n\nSOURCES: BAHÇEŞEHİR ÜNİVERSİTESİ SINAV YÖNERGESİ.pdf, Madde 9; BAHÇEŞEHİR ÜNİVERSİTESİ LİSANSÜSTÜ EĞİTİM VE ÖĞRETİM YÖNETMELİĞİ.pdf, Madde 45",
+    "answer": "Ara sınav, bir ders kapsamında yarıyıl/yıl içinde yapılan değerlendirme etkinliklerinden biridir ve sınavların yapılış şekillerine, sayılarına, tarihlerine ve yerine ilgili yönetim kurulları karar verir. Mazeret sınavı ise, haklı ve geçerli bir sebepten dolayı ara sınava katılamayan ve bu mazereti ilgili yönetim kurulunca kabul edilen öğrenciler için açılan bir sınavdır. Ara sınavlar olağan dönem içinde planlanıp yapılırken, mazeret sınavları ara sınavlar için geçerlidir ve normal ara sınavlara katılamayan mazeret sahibi öğrenciler için dönemin son haftasında dekanlık veya müdürlükçe planlanan programa göre gerçekleştirilir.\n\nSOURCES: BAHÇEŞEHİR ÜNİVERSİTESİ SINAV YÖNERGESİ.pdf, Madde 3; BAHÇEŞEHİR ÜNİVERSİTESİ SINAV YÖNERGESİ.pdf, Madde 9",
     "retrieved_sources": [
       {
         "source_file": "BAHÇEŞEHİR ÜNİVERSİTESİ SINAV YÖNERGESİ.pdf",
@@ -389,11 +389,11 @@
       },
       {
         "source_file": "BAHÇEŞEHİR ÜNİVERSİTESİ SINAV YÖNERGESİ.pdf",
-        "article_no": "23 (bölüm 16)"
+        "article_no": "3 (bölüm 1)"
       },
       {
-        "source_file": "BAHÇEŞEHİR ÜNİVERSİTESİ LİSANSÜSTÜ EĞİTİM VE ÖĞRETİM YÖNETMELİĞİ.pdf",
-        "article_no": "45 (bölüm 1)"
+        "source_file": "BAU_Tip_Egitim_Ogretim_ve_Sinav_Yonetmeligi.pdf",
+        "article_no": "26"
       },
       {
         "source_file": "BAHÇEŞEHİR ÜNİVERSİTESİ SINAV YÖNERGESİ.pdf",
@@ -410,27 +410,27 @@
     "category": "comparative",
     "query": "Burs ile destek arasındaki fark nedir?",
     "ground_truth_summary": "Tanımlar maddesinde burs ve destek ayrı ayrı tanımlanır (burs: öğrenim ücretine yapılan destek).",
-    "answer": "Sağlanan resmi yönetmelik metinlerinde burs ile destek arasındaki farkın tanımına ve ayrımına yer verilmemiştir; bu nedenle mevcut içerikle bu soruya yanıt vermek mümkün değildir.\n\nSOURCES: BAHÇEŞEHİR ÜNİVERSİTESİ ÖN LİSANS, LİSANS, LİSANSÜSTÜ BURS VE DESTEK YÖNERGESİ.pdf, İKİNCİ BÖLÜM - Ön Lisans ve Lisans Burs ve Destekler, Madde 8; BAU_Burs_ve_Destek_Yonergesi.pdf, DÖRDÜNCÜ BÖLÜM - Son Hükümler, Madde 22",
+    "answer": "Burs, öğrenim ücretine yapılan desteği ifade ederken; destek ise öğrenciye yapılan nakdi nitelikteki katkıları ve nakdi desteği ifade eder.\n\nSOURCES: BAHÇEŞEHİR ÜNİVERSİTESİ ÖN LİSANS, LİSANS, LİSANSÜSTÜ BURS VE DESTEK YÖNERGESİ.pdf, Madde 4-a ve Madde 4-ç; BAU_Burs_ve_Destek_Yonergesi.pdf, Madde 4-a ve Madde 4-ç",
     "retrieved_sources": [
       {
         "source_file": "BAHÇEŞEHİR ÜNİVERSİTESİ ÖN LİSANS, LİSANS, LİSANSÜSTÜ BURS VE DESTEK YÖNERGESİ.pdf",
-        "article_no": "8 (bölüm 2)"
+        "article_no": "4-a"
       },
       {
         "source_file": "BAU_Burs_ve_Destek_Yonergesi.pdf",
-        "article_no": "22 (bölüm 24)"
+        "article_no": "4-a"
       },
       {
         "source_file": "BAHÇEŞEHİR ÜNİVERSİTESİ ÖN LİSANS, LİSANS, LİSANSÜSTÜ BURS VE DESTEK YÖNERGESİ.pdf",
-        "article_no": "22 (bölüm 24)"
+        "article_no": "4-ç"
       },
       {
         "source_file": "BAU_Burs_ve_Destek_Yonergesi.pdf",
-        "article_no": "22 (bölüm 9)"
+        "article_no": "4-ç"
       },
       {
-        "source_file": "BAU_AKTS_Öğrenciler_için_Finansal_Destek.txt",
-        "article_no": null
+        "source_file": "BAHÇEŞEHİR ÜNİVERSİTESİ ÖN LİSANS, LİSANS, LİSANSÜSTÜ BURS VE DESTEK YÖNERGESİ.pdf",
+        "article_no": "8 (bölüm 2)"
       }
     ]
   },
@@ -439,7 +439,7 @@
     "category": "factual",
     "query": "İntörn doktorların eğitim sürecinde tabi olduğu yönerge ve bu yönergenin ilgili maddesi nedir?",
     "ground_truth_summary": "İntörn doktorlar BAU Tıp Fakültesi İntörn Doktorluk Yönergesi'ne (Madde 5) tabidir.",
-    "answer": "Bahçeşehir Üniversitesi Tıp Fakültesi'nde intörn doktorların yasal dayanakları arasında \"Bahçeşehir Üniversitesi Tıp Fakültesi İntörn Doktorluk Yönergesi\" yer almaktadır. Ayrıca, intörn doktorların tıp eğitimlerinin son yılını nerede ve nasıl geçireceğini düzenleyen eğitim programı kuralları \"BAU_Tip_Intorn_Doktorluk_Yonergesi.pdf\" belgesinde İkinci Bölüm, Madde 5 kapsamında belirlenmiştir.\n\nSOURCES: BAU_Tip_Gorev_Tanimlari_Kilavuzu.pdf; BAU_Tip_Intorn_Doktorluk_Yonergesi.pdf, Madde 5",
+    "answer": "İntörn doktorlar tıp eğitimlerinin son yılını çeşitli sağlık kuruluşlarında uygulamalı eğitim alarak geçirirler. Sınıf 6 eğitim programı, Tıp Fakültesi mezunu bir hekime birinci basamak sağlık kuruluşlarında hekimlik ve yöneticilik yapabilme yetkinlikleri kazandıracak, araştırıcı, sorgulayıcı ve kendini sürekli yenileyip geliştirecek yetiler verecek şekilde Ulusal ÇEP'e uygun olarak anabilim dalları tarafından hazırlanır ve Bahçeşehir Üniversitesi Tıp Fakültesi İntörn Doktorluk Yönergesi'ne tabidir. İlgili eğitim programı ve çalışma esasları bu yönergenin 5. maddesinde düzenlenmiştir.\n\nSOURCES: BAU_Tip_Intorn_Doktorluk_Yonergesi.pdf, Madde 5",
     "retrieved_sources": [
       {
         "source_file": "BAU_Tip_Intorn_Doktorluk_Yonergesi.pdf",
@@ -454,12 +454,12 @@
         "article_no": null
       },
       {
-        "source_file": "BAU_Tip_Gorev_Tanimlari_Kilavuzu.pdf",
-        "article_no": null
+        "source_file": "BAHÇEŞEHİR ÜNİVERSİTESİ DANIŞMA KURULLARI YÖNERGESİ.pdf",
+        "article_no": "3-g"
       },
       {
-        "source_file": "BAU_Tip_Mezuniyet_Oncesi_Egitim_Kurul_Yonergesi.pdf",
-        "article_no": "2"
+        "source_file": "BAHÇEŞEHİR ÜNİVERSİTESİ YURT İÇİ VE YURT DIŞI HARCIRAH UYGULAMASI USUL VE ESASLARI.pdf",
+        "article_no": "3-f"
       }
     ]
   },
@@ -475,10 +475,6 @@
         "article_no": null
       },
       {
-        "source_file": "BAU_Kutuphane_Kurallari.txt",
-        "article_no": null
-      },
-      {
         "source_file": "BAHÇEŞEHİR ÜNİVERSİTESİ LİSANSÜSTÜ EĞİTİM VE ÖĞRETİM YÖNETMELİĞİ.pdf",
         "article_no": "15"
       },
@@ -487,7 +483,11 @@
         "article_no": null
       },
       {
-        "source_file": "BAU_AKTS_Öğrenim_Hizmetleri.txt",
+        "source_file": "BAU_Kutuphane_SSS.txt",
+        "article_no": null
+      },
+      {
+        "source_file": "BAU_Kutuphane_SSS.txt",
         "article_no": null
       }
     ]
@@ -497,7 +497,7 @@
     "category": "factual",
     "query": "What is the daily late fee for an overdue library book?",
     "ground_truth_summary": "Her gün için 1,00 TL gecikme cezası uygulanır.",
-    "answer": "The daily late fee for an overdue library book is 1.00 TL per book, and books whose due date has passed cannot be renewed.\n\nSOURCES: BAU_Kutuphane_SSS.txt",
+    "answer": "The daily late fee for an overdue library book is 1.00 TL per book.\n\nSOURCES: BAU_Kutuphane_SSS.txt",
     "retrieved_sources": [
       {
         "source_file": "BAU_Kutuphane_SSS.txt",
@@ -512,12 +512,12 @@
         "article_no": null
       },
       {
-        "source_file": "BAHÇEŞEHİR ÜNİVERSİTESİ LİSANSÜSTÜ ÖĞRETİM ÜCRETLERİ YÖNERGESİ.pdf",
-        "article_no": "5"
+        "source_file": "BAHÇEŞEHİR ÜNİVERSİTESİ YAYIN TEŞVİK YÖNERGESİ.pdf",
+        "article_no": "16 (bölüm 30)"
       },
       {
-        "source_file": "BAHÇEŞEHİR ÜNİVERSİTESİ LİSANSÜSTÜ EĞİTİM VE ÖĞRETİM YÖNETMELİĞİ.pdf",
-        "article_no": "35"
+        "source_file": "BAHÇEŞEHİR ÜNİVERSİTESİ YAYIN TEŞVİK YÖNERGESİ.pdf",
+        "article_no": "16 (bölüm 20)"
       }
     ]
   },
@@ -526,7 +526,7 @@
     "category": "factual",
     "query": "What is the minimum weighted GPA required for undergraduate students to apply for an Erasmus exchange program?",
     "ground_truth_summary": "Lisans öğrencileri için ağırlıklı GPA en az 2.20/4 olmalıdır.",
-    "answer": "For undergraduate students applying for an Erasmus exchange program, the minimum weighted GPA required is 2.20 out of 4.00.\n\nSOURCES: BAU_Exchange_Erasmus_FAQ.txt; BAU_Exchange_Erasmus+_Outgoing_Study.txt",
+    "answer": "The minimum weighted GPA required for undergraduate students to apply for an Erasmus exchange program is 2.20 out of 4.00.\n\nSOURCES: BAU_Exchange_Erasmus_FAQ.txt; BAU_Exchange_Erasmus+_Outgoing_Study.txt; BAU_Exchange_Erasmus+_Outgoing_Traineeship.txt",
     "retrieved_sources": [
       {
         "source_file": "BAU_Exchange_Erasmus_FAQ.txt",
@@ -555,27 +555,27 @@
     "category": "factual",
     "query": "BAU İletişim Fakültesi hangi kampüste yer almaktadır ve bu kampüsün adresi nedir?",
     "ground_truth_summary": "Galata Yerleşkesi; Müeyyetzade Mahallesi Kemeraltı Caddesi Karaoğlan Sokağı No: 24/a Galata/Karaköy İSTANBUL.",
-    "answer": "BAU İletişim Fakültesi, Galata Yerleşkesi'nde yer almaktadır. Bu kampüsün posta adresi Müeyyetzade Mahallesi Kemeraltı Caddesi Karaoğlan Sokağı No: 24/a Galata/Karaköy İSTANBUL/TÜRKİYE şeklindedir.\n\nSOURCES: BAU_Kampusler_Iletisim_Ulasim.txt",
+    "answer": "Sağlanan kaynaklarda BAU İletişim Fakültesi'nin hangi kampüste yer aldığına ve bu kampüsün adresine ilişkin herhangi bir bilgi bulunmamaktadır.\n\nSOURCES: BAU_International_FAQ.txt; BAHÇEŞEHİR ÜNİVERSİTESİ YAYIN TEŞVİK YÖNERGESİ.pdf; BAHÇEŞEHİR ÜNİVERSİTESİ ÖZEL SEKTÖR VE KAMU DANIŞMANLIK HİZMETLERİ YÖNERGESİ.pdf; BAHÇEŞEHİR ÜNİVERSİTESİ BİLİMSEL ARAŞTIRMA PROJELERİ YÖNERGESİ.pdf; BAHÇEŞEHİR ÜNİVERSİTESİ ARAŞTIRMA POLİTİKALARI, TEKNOLOJİ TRANSFERİ VE GİRİŞİMCİLİK DİREKTÖRLÜĞÜ YÖNERGESİ.pdf",
     "retrieved_sources": [
-      {
-        "source_file": "BAU_Kampusler_Iletisim_Ulasim.txt",
-        "article_no": null
-      },
       {
         "source_file": "BAU_International_FAQ.txt",
         "article_no": null
       },
       {
-        "source_file": "BAU_Kampusler_Iletisim_Ulasim.txt",
-        "article_no": null
+        "source_file": "BAHÇEŞEHİR ÜNİVERSİTESİ YAYIN TEŞVİK YÖNERGESİ.pdf",
+        "article_no": "2-b"
       },
       {
-        "source_file": "BAU_Cari_Hizmetler_SSS.txt",
-        "article_no": null
+        "source_file": "BAHÇEŞEHİR ÜNİVERSİTESİ ÖZEL SEKTÖR VE KAMU DANIŞMANLIK HİZMETLERİ YÖNERGESİ.pdf",
+        "article_no": "4-a"
       },
       {
-        "source_file": "BAU_Kurumsal_Iletisim.txt",
-        "article_no": null
+        "source_file": "BAHÇEŞEHİR ÜNİVERSİTESİ BİLİMSEL ARAŞTIRMA PROJELERİ YÖNERGESİ.pdf",
+        "article_no": "3-b"
+      },
+      {
+        "source_file": "BAHÇEŞEHİR ÜNİVERSİTESİ ARAŞTIRMA POLİTİKALARI, TEKNOLOJİ TRANSFERİ VE GİRİŞİMCİLİK DİREKTÖRLÜĞÜ YÖNERGESİ.pdf",
+        "article_no": "4-a"
       }
     ]
   },
@@ -584,7 +584,7 @@
     "category": "procedural",
     "query": "Öğrenciler EFT veya havale ile ödeme yaptıklarında açıklama kısmına ne yazmalıdır?",
     "ground_truth_summary": "Açıklama kısmına öğrenci adı soyadı ve T.C. kimlik numarası, aralarında boşluk bırakılarak yazılmalıdır.",
-    "answer": "Öğrenciler EFT veya havale ile ödeme yaptıklarında, açıklama kısmına öğrenci adını, soyadını ve T.C. kimlik numarasını aralarında boşluk bırakarak yazmaları gerekmektedir.\n\nSOURCES: BAU_Cari_Hizmetler_SSS.txt",
+    "answer": "Öğrenciler EFT veya havale ile ödeme yaptıklarında, açıklama kısmına öğrenci adı, soyadı ve T.C. kimlik numarasını aralarında boşluk bırakarak yazmalıdırlar.\n\nSOURCES: BAU_Cari_Hizmetler_SSS.txt, Soru: EFT veya HAVALE Ödeme açıklamasına ne yazmalıyım?",
     "retrieved_sources": [
       {
         "source_file": "BAU_Cari_Hizmetler_SSS.txt",
@@ -604,7 +604,7 @@
       },
       {
         "source_file": "BAHÇEŞEHİR ÜNİVERSİTESİ AVRUPA KREDİ TRANSFER SİSTEMİ (AKTS ECTS) UYGULAMA YÖNERGESİ.pdf",
-        "article_no": "10"
+        "article_no": "9"
       }
     ]
   },
@@ -613,7 +613,7 @@
     "category": "procedural",
     "query": "How can a student access BAU library's electronic resources from outside the campus?",
     "ground_truth_summary": "OpenAthens üzerinden; E-Kaynaklar → Tüm Veritabanları bölümünden kullanıcı tipine göre giriş yapılır.",
-    "answer": "You can access the library's electronic resources from outside the campus by using OpenAthens. To do this, go to the E-Resources (E-Kaynaklar) → All Databases (Tüm Veritabanları) section on the library's website and select the relevant database. For students, you should select the \"BAU – Student / Öğrenci\" option, enter only your name and surname (ad.soyad) in the username field without the @bahcesehir.edu.tr extension, and type your UMIS password in the password field.\n\nSOURCES: BAU_Kutuphane_SSS.txt",
+    "answer": "To access the library's electronic resources from outside the campus, you can use OpenAthens. You should go to the library's web page, select the relevant database from the E-Resources -> All Databases section, and choose the \"BAU – Student / Öğrenci\" option. For your username, enter only your name and surname without the @bahcesehir.edu.tr extension, and for your password, enter your UMIS password.\n\nSOURCES: BAU_Kutuphane_SSS.txt",
     "retrieved_sources": [
       {
         "source_file": "BAU_Kutuphane_SSS.txt",
@@ -642,7 +642,7 @@
     "category": "explanatory",
     "query": "Does BAU provide on-campus dormitories for students, and what alternative does it offer?",
     "ground_truth_summary": "BAU is a city university with no on-campus dormitories; it is affiliated with Ortaköy Aparts and lists nearby private/female dorm options.",
-    "answer": "Bahçeşehir University campuses only comprise academic and administrative facilities and do not offer on-campus dormitories because it operates as a city university. However, BAU is affiliated with Ortaköy Aparts, which is located 10 minutes from the main campus and provides a secure, fully equipped housing ecosystem with options such as double individual rooms, triple shared rooms, and triple individual rooms, along with various amenities like dining options, study rooms, social areas, high-speed internet, and 24/7 security. Additionally, there are other nearby options in Beşiktaş such as Beşiktaş Kız Yurdu and Akaretler Liberty Beşiktaş Kız Öğrenci Yurdu.\n\nSOURCES: BAU_International_FAQ.txt; BAU_AKTS_Barınma.txt; BAU_Yurt_Imkanlari.txt",
+    "answer": "Bahçeşehir University operates as a city university, meaning its campuses only consist of academic and administrative facilities without offering on-campus dormitories. As an alternative, BAU is affiliated with BAU Ortaköy Aparts, which provides a secure, social, and fully equipped accommodation ecosystem located 10 minutes away from the main campus and close to public transportation lines. Additionally, there are other nearby options in Beşiktaş such as Beşiktaş Kız Yurdu and Akaretler Liberty Beşiktaş Kız Öğrenci Yurdu.\n\nSOURCES: BAU_International_FAQ.txt, BAU_AKTS_Barınma.txt, BAU_Yurt_Imkanlari.txt",
     "retrieved_sources": [
       {
         "source_file": "BAU_International_FAQ.txt",
@@ -671,8 +671,16 @@
     "category": "explanatory",
     "query": "Ön Lisans ve Lisans öğrencileri için 2026-2027 güz yarıyılı ders kayıt döneminde mali işlemlerini tamamlamamanın sonucu nedir?",
     "ground_truth_summary": "Mali işlemlerini tamamlamayan öğrencilerin birinci ders kayıt döneminde sistemi kapalı olur ve ders kaydı yaptıramazlar.",
-    "answer": "Ön lisans ve lisans öğrencilerinin 2027-2028 akademik yılı güz yarıyılı ders kayıt dönemi için mali işlemlerini tamamlamaları gereken son gün 09 Temmuz 2027 Cuma günüdür. Mali işlemlerini tamamlamayan öğrencilerin birinci ders kayıt döneminde sistemi kapalı olup, bu öğrencilerin ders kaydı yaptırmaları mümkün değildir.\n\nSOURCES: BAU_Akademik_Takvim_Onlisans_Lisans.txt",
+    "answer": "Ön lisans ve lisans öğrencilerinin 2026-2027 akademik yılı güz yarıyılı ders kayıt dönemi için mali işlemlerini tamamlamaları gereken son gün 17 Temmuz 2026 Cuma günüdür. Mali işlemlerini bu tarihe kadar tamamlamayan öğrencilerin birinci ders kayıt döneminde sistemi kapalı olup, bu öğrencilerin ders kaydı yaptırmaları mümkün değildir.\n\nSOURCES: BAU_Akademik_Takvim_Onlisans_Lisans.txt",
     "retrieved_sources": [
+      {
+        "source_file": "BAU_Akademik_Takvim_Onlisans_Lisans.txt",
+        "article_no": null
+      },
+      {
+        "source_file": "BAU_Akademik_Takvim_Onlisans_Lisans.txt",
+        "article_no": null
+      },
       {
         "source_file": "BAU_Akademik_Takvim_Onlisans_Lisans.txt",
         "article_no": null
@@ -684,14 +692,6 @@
       {
         "source_file": "BAHÇEŞEHİR ÜNİVERSİTESİ LİSANSÜSTÜ ÖĞRETİM ÜCRETLERİ YÖNERGESİ.pdf",
         "article_no": "4 (bölüm 2)"
-      },
-      {
-        "source_file": "BAU_Burs_ve_Destek_Yonergesi.pdf",
-        "article_no": "16"
-      },
-      {
-        "source_file": "BAHÇEŞEHİR ÜNİVERSİTESİ ÖN LİSANS, LİSANS, LİSANSÜSTÜ BURS VE DESTEK YÖNERGESİ.pdf",
-        "article_no": "16"
       }
     ]
   },
@@ -700,7 +700,7 @@
     "category": "comparative",
     "query": "Lisans öğrencileri ile yüksek lisans öğrencileri arasında kütüphaneden kitap ödünç alma süre ve sayısı bakımından ne fark vardır?",
     "ground_truth_summary": "Lisans öğrencileri 15 gün süreyle 10 kitap; yüksek lisans öğrencileri 30 gün süreyle 15 kitap ödünç alabilir.",
-    "answer": "Lisans öğrencileri kütüphaneden 15 gün süreyle 10 kitap ödünç alabilirken, yüksek lisans öğrencileri 30 gün süreyle 15 kitap ödünç alabilmektedir. İki grup da kütüphaneden 3 gün süreyle 1 dergi ve 2 gün süreyle 1 multimedya öğesi ödünç alabilmektedir.\n\nSOURCES: BAU_Kutuphane_SSS.txt",
+    "answer": "Lisans öğrencileri ile yüksek lisans öğrencileri arasında kütüphaneden kitap ödünç alma süre ve sayısı bakımından şu farklar bulunmaktadır: Lisans öğrencileri 15 gün süreyle 10 kitap ödünç alabilirken, yüksek lisans öğrencileri 30 gün süreyle 15 kitap ödünç alabilmektedir.\n\nSOURCES: BAU_Kutuphane_SSS.txt",
     "retrieved_sources": [
       {
         "source_file": "BAU_Kutuphane_SSS.txt",
@@ -715,11 +715,11 @@
         "article_no": "16"
       },
       {
-        "source_file": "BAHÇEŞEHİR ÜNİVERSİTESİ LİSANSÜSTÜ EĞİTİM VE ÖĞRETİM YÖNETMELİĞİ.pdf",
-        "article_no": "15"
+        "source_file": "BAU_Kutuphane_SSS.txt",
+        "article_no": null
       },
       {
-        "source_file": "BAU_AKTS_Yuksek_Lisans_Programlari.txt",
+        "source_file": "BAU_Kutuphane_SSS.txt",
         "article_no": null
       }
     ]
@@ -729,7 +729,7 @@
     "category": "factual",
     "query": "Bilgisayar Mühendisliği Lisans Programının hedefi nedir?",
     "ground_truth_summary": "Donanım, yazılım ve ağ problemlerine yaratıcı çözümler üretebilecek, motivasyonu yüksek bilgisayar mühendisleri yetiştirmek.",
-    "answer": "The objective of the Computer Engineering Undergraduate Program is to educate highly motivated computer engineers who are aware of their social responsibilities and capable of generating creative solutions to hardware, software, and network problems they encounter, by utilizing the latest theoretical and technological knowledge in the analysis, design, and implementation stages.\n\nSOURCES: BAU_AKTS_Lisans_Programlari.txt",
+    "answer": "The goal of the Computer Engineering Undergraduate Program is to train highly motivated computer engineers who are aware of their social responsibilities and capable of producing creative solutions to hardware, software, and network problems they encounter, using the latest theoretical and technological knowledge during the analysis, design, and implementation stages.\n\nSOURCES: BAU_AKTS_Lisans_Programlari.txt",
     "retrieved_sources": [
       {
         "source_file": "BAU_AKTS_Lisans_Programlari.txt",
@@ -758,7 +758,7 @@
     "category": "factual",
     "query": "BESL yurt dışı hazırlık programına katılan öğrenciler hangi şehirde ve hangi kurumda eğitim alır?",
     "ground_truth_summary": "Washington D.C.'deki Mentora College'da hazırlık eğitimi alırlar.",
-    "answer": "BESL programına katılan öğrenciler, Washington'da (Washington D.C.) bulunan Mentora College'da hazırlık eğitimi almaktadırlar.\n\nSOURCES: BAU_Exchange_BESL_(Study_Abroad_English_Program).txt; BAU_Aday_Ogrenci_SSS.txt",
+    "answer": "BESL (Study Abroad English Program) programına katılan öğrenciler, Washington DC'de bulunan Mentora College'da eğitim almaktadırlar.\n\nSOURCES: BAU_Exchange_BESL_(Study_Abroad_English_Program).txt; BAU_Aday_Ogrenci_SSS.txt",
     "retrieved_sources": [
       {
         "source_file": "BAU_Exchange_BESL_(Study_Abroad_English_Program).txt",
@@ -787,19 +787,11 @@
     "category": "factual",
     "query": "İnşaat Mühendisliği öğrencileri staj başvurusunda hangi belgeleri indirmelidir?",
     "ground_truth_summary": "Staj başvuru adımları/belgeleri, staj defteri ve sigorta evrakları indirilmelidir.",
-    "answer": "İnşaat mühendisliği öğrencileri staj başvurusunda izlenecek adımları, gerekli belgeleri ve staj defterini indirmek için ilgili bağlantıları kullanabilirler. Ayrıca sigorta evrakları da indirilebilecek belgeler arasındadır.\n\nSOURCES: BAU_Staj_Insaat_Muhendisligi.txt",
+    "answer": "İnşaat Mühendisliği öğrencileri staj başvurusunda izlenecek adımlar ve gerekli belgeleri indirmek, Staj Defterini indirmek ve Sigorta Evrakları için belirtilen bağlantılardan ilgili belgeleri indirebilirler.\n\nSOURCES: BAU_Staj_Insaat_Muhendisligi.txt",
     "retrieved_sources": [
       {
         "source_file": "BAU_Staj_Insaat_Muhendisligi.txt",
         "article_no": null
-      },
-      {
-        "source_file": "BAHÇEŞEHİR ÜNİVERSİTESİ STAJ YÖNERGESİ.pdf",
-        "article_no": "27"
-      },
-      {
-        "source_file": "BAHÇEŞEHİR ÜNİVERSİTESİ MÜHENDİSLİK VE DOĞA BİLİMLERİ FAKÜLTESİ MİMARLIK VE TASARIM FAKÜLTESİ STAJ YÖNERGESİ.pdf",
-        "article_no": "12"
       },
       {
         "source_file": "BAHÇEŞEHİR ÜNİVERSİTESİ LİSANSÜSTÜ PROGRAMLARINA YURTDIŞINDAN ÖĞRENCİ KABULÜ BAŞVURU VE KAYIT İŞLEMLERİNE İLİŞKİN YÖNERGE.pdf",
@@ -808,6 +800,14 @@
       {
         "source_file": "BAHÇEŞEHİR ÜNİVERSİTESİ LİSANSÜSTÜ PROGRAMLARINA YURTDIŞINDAN ÖĞRENCİ KABULÜ BAŞVURU VE KAYIT İŞLEMLERİNE İLİŞKİN YÖNERGE.pdf",
         "article_no": "9"
+      },
+      {
+        "source_file": "BAU_Staj_Isletme_Muhendisligi.txt",
+        "article_no": null
+      },
+      {
+        "source_file": "BAU_AKTS_Lisans_Programlari.txt",
+        "article_no": null
       }
     ]
   },
@@ -845,7 +845,7 @@
     "category": "procedural",
     "query": "Elektrik-Elektronik Mühendisliği öğrencisi stajını en erken hangi dönemde yapabilir ve staj süresi kaç iş günüdür?",
     "ground_truth_summary": "Staj en erken 3. yıl yazında yapılabilir; staj süresi 30 iş günüdür.",
-    "answer": "Elektrik-Elektronik Mühendisliği öğrencileri stajlarını en erken 3. yıl yazında yapabilirler ve staj süresi 30 iş günüdür.\n\nSOURCES: BAU_Staj_Elektrik_Elektronik_Muhendisligi.txt",
+    "answer": "An Electrical-Electronics Engineering student can complete their internship at the earliest in the summer of their 3rd year, and the duration of the internship is 30 working days.\n\nSOURCES: BAU_Staj_Elektrik_Elektronik_Muhendisligi.txt",
     "retrieved_sources": [
       {
         "source_file": "BAU_Staj_Elektrik_Elektronik_Muhendisligi.txt",
@@ -860,11 +860,11 @@
         "article_no": null
       },
       {
-        "source_file": "BAU_Staj_Isletme_Muhendisligi.txt",
+        "source_file": "BAU_Staj_Yazilim_Muhendisligi.txt",
         "article_no": null
       },
       {
-        "source_file": "BAU_Staj_Yazilim_Muhendisligi.txt",
+        "source_file": "BAU_Staj_Genel_Hub.txt",
         "article_no": null
       }
     ]
@@ -874,12 +874,8 @@
     "category": "procedural",
     "query": "Öğrenci İşleri Daire Başkanlığı'nın öğrencilere sunduğu formlardan iki örnek verir misiniz?",
     "ground_truth_summary": "Örnekler: Adres Bildirim Formu, Çift Anadal Başvuru Formu, Ders Muafiyeti Başvuru Formu vb.",
-    "answer": "Öğrenci İşleri Daire Başkanlığı'nın öğrencilere sunduğu formlardan bazıları Adres Bildirim Formu ve Çift Anadal Başvuru Formu'dur.\n\nSOURCES: BAU_Ogrenci_Isleri_Formlar.txt",
+    "answer": "Öğrenci İşleri Daire Başkanlığı staj işlemleri kapsamında öğrencilerin düzenlemesi ve teslim etmesi gereken formlar arasında staj başvuru formu, staj zorunluluk belgesi, staj sigorta belgeleri, staj sicil formu ve staj raporu bulunmaktadır. Staj için ayrıca nüfus cüzdanı fotokopisi, bir adet fotoğraf, yerleşke belgesi (ikametgah) ya da adına kayıtlı yeni tarihli fatura ve fakülte/SHMYO/Uygulamalı Bilimler Yüksekokuluna ait zorunlu staj formunun onaylı örneği gereklidir.\n\nSOURCES: BAHÇEŞEHİR ÜNİVERSİTESİ STAJ YÖNERGESİ.pdf, Madde 27",
     "retrieved_sources": [
-      {
-        "source_file": "BAU_Ogrenci_Isleri_Formlar.txt",
-        "article_no": null
-      },
       {
         "source_file": "BAHÇEŞEHİR ÜNİVERSİTESİ ELEKTRONİK BELGE YÖNETİMİ VE İMZA YETKİLERİ YÖNERGESİ.pdf",
         "article_no": "18"
@@ -893,8 +889,12 @@
         "article_no": "25"
       },
       {
-        "source_file": "BAHÇEŞEHİR ÜNİVERSİTESİ ÖN LİSANS VE LİSANS EĞİTİM-ÖĞRETİM VE SINAV YÖNETMELİĞİ.pdf",
-        "article_no": "27 (bölüm 2)"
+        "source_file": "BAU_International_FAQ.txt",
+        "article_no": null
+      },
+      {
+        "source_file": "BAHÇEŞEHİR ÜNİVERSİTESİ STAJ YÖNERGESİ.pdf",
+        "article_no": "27"
       }
     ]
   },
@@ -903,19 +903,19 @@
     "category": "explanatory",
     "query": "BAU'nun CO-OP eğitim modeli nedir ve 'Markalı Dersler' kavramı ne anlama gelir?",
     "ground_truth_summary": "CO-OP, üniversite eğitimiyle iş hayatını birleştiren bir modeldir; Markalı Dersler ise firmaların kendi marka/ürünleri için açtığı, sektör temsilcilerince verilen seçmeli derslerdir.",
-    "answer": "The CO-OP Education Model is an applied education model designed to bridge the gap between higher education and the business world, allowing university students to actively enter the professional workforce while continuing their studies. The model's main advantages include gaining early work experience and facilitating a smoother transition into the business world. Students participating in this model are called COOPERs, and they benefit from being fully integrated into professional life, taking initiative, and participating in decision-making processes. Furthermore, it gives students the chance to prove themselves while working and potentially find a direct job at their CO-OP partner firm upon graduation, just as partner firms have the opportunity to select employees from among their COOPERs. \n\nThe most original and innovative concept of Bahçeşehir University's CO-OP Model is \"Branded Courses.\" These are courses opened under companies' own brands at Bahçeşehir University to cultivate a qualified workforce in their specific fields, products, services, and applications. The content for these practice-oriented courses is prepared by companies according to sectoral needs, and the courses are taught by industry representatives. Students take branded courses as electives to earn credits. Because these courses require background knowledge in the field, they are opened exclusively under the COOP code for relevant departments and can only be chosen by 3rd and 4th-year students of those departments.\n\nSOURCES: BAU_AKTS_Kariyer_Yönlendirme_Merkezi.txt",
+    "answer": "BAU'nun CO-OP (Cooperative Education) eğitim modeli, yüksek öğretimi iş hayatıyla birleştirmeyi ve iş dünyası ile üniversite arasında oluşan boşlukları doldurmayı amaçlayan bir uygulamalı eğitim modelidir. Bu model sayesinde öğrenciler, üniversite eğitimlerini sürdürürken aktif olarak çalışma hayatına atılırlar ve böylece öğrenciyken iş tecrübesi edinerek iş dünyasına geçişlerini kolaylaştırırlar. Bu süreçte çalışan öğrencilere COOPER adı verilir. COOPER'lar karar süreçlerinde yer alma, inisiyatif alma ve iş hayatına tamamen entegre olma gibi avantajlara sahip olup, mezun olduklarında doğrudan CO-OP yaptıkları firmada iş bulma şansı elde ederler.\n\nCO-OP modelinin en özgün ve en yenilikçi kavramı olan \"Markalı Dersler\", firmaların kendi alan, ürün, hizmet ve uygulamaları konusunda nitelikli işgücü yetiştirmek için Bahçeşehir Üniversitesi'nde kendi markalarıyla açtıkları derslerdir. Uygulamaya dönük bu derslerin içerikleri firmalar tarafından sektörel ihtiyaçlara göre hazırlanır ve sektör temsilcileri tarafından verilir. Öğrencilerin seçmeli ders olarak alıp kredi kazandığı bu dersler, alanda altyapı gerektirdiği için sadece ilgili bölüm veya bölümlerin altında COOP kodu ile açılır ve yalnızca o bölümlerin 3. ve 4. sınıf öğrencileri tarafından seçilebilir. Ayrıca yönergelere göre CO-OP, Bahçeşehir Üniversitesi'nin şirketlerle yaptığı eğitim anlaşmalarını koordine eden birimi ifade eder.\n\nSOURCES: BAU_AKTS_Kariyer_Yönlendirme_Merkezi.txt; BAU_Burs_ve_Destek_Yonergesi.pdf, Madde 4-c",
     "retrieved_sources": [
       {
         "source_file": "BAU_AKTS_Kariyer_Yönlendirme_Merkezi.txt",
         "article_no": null
       },
       {
-        "source_file": "BAU_Aday_Ogrenci_SSS.txt",
-        "article_no": null
+        "source_file": "BAU_Burs_ve_Destek_Yonergesi.pdf",
+        "article_no": "4-c"
       },
       {
-        "source_file": "BAU_Burs_ve_Destek_Yonergesi.pdf",
-        "article_no": "22 (bölüm 32)"
+        "source_file": "BAHÇEŞEHİR ÜNİVERSİTESİ ÖN LİSANS, LİSANS, LİSANSÜSTÜ BURS VE DESTEK YÖNERGESİ.pdf",
+        "article_no": "4-c"
       },
       {
         "source_file": "BAHÇEŞEHİR ÜNİVERSİTESİ ÖN LİSANS, LİSANS, LİSANSÜSTÜ BURS VE DESTEK YÖNERGESİ.pdf",
@@ -932,14 +932,10 @@
     "category": "explanatory",
     "query": "Moleküler Biyoloji ve Genetik programı mezunları hangi tür problemlere çözüm üretebilecek şekilde yetiştirilir?",
     "ground_truth_summary": "Eğitim, endüstri, tarım, sağlık ve çevre problemlerine biyoteknoloji uygulayabilecek şekilde yetiştirilirler.",
-    "answer": "Moleküler Biyoloji ve Genetik (Mühendislik ve Doğa Bilimleri Fakültesi) lisans programı mezunları; biyolojik sistemlerle ilgili bilgi ve verileri toplayıp analiz edebilecek, sonuçları uluslararası ortamda tartışabilecek ve teknolojileri eğitime, endüstriye, tarıma, sağlık ve çevre problemlerine uygulayabilecek şekilde yetiştirilir.\n\nSOURCES: BAU_AKTS_Lisans_Programlari.txt",
+    "answer": "Sağlanan bağlam metinlerinde Moleküler Biyoloji ve Genetik programı mezunlarının hangi tür problemlere çözüm üretebilecek şekilde yetiştirildiğine dair herhangi bir bilgi bulunmamaktadır.\n\nSOURCES: BAU_Internship_General_EN.txt; BAU_AKTS_Yuksek_Lisans_Programlari.txt; BAHÇEŞEHİR ÜNİVERSİTESİ LİSANSÜSTÜ EĞİTİM VE ÖĞRETİM YÖNETMELİĞİ.pdf",
     "retrieved_sources": [
       {
         "source_file": "BAU_Internship_General_EN.txt",
-        "article_no": null
-      },
-      {
-        "source_file": "BAU_AKTS_Lisans_Programlari.txt",
         "article_no": null
       },
       {
@@ -953,6 +949,10 @@
       {
         "source_file": "BAU_AKTS_Yuksek_Lisans_Programlari.txt",
         "article_no": null
+      },
+      {
+        "source_file": "BAHÇEŞEHİR ÜNİVERSİTESİ LİSANSÜSTÜ EĞİTİM VE ÖĞRETİM YÖNETMELİĞİ.pdf",
+        "article_no": "36 (bölüm 1)"
       }
     ]
   },
@@ -961,7 +961,7 @@
     "category": "comparative",
     "query": "Yazılım Mühendisliği ile Bilgisayar Mühendisliği staj süreleri arasında fark var mı?",
     "ground_truth_summary": "Yazılım Mühendisliği öğrencileri en az 30 iş günü staj yapmalıdır (BAU Senato kararına dayalı MDBF/MTF Staj Yönergesi kapsamında).",
-    "answer": "Yazılım Mühendisliği ve Bilgisayar Mühendisliği staj süreleri arasında herhangi bir fark bulunmamaktadır. Her iki bölüm için de lisans programı eğitimi süresince en az 30 iş günü staj yapma zorunluluğu yer almaktadır.\n\nSOURCES: BAU_Staj_Yazilim_Muhendisligi.txt; BAU_Staj_Genel_Hub.txt",
+    "answer": "Yazılım Mühendisliği ve Bilgisayar Mühendisliği staj süreleri arasında herhangi bir fark bulunmamaktadır. Her iki bölümün öğrencileri de lisans programı eğitimleri süresince en az 30 iş günü staj yapmak zorundadır.\n\nSOURCES: BAU_Staj_Yazilim_Muhendisligi.txt; BAU_Staj_Genel_Hub.txt",
     "retrieved_sources": [
       {
         "source_file": "BAU_Staj_Yazilim_Muhendisligi.txt",
@@ -980,7 +980,7 @@
         "article_no": null
       },
       {
-        "source_file": "BAU_Staj_Genel_Hub.txt",
+        "source_file": "BAU_Staj_Yazilim_Muhendisligi.txt",
         "article_no": null
       }
     ]
@@ -990,7 +990,7 @@
     "category": "factual",
     "query": "What is the goal of the Doktora (PhD) program in Computer Engineering at BAU?",
     "ground_truth_summary": "Regression test for query_classifier.py's degree-level boost: before the fix, this query returned 'not enough information' despite the correct chunk existing (raw dense rank 6th-9th, crowded out by near-identical Lisans/Yüksek Lisans program chunks). Advanced education in computer architecture, embedded systems, AI, cybersecurity, network systems; prepares students for academia/industry/research careers.",
-    "answer": "The Computer Engineering PhD Program is designed to provide advanced education in the core areas of computer science and engineering and to promote research excellence. It prepares students for a career in academia, industry, or research institutions by focusing on innovative contributions to computer architecture, embedded systems, artificial intelligence, cybersecurity, and network systems. Students engage in rigorous coursework and cutting-edge research addressing both theoretical and practical challenges in the field of informatics. The program emphasizes the development of new algorithms, hardware-software integration, and the optimization of complex systems. Through individual research projects, students contribute to the advancement of knowledge with an emphasis on practical, scalable solutions to current and future technological challenges.\n\nSOURCES: BAU_AKTS_Doktora_Programlari.txt",
+    "answer": "The Computer Engineering PhD Program is designed to provide advanced education in the core areas of computer science and engineering and to promote research excellence. It prepares students for careers in academia, industry, or research institutions by focusing on innovative contributions to computer architecture, embedded systems, artificial intelligence, cybersecurity, and network systems. Students engage in rigorous coursework and cutting-edge research addressing both theoretical and practical challenges in the field of information technology. The program emphasizes the development of new algorithms, hardware-software integration, and the optimization of complex systems. Through individual research projects, students contribute to the advancement of knowledge with an emphasis on practical, scalable solutions to current and future technological challenges.\n\nSOURCES: BAU_AKTS_Doktora_Programlari.txt",
     "retrieved_sources": [
       {
         "source_file": "BAU_AKTS_Doktora_Programlari.txt",
