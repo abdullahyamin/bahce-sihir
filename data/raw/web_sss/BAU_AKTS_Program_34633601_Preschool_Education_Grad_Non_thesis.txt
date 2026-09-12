@@ -1,0 +1,19 @@
+BAU Okul Öncesi Eğitimi (Tezsiz) (Preschool Education (Grad, Non-thesis)) Ders Planı (Kaynak: akts.bau.edu.tr)
+
+SORU: Okul Öncesi Eğitimi (Tezsiz) 1. sınıfında (1. ve 2. yarıyıl) hangi dersler alınır?
+CEVAP: Okul Öncesi Eğitimi (Tezsiz) programının 1. sınıfında, 1. yarıyılda şu dersler alınır: ECE5103 Çağdaş Çocuk Gelişim Kuramları (8 AKTS), ISL5301 Araştırma Yöntemleri ve Etik (9 AKTS). 2. yarıyılda ise şu dersler alınır: ECE5117 Karşılaştırmalı Okul Öncesi Eğitimi (8 AKTS).
+
+QUESTION: Which courses are taken in year 1 (semesters 1 and 2) of Preschool Education (Grad, Non-thesis)?
+ANSWER: In year 1 of the Preschool Education (Grad, Non-thesis) program, semester 1 courses are: ECE5103 Çağdaş Çocuk Gelişim Kuramları (8 ECTS), ISL5301 Araştırma Yöntemleri ve Etik (9 ECTS). Semester 2 courses are: ECE5117 Karşılaştırmalı Okul Öncesi Eğitimi (8 ECTS).
+
+SORU: Okul Öncesi Eğitimi (Tezsiz) 2. sınıfında (3. ve 4. yarıyıl) hangi dersler alınır?
+CEVAP: Okul Öncesi Eğitimi (Tezsiz) programının 2. sınıfında, 3. yarıyılda şu dersler alınır: EDT5199 Proje (16 AKTS). 4. yarıyılda ise şu dersler alınır: bilgi bulunmuyor.
+
+QUESTION: Which courses are taken in year 2 (semesters 3 and 4) of Preschool Education (Grad, Non-thesis)?
+ANSWER: In year 2 of the Preschool Education (Grad, Non-thesis) program, semester 3 courses are: EDT5199 Proje (16 ECTS). Semester 4 courses are: no data available.
+
+SORU: Okul Öncesi Eğitimi (Tezsiz) programında bölüm seçmeli olarak hangi dersler seçilebilir?
+CEVAP: Okul Öncesi Eğitimi (Tezsiz) programında bölüm seçmeli kapsamında seçilebilecek dersler: CNG5002 Nitel Araştırma Yöntemleri (8 AKTS), EAP5102 Örgütsel Davranış ve Liderlik (6 AKTS), EAP5105 Dünyadaki Eğitim Sistemleri (8 AKTS), EAP5111 Eğitim Yönetiminde Seçilmiş Konular (8 AKTS), EDT5112 İstatiksel Veri Analizi (8 AKTS), GTE5102 Yaratıcılık ve Yaratıcı Düşünme (8 AKTS).
+
+QUESTION: Which courses can be chosen as a bölüm seçmeli in the Preschool Education (Grad, Non-thesis) program?
+ANSWER: Courses that can be chosen as a bölüm seçmeli in the Preschool Education (Grad, Non-thesis) program include: CNG5002 Nitel Araştırma Yöntemleri (8 ECTS), EAP5102 Örgütsel Davranış ve Liderlik (6 ECTS), EAP5105 Dünyadaki Eğitim Sistemleri (8 ECTS), EAP5111 Eğitim Yönetiminde Seçilmiş Konular (8 ECTS), EDT5112 İstatiksel Veri Analizi (8 ECTS), GTE5102 Yaratıcılık ve Yaratıcı Düşünme (8 ECTS).

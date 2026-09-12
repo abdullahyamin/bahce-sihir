@@ -1,0 +1,19 @@
+BAU Eğitsel Tasarım ve Değerlendirme (Tezsiz) (Instructional Design and Evaluation (Non-thesis)) Ders Planı (Kaynak: akts.bau.edu.tr)
+
+SORU: Eğitsel Tasarım ve Değerlendirme (Tezsiz) 1. sınıfında (1. ve 2. yarıyıl) hangi dersler alınır?
+CEVAP: Eğitsel Tasarım ve Değerlendirme (Tezsiz) programının 1. sınıfında, 1. yarıyılda şu dersler alınır: EDE5112 Öğrenme Tasarımı ve Öğretim Kurgusu (8 AKTS), ISL5301 Araştırma Yöntemleri ve Etik (9 AKTS). 2. yarıyılda ise şu dersler alınır: EDE5121 Eğitimde Ölçme (8 AKTS).
+
+QUESTION: Which courses are taken in year 1 (semesters 1 and 2) of Instructional Design and Evaluation (Non-thesis)?
+ANSWER: In year 1 of the Instructional Design and Evaluation (Non-thesis) program, semester 1 courses are: EDE5112 Öğrenme Tasarımı ve Öğretim Kurgusu (8 ECTS), ISL5301 Araştırma Yöntemleri ve Etik (9 ECTS). Semester 2 courses are: EDE5121 Eğitimde Ölçme (8 ECTS).
+
+SORU: Eğitsel Tasarım ve Değerlendirme (Tezsiz) 2. sınıfında (3. ve 4. yarıyıl) hangi dersler alınır?
+CEVAP: Eğitsel Tasarım ve Değerlendirme (Tezsiz) programının 2. sınıfında, 3. yarıyılda şu dersler alınır: EDE5199 Proje (16 AKTS). 4. yarıyılda ise şu dersler alınır: bilgi bulunmuyor.
+
+QUESTION: Which courses are taken in year 2 (semesters 3 and 4) of Instructional Design and Evaluation (Non-thesis)?
+ANSWER: In year 2 of the Instructional Design and Evaluation (Non-thesis) program, semester 3 courses are: EDE5199 Proje (16 ECTS). Semester 4 courses are: no data available.
+
+SORU: Eğitsel Tasarım ve Değerlendirme (Tezsiz) programında bölüm seçmeli olarak hangi dersler seçilebilir?
+CEVAP: Eğitsel Tasarım ve Değerlendirme (Tezsiz) programında bölüm seçmeli kapsamında seçilebilecek dersler: CNG5002 Nitel Araştırma Yöntemleri (8 AKTS), EAP5101 Eğitim Yönetimi ve Organizasyon (6 AKTS), EAP5102 Örgütsel Davranış ve Liderlik (6 AKTS), EAP5104 Eğitim Kurumlarında Çatışma ve Yönetimi (8 AKTS), EAP5105 Dünyadaki Eğitim Sistemleri (8 AKTS), ECE5113 Okul Öncesi Eğitimde Müfredat Geliştirme (8 AKTS), ECE5117 Karşılaştırmalı Okul Öncesi Eğitimi (8 AKTS), EDE5115 Eğitsel Tasarımda Güncel Araştırmalar (8 AKTS), EDE5122 Eğitimde Değerlendirme (8 AKTS), EDE5131 Yakınsak ve Iraksak Becerilerin Ölçülmesi (8 AKTS), EDT5101 Eğitim Teknolojisinin Temelleri (8 AKTS), EDT5104 Eğitimde Çoklu Ortam Tasarımı (8 AKTS), EDT5105 Uzaktan Eğitim: Kuram, Araştırma ve Uygulama (8 AKTS), EDT5112 İstatiksel Veri Analizi (8 AKTS), EDT5117 Eğitsel Video (12 AKTS), GTE5102 Yaratıcılık ve Yaratıcı Düşünme (8 AKTS).
+
+QUESTION: Which courses can be chosen as a bölüm seçmeli in the Instructional Design and Evaluation (Non-thesis) program?
+ANSWER: Courses that can be chosen as a bölüm seçmeli in the Instructional Design and Evaluation (Non-thesis) program include: CNG5002 Nitel Araştırma Yöntemleri (8 ECTS), EAP5101 Eğitim Yönetimi ve Organizasyon (6 ECTS), EAP5102 Örgütsel Davranış ve Liderlik (6 ECTS), EAP5104 Eğitim Kurumlarında Çatışma ve Yönetimi (8 ECTS), EAP5105 Dünyadaki Eğitim Sistemleri (8 ECTS), ECE5113 Okul Öncesi Eğitimde Müfredat Geliştirme (8 ECTS), ECE5117 Karşılaştırmalı Okul Öncesi Eğitimi (8 ECTS), EDE5115 Eğitsel Tasarımda Güncel Araştırmalar (8 ECTS), EDE5122 Eğitimde Değerlendirme (8 ECTS), EDE5131 Yakınsak ve Iraksak Becerilerin Ölçülmesi (8 ECTS), EDT5101 Eğitim Teknolojisinin Temelleri (8 ECTS), EDT5104 Eğitimde Çoklu Ortam Tasarımı (8 ECTS), EDT5105 Uzaktan Eğitim: Kuram, Araştırma ve Uygulama (8 ECTS), EDT5112 İstatiksel Veri Analizi (8 ECTS), EDT5117 Eğitsel Video (12 ECTS), GTE5102 Yaratıcılık ve Yaratıcı Düşünme (8 ECTS).

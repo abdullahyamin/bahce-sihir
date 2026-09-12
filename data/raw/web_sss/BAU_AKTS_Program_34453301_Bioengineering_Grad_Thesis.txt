@@ -1,0 +1,13 @@
+BAU Biyomühendislik (Tezli, Grad) (Bioengineering (Grad, Thesis)) Ders Planı (Kaynak: akts.bau.edu.tr)
+
+SORU: Biyomühendislik (Tezli, Grad) 1. sınıfında (1. ve 2. yarıyıl) hangi dersler alınır?
+CEVAP: Biyomühendislik (Tezli, Grad) programının 1. sınıfında, 1. yarıyılda şu dersler alınır: BNG5111 Biyomedikal Mühendisliğinde Temel Kavramlar ve Uygulamalar (8 AKTS), BUS5301 Araştırma Yöntemleri ve Etik (9 AKTS). 2. yarıyılda ise şu dersler alınır: BNG5124 Biyomühendislik Temel Teknikler (8 AKTS).
+
+QUESTION: Which courses are taken in year 1 (semesters 1 and 2) of Bioengineering (Grad, Thesis)?
+ANSWER: In year 1 of the Bioengineering (Grad, Thesis) program, semester 1 courses are: BNG5111 Biyomedikal Mühendisliğinde Temel Kavramlar ve Uygulamalar (8 ECTS), BUS5301 Araştırma Yöntemleri ve Etik (9 ECTS). Semester 2 courses are: BNG5124 Biyomühendislik Temel Teknikler (8 ECTS).
+
+SORU: Biyomühendislik (Tezli, Grad) programında bölüm seçmeli olarak hangi dersler seçilebilir?
+CEVAP: Biyomühendislik (Tezli, Grad) programında bölüm seçmeli kapsamında seçilebilecek dersler: BNG5002 Biyomedikal Sinyaller ve Uygulamaları (8 AKTS), BNG5003 Hareket Biyomekaniği (8 AKTS), BNG5004 Tıpta 3 Boyutlu Modelleme (12 AKTS), BNG5005 Biyomekanikte Özel Konular (8 AKTS), BNG5006 Tıbbi Bilimlerde Lazerler (8 AKTS), BNG5113 Hücresel ve Moleküler Biyomühendislik (8 AKTS), BNG5114 Hücre Kültürü Teknikleri (12 AKTS), BNG5115 Hücre ve Doku Mühendisliği (12 AKTS), BNG5121 Tıbbi Görüntüleme (8 AKTS), BNG5232 Kardiyovasküler mekanizma (8 AKTS), BNG5410 Genetik Mühendislik (12 AKTS), BNG5526 Uygulamalı Biyoistatistik (8 AKTS), BNG5527 İleri İmmünoloji (6 AKTS), BNG5795 Biyomühendislikte Özel Konular-I (12 AKTS), BNG5796 Biyomühendislikte Özel Konular-II (12 AKTS).
+
+QUESTION: Which courses can be chosen as a bölüm seçmeli in the Bioengineering (Grad, Thesis) program?
+ANSWER: Courses that can be chosen as a bölüm seçmeli in the Bioengineering (Grad, Thesis) program include: BNG5002 Biyomedikal Sinyaller ve Uygulamaları (8 ECTS), BNG5003 Hareket Biyomekaniği (8 ECTS), BNG5004 Tıpta 3 Boyutlu Modelleme (12 ECTS), BNG5005 Biyomekanikte Özel Konular (8 ECTS), BNG5006 Tıbbi Bilimlerde Lazerler (8 ECTS), BNG5113 Hücresel ve Moleküler Biyomühendislik (8 ECTS), BNG5114 Hücre Kültürü Teknikleri (12 ECTS), BNG5115 Hücre ve Doku Mühendisliği (12 ECTS), BNG5121 Tıbbi Görüntüleme (8 ECTS), BNG5232 Kardiyovasküler mekanizma (8 ECTS), BNG5410 Genetik Mühendislik (12 ECTS), BNG5526 Uygulamalı Biyoistatistik (8 ECTS), BNG5527 İleri İmmünoloji (6 ECTS), BNG5795 Biyomühendislikte Özel Konular-I (12 ECTS), BNG5796 Biyomühendislikte Özel Konular-II (12 ECTS).

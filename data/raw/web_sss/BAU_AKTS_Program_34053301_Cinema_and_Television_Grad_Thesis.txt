@@ -1,0 +1,13 @@
+BAU Sinema ve Televizyon (Tezli) (Cinema and Television (Grad, Thesis)) Ders Planı (Kaynak: akts.bau.edu.tr)
+
+SORU: Sinema ve Televizyon (Tezli) 1. sınıfında (1. ve 2. yarıyıl) hangi dersler alınır?
+CEVAP: Sinema ve Televizyon (Tezli) programının 1. sınıfında, 1. yarıyılda şu dersler alınır: BUS5301 Araştırma Yöntemleri ve Etik (9 AKTS), FTV5915 Sinema ve Televizyon Çalışmalarında Teori ve Kaynaklar (7 AKTS). 2. yarıyılda ise şu dersler alınır: FTV5021 Film Analizi (9 AKTS).
+
+QUESTION: Which courses are taken in year 1 (semesters 1 and 2) of Cinema and Television (Grad, Thesis)?
+ANSWER: In year 1 of the Cinema and Television (Grad, Thesis) program, semester 1 courses are: BUS5301 Araştırma Yöntemleri ve Etik (9 ECTS), FTV5915 Sinema ve Televizyon Çalışmalarında Teori ve Kaynaklar (7 ECTS). Semester 2 courses are: FTV5021 Film Analizi (9 ECTS).
+
+SORU: Sinema ve Televizyon (Tezli) programında bölüm seçmeli olarak hangi dersler seçilebilir?
+CEVAP: Sinema ve Televizyon (Tezli) programında bölüm seçmeli kapsamında seçilebilecek dersler: FTV5001 Korku, Cinsiyet ve Toplum (7 AKTS), FTV5006 Bilim-Kurgu, Teknoloji ve Toplum (7 AKTS), FTV5008 Film Prodüksiyonu (7 AKTS), FTV5011 Belgesel Film ve Video (7 AKTS), FTV5012 Belgesel Prodüksiyoynu (7 AKTS), FTV5014 Türk Sineması (7 AKTS), FTV5018 Kentsel Mekanlar ve Sinema (7 AKTS), FTV5060 Film&Video Yapımının Temelleri (7 AKTS), FTV5061 Film & Televizyonda Özel Konular I (7 AKTS), FTV5062 Film & Televizyonda Özel Konular II (7 AKTS), FTV5929 Öyküleyici Film Tarihi (7 AKTS).
+
+QUESTION: Which courses can be chosen as a bölüm seçmeli in the Cinema and Television (Grad, Thesis) program?
+ANSWER: Courses that can be chosen as a bölüm seçmeli in the Cinema and Television (Grad, Thesis) program include: FTV5001 Korku, Cinsiyet ve Toplum (7 ECTS), FTV5006 Bilim-Kurgu, Teknoloji ve Toplum (7 ECTS), FTV5008 Film Prodüksiyonu (7 ECTS), FTV5011 Belgesel Film ve Video (7 ECTS), FTV5012 Belgesel Prodüksiyoynu (7 ECTS), FTV5014 Türk Sineması (7 ECTS), FTV5018 Kentsel Mekanlar ve Sinema (7 ECTS), FTV5060 Film&Video Yapımının Temelleri (7 ECTS), FTV5061 Film & Televizyonda Özel Konular I (7 ECTS), FTV5062 Film & Televizyonda Özel Konular II (7 ECTS), FTV5929 Öyküleyici Film Tarihi (7 ECTS).

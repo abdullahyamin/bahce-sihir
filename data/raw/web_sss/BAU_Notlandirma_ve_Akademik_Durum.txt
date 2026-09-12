@@ -1,0 +1,31 @@
+BAU Notlandırma Sistemi ve Akademik Durum SSS (Kaynak: BAHÇEŞEHİR ÜNİVERSİTESİ ÖN LİSANS VE LİSANS EĞİTİM-ÖĞRETİM VE SINAV YÖNETMELİĞİ, BAHÇEŞEHİR ÜNİVERSİTESİ SINAV YÖNERGESİ, ve BAHÇEŞEHİR ÜNİVERSİTESİ LİSANS VE ÖN LİSANS PROGRAMLARINDA AZAMİ ÖĞRENİM SÜRESİ SONUNDA YAPILACAK EK SINAV VE EK SÜRELERLE İLGİLİ UYGULAMA ESASLARI)
+
+SORU: BAU'da harf notları 4'lük sisteme (GNO) nasıl karşılık gelir? B+ notu kaç puandır?
+CEVAP: Ders başarı notları ile 4'lük sistemdeki katsayı karşılıkları şöyledir: A = 4.00, A- = 3.67, B+ = 3.33, B = 3.00, B- = 2.67, C+ = 2.33, C = 2.00, C- = 1.67, D+ = 1.33, D = 1.00, F = 0.00, NA (devamsız) = 0.00. Ayrıca not ortalamasına katılmayan özel harfler de kullanılır: I (Eksik), S (Yeterli), U (Yetersiz), PR (Gelişmekte), W (Çekilmiş).
+
+QUESTION: How do BAU's letter grades convert to the 4.0 GPA scale? What is a B+ worth?
+ANSWER: Course grades convert to the 4.0 scale as follows: A = 4.00, A- = 3.67, B+ = 3.33, B = 3.00, B- = 2.67, C+ = 2.33, C = 2.00, C- = 1.67, D+ = 1.33, D = 1.00, F = 0.00, NA (absent) = 0.00. Special letters that don't count toward GPA are also used: I (Incomplete), S (Satisfactory), U (Unsatisfactory), PR (In Progress), W (Withdrawn).
+
+SORU: Genel not ortalamam (GNO) 2.00'ın altına düşerse ne olur?
+CEVAP: GNO'su 2.00/4.00'ın altında olan öğrenciler, bütünleme sınavlarına yalnızca (F) notu aldıkları derslerden değil, aynı zamanda koşullu başarılı sayıldıkları derslerden de girmek zorundadır (GNO'su 2.00 ve üzerinde olan öğrenciler yalnızca F aldıkları derslerden bütünleme sınavına girebilir). Ayrıca, azami öğrenim süresinin sonunda tüm derslerini başarıyla tamamlamış olmasına rağmen GNO'su hâlâ 2.00'ın altında olan öğrencilere, ortalamalarını yükseltebilmeleri için sınırsız ek sınav hakkı tanınır.
+
+QUESTION: What happens if my GPA drops below 2.00?
+ANSWER: Students with a GPA below 2.00/4.00 must take makeup (bütünleme) exams not only for courses they failed (F) but also for courses they conditionally passed — students with a GPA of 2.00 or above only need to retake failed (F) courses. Additionally, if a student has completed all required courses by the end of their maximum allowed study period but their GPA is still below 2.00, they are granted unlimited additional exam attempts specifically to raise their GPA to 2.00.
+
+SORU: Azami öğrenim süresini doldurup mezun olamayan öğrenciler için ne oluyor (ilişik kesilme)?
+CEVAP: Azami öğrenim süresini tamamlayan ve başarısızlık nedeniyle ilişiği kesilme durumuna gelen öğrencilere, başarısız oldukları tüm dersler için iki ek sınav hakkı verilir. Bu iki ek sınav sonunda başarısız ders sayısını beşe indirenlere bu beş ders için üç yarıyıl, ek sınavları almadan beş derse kadar başarısız olanlara dört yarıyıl ek süre tanınır.
+
+QUESTION: What happens to students who reach their maximum study duration without graduating (risk of dismissal)?
+ANSWER: Students who reach their maximum study duration and face dismissal due to academic failure are given two additional exam attempts for all courses they failed. Students who reduce their failed-course count to five or fewer after these two additional exams are given three more semesters for those five courses; students with up to five failed courses without taking the additional exams are given four more semesters.
+
+SORU: Bölümümü/programımı değiştirmek istiyorum, bu nasıl yapılır?
+CEVAP: BAU içinde bir bölümden başka bir bölüme geçmek, "kurum içi yatay geçiş" süreci üzerinden yapılır — ayrı bir "bölüm değiştirme" prosedürü değildir. Bu süreç, Bahçeşehir Üniversitesi Ön Lisans ve Lisans Düzeyinde Yükseköğretim Diploma Programları Arası Yatay Geçişlere İlişkin Yönerge kapsamında yürütülür ve başvurular ilan edilen dönemlerde yapılır. Önemli not: kurum içi yatay geçiş/bölüm değiştirme durumunda önceki bölümdeki bursun yeni bölümde geçerli olup olmayacağı ayrıca değerlendirilir; bu konuda ilgili yönergeye bakılmalıdır.
+
+QUESTION: I want to change my major/department — how is this done?
+ANSWER: Changing from one department to another within BAU is done through the "internal transfer" (kurum içi yatay geçiş) process — there is no separate "change of major" procedure. This falls under the Regulation on Inter-Program Transfers, and applications are only accepted during announced periods. Important note: whether a scholarship from the previous department carries over to the new one is evaluated separately under that same regulation.
+
+SORU: Bir dönemde kaç dersten çekilebilirim (W notu alabilirim) ve son çekilme tarihi ne zaman?
+CEVAP: UMIS öğrenci bilgi sistemine göre, bir dersten çekilme (Withdraw) işlemi yapabilmeniz için o an aktif olarak aldığınız en az 2 dersinizin olması gerekir ve bir dönem içinde en fazla 1 dersten çekilebilirsiniz. Çekilme işleminin son günü sabit bir tarih değildir; her akademik yarıyıl için akademik takvimde ayrıca ilan edilir (örnek: 2026-2027 güz yarıyılı için son çekilme günü 27 Kasım 2026, bahar yarıyılı için 2 Nisan 2027 olarak ilan edilmiştir). Yaz okulunda ise dersten çekilme hakkı bulunmamaktadır.
+
+QUESTION: How many courses can I withdraw from (get a W grade) in one semester, and what's the deadline?
+ANSWER: According to the UMIS student information system, to withdraw from a course you must currently have at least 2 active courses, and you may withdraw from at most 1 course per semester. The withdrawal deadline is not a fixed date — it is announced separately on the academic calendar each semester (for example, the 2026-2027 academic year deadlines were announced as November 27, 2026 for fall and April 2, 2027 for spring). There is no course withdrawal option during summer school.

@@ -1,0 +1,19 @@
+BAU Yapay Zeka (Tezsiz) (Artificial Intelligence (Grad, Non-thesis)) Ders Planı (Kaynak: akts.bau.edu.tr)
+
+SORU: Yapay Zeka (Tezsiz) 1. sınıfında (1. ve 2. yarıyıl) hangi dersler alınır?
+CEVAP: Yapay Zeka (Tezsiz) programının 1. sınıfında, 1. yarıyılda şu dersler alınır: ARI5001 Yapay Zekanın İlkeleri (8 AKTS), BUS5301 Araştırma Yöntemleri ve Etik (9 AKTS). 2. yarıyılda ise şu dersler alınır: ARI5002 Yapay Zeka Optimizasyonu (8 AKTS).
+
+QUESTION: Which courses are taken in year 1 (semesters 1 and 2) of Artificial Intelligence (Grad, Non-thesis)?
+ANSWER: In year 1 of the Artificial Intelligence (Grad, Non-thesis) program, semester 1 courses are: ARI5001 Yapay Zekanın İlkeleri (8 ECTS), BUS5301 Araştırma Yöntemleri ve Etik (9 ECTS). Semester 2 courses are: ARI5002 Yapay Zeka Optimizasyonu (8 ECTS).
+
+SORU: Yapay Zeka (Tezsiz) 2. sınıfında (3. ve 4. yarıyıl) hangi dersler alınır?
+CEVAP: Yapay Zeka (Tezsiz) programının 2. sınıfında, 3. yarıyılda şu dersler alınır: CMP5999 Proje (16 AKTS). 4. yarıyılda ise şu dersler alınır: bilgi bulunmuyor.
+
+QUESTION: Which courses are taken in year 2 (semesters 3 and 4) of Artificial Intelligence (Grad, Non-thesis)?
+ANSWER: In year 2 of the Artificial Intelligence (Grad, Non-thesis) program, semester 3 courses are: CMP5999 Proje (16 ECTS). Semester 4 courses are: no data available.
+
+SORU: Yapay Zeka (Tezsiz) programında bölüm seçmeli olarak hangi dersler seçilebilir?
+CEVAP: Yapay Zeka (Tezsiz) programında bölüm seçmeli kapsamında seçilebilecek dersler: ARI5003 Makine öğrenme (8 AKTS), ARI5004 Derin Öğrenme (8 AKTS), ARI5005 Pekiştirmeli Öğrenme (8 AKTS), ARI5012 Bulut Bilişim 3 0 3 12 EEE5041 Kuantum Mühendisliği (12 AKTS), SEN5144 Yazılım Proje Yönetimi (8 AKTS).
+
+QUESTION: Which courses can be chosen as a bölüm seçmeli in the Artificial Intelligence (Grad, Non-thesis) program?
+ANSWER: Courses that can be chosen as a bölüm seçmeli in the Artificial Intelligence (Grad, Non-thesis) program include: ARI5003 Makine öğrenme (8 ECTS), ARI5004 Derin Öğrenme (8 ECTS), ARI5005 Pekiştirmeli Öğrenme (8 ECTS), ARI5012 Bulut Bilişim 3 0 3 12 EEE5041 Kuantum Mühendisliği (12 ECTS), SEN5144 Yazılım Proje Yönetimi (8 ECTS).

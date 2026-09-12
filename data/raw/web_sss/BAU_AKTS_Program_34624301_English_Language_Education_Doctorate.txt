@@ -1,0 +1,19 @@
+BAU İngiliz Dili Eğitimi (Doktora) (English Language Education (Doctorate)) Ders Planı (Kaynak: akts.bau.edu.tr)
+
+SORU: İngiliz Dili Eğitimi (Doktora) 1. sınıfında (1. ve 2. yarıyıl) hangi dersler alınır?
+CEVAP: İngiliz Dili Eğitimi (Doktora) programının 1. sınıfında, 1. yarıyılda şu dersler alınır: ELT6021 Öğretmen Eğitiminde İleri Düzey Seminer (9 AKTS), RCH6001 İleri Araştırma Yöntemleri (9 AKTS). 2. yarıyılda ise şu dersler alınır: EDT6102 Eğitim Araştırmalarında Nitel Yöntemler (9 AKTS).
+
+QUESTION: Which courses are taken in year 1 (semesters 1 and 2) of English Language Education (Doctorate)?
+ANSWER: In year 1 of the English Language Education (Doctorate) program, semester 1 courses are: ELT6021 Öğretmen Eğitiminde İleri Düzey Seminer (9 ECTS), RCH6001 İleri Araştırma Yöntemleri (9 ECTS). Semester 2 courses are: EDT6102 Eğitim Araştırmalarında Nitel Yöntemler (9 ECTS).
+
+SORU: İngiliz Dili Eğitimi (Doktora) 2. sınıfında (3. ve 4. yarıyıl) hangi dersler alınır?
+CEVAP: İngiliz Dili Eğitimi (Doktora) programının 2. sınıfında, 3. yarıyılda şu dersler alınır: SMR6887 Seminer (6 AKTS). 4. yarıyılda ise şu dersler alınır: QUA6999 Doktora Yeterlilik (30 AKTS).
+
+QUESTION: Which courses are taken in year 2 (semesters 3 and 4) of English Language Education (Doctorate)?
+ANSWER: In year 2 of the English Language Education (Doctorate) program, semester 3 courses are: SMR6887 Seminer (6 ECTS). Semester 4 courses are: QUA6999 Doktora Yeterlilik (30 ECTS).
+
+SORU: İngiliz Dili Eğitimi (Doktora) programında bölüm seçmeli olarak hangi dersler seçilebilir?
+CEVAP: İngiliz Dili Eğitimi (Doktora) programında bölüm seçmeli kapsamında seçilebilecek dersler: EDT6104 Entegre Ortam Tasarımı (12 AKTS), EDT6115 Teknoloji Liderliği ve Planlanması (12 AKTS), EDT6116 Biliş, Öğrenme ve Teknoloji (12 AKTS), ELT6020 İkinci Dil Ediniminde İleri Düzey Seminer (12 AKTS), ELT6021 Öğretmen Eğitiminde İleri Düzey Seminer (9 AKTS), ELT6026 İkinci Dil Ediniminde Sosyokültürel Teori (12 AKTS), ELT6028 Yabancı Dil Eğitiminde Planlamada Yeni Eğilimler (12 AKTS).
+
+QUESTION: Which courses can be chosen as a bölüm seçmeli in the English Language Education (Doctorate) program?
+ANSWER: Courses that can be chosen as a bölüm seçmeli in the English Language Education (Doctorate) program include: EDT6104 Entegre Ortam Tasarımı (12 ECTS), EDT6115 Teknoloji Liderliği ve Planlanması (12 ECTS), EDT6116 Biliş, Öğrenme ve Teknoloji (12 ECTS), ELT6020 İkinci Dil Ediniminde İleri Düzey Seminer (12 ECTS), ELT6021 Öğretmen Eğitiminde İleri Düzey Seminer (9 ECTS), ELT6026 İkinci Dil Ediniminde Sosyokültürel Teori (12 ECTS), ELT6028 Yabancı Dil Eğitiminde Planlamada Yeni Eğilimler (12 ECTS).

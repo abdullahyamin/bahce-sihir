@@ -1,0 +1,19 @@
+BAU Elektrik-Elektronik Mühendisliği (Doktora) (Electrical-Electronics Engineering (Doctorate)) Ders Planı (Kaynak: akts.bau.edu.tr)
+
+SORU: Elektrik-Elektronik Mühendisliği (Doktora) 1. sınıfında (1. ve 2. yarıyıl) hangi dersler alınır?
+CEVAP: Elektrik-Elektronik Mühendisliği (Doktora) programının 1. sınıfında, 1. yarıyılda şu dersler alınır: EEE6002 Dijital Entegre Devreler (9 AKTS), RCH6001 İleri Araştırma Yöntemleri (9 AKTS). 2. yarıyılda ise şu dersler alınır: EEE6003 İletişim Sistemleri (9 AKTS).
+
+QUESTION: Which courses are taken in year 1 (semesters 1 and 2) of Electrical-Electronics Engineering (Doctorate)?
+ANSWER: In year 1 of the Electrical-Electronics Engineering (Doctorate) program, semester 1 courses are: EEE6002 Dijital Entegre Devreler (9 ECTS), RCH6001 İleri Araştırma Yöntemleri (9 ECTS). Semester 2 courses are: EEE6003 İletişim Sistemleri (9 ECTS).
+
+SORU: Elektrik-Elektronik Mühendisliği (Doktora) 2. sınıfında (3. ve 4. yarıyıl) hangi dersler alınır?
+CEVAP: Elektrik-Elektronik Mühendisliği (Doktora) programının 2. sınıfında, 3. yarıyılda şu dersler alınır: SMR6887 Seminer (6 AKTS). 4. yarıyılda ise şu dersler alınır: QUA6999 Doktora Yeterlilik (30 AKTS).
+
+QUESTION: Which courses are taken in year 2 (semesters 3 and 4) of Electrical-Electronics Engineering (Doctorate)?
+ANSWER: In year 2 of the Electrical-Electronics Engineering (Doctorate) program, semester 3 courses are: SMR6887 Seminer (6 ECTS). Semester 4 courses are: QUA6999 Doktora Yeterlilik (30 ECTS).
+
+SORU: Elektrik-Elektronik Mühendisliği (Doktora) programında bölüm seçmeli olarak hangi dersler seçilebilir?
+CEVAP: Elektrik-Elektronik Mühendisliği (Doktora) programında bölüm seçmeli kapsamında seçilebilecek dersler: EEE5012 Mühendislikte Sayısal Yöntemler (8 AKTS), EEE5014 Rastgele Süreçler ve Tahmin Teorisi (8 AKTS), EEE5040 Veri İletişimi ve Ağ Oluşturma (12 AKTS), EEE5041 Kuantum Mühendisliği (12 AKTS), EEE5043 Hata Kontrolü Kodlaması (12 AKTS), EEE5723 Mikrodalga Mühendisliği (12 AKTS), EEE6008 Doktora Tezine Yönelik Konular I (12 AKTS), EEE6009 Doktora Tezine Yönelik Konular II (12 AKTS), EEE6010 Doktora Tezine Yönelik Konular III (12 AKTS).
+
+QUESTION: Which courses can be chosen as a bölüm seçmeli in the Electrical-Electronics Engineering (Doctorate) program?
+ANSWER: Courses that can be chosen as a bölüm seçmeli in the Electrical-Electronics Engineering (Doctorate) program include: EEE5012 Mühendislikte Sayısal Yöntemler (8 ECTS), EEE5014 Rastgele Süreçler ve Tahmin Teorisi (8 ECTS), EEE5040 Veri İletişimi ve Ağ Oluşturma (12 ECTS), EEE5041 Kuantum Mühendisliği (12 ECTS), EEE5043 Hata Kontrolü Kodlaması (12 ECTS), EEE5723 Mikrodalga Mühendisliği (12 ECTS), EEE6008 Doktora Tezine Yönelik Konular I (12 ECTS), EEE6009 Doktora Tezine Yönelik Konular II (12 ECTS), EEE6010 Doktora Tezine Yönelik Konular III (12 ECTS).

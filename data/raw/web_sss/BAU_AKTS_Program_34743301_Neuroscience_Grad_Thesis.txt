@@ -1,0 +1,19 @@
+BAU Sinirbilim (Tezli) (Neuroscience (Grad, Thesis)) Ders Planı (Kaynak: akts.bau.edu.tr)
+
+SORU: Sinirbilim (Tezli) 1. sınıfında (1. ve 2. yarıyıl) hangi dersler alınır?
+CEVAP: Sinirbilim (Tezli) programının 1. sınıfında, 1. yarıyılda şu dersler alınır: BUS5301 Araştırma Yöntemleri ve Etik (9 AKTS), NSC5003 Sinir Sistemine Giriş (7 AKTS). 2. yarıyılda ise şu dersler alınır: NSC5001 Sinirbilime Giriş (8 AKTS).
+
+QUESTION: Which courses are taken in year 1 (semesters 1 and 2) of Neuroscience (Grad, Thesis)?
+ANSWER: In year 1 of the Neuroscience (Grad, Thesis) program, semester 1 courses are: BUS5301 Araştırma Yöntemleri ve Etik (9 ECTS), NSC5003 Sinir Sistemine Giriş (7 ECTS). Semester 2 courses are: NSC5001 Sinirbilime Giriş (8 ECTS).
+
+SORU: Sinirbilim (Tezli) 2. sınıfında (3. ve 4. yarıyıl) hangi dersler alınır?
+CEVAP: Sinirbilim (Tezli) programının 2. sınıfında, 3. yarıyılda şu dersler alınır: NSC5205 Seminer (10 AKTS). 4. yarıyılda ise şu dersler alınır: bilgi bulunmuyor.
+
+QUESTION: Which courses are taken in year 2 (semesters 3 and 4) of Neuroscience (Grad, Thesis)?
+ANSWER: In year 2 of the Neuroscience (Grad, Thesis) program, semester 3 courses are: NSC5205 Seminer (10 ECTS). Semester 4 courses are: no data available.
+
+SORU: Sinirbilim (Tezli) programında bölüm seçmeli olarak hangi dersler seçilebilir?
+CEVAP: Sinirbilim (Tezli) programında bölüm seçmeli kapsamında seçilebilecek dersler: NSC5007 Temel Nöropatoloji (7 AKTS), NSC5009 Nörodejenerasyon ve Nörodejeneratif Hastalıklar (7 AKTS), NSC5011 Nörogenetik (7 AKTS), NSC5017 Nörobilim Deneysel Yöntemler (7 AKTS), NSC5021 Nörofarmakoloji (7 AKTS), NSC5023 Sinirbilimde Çağdaş Araştırmalar (7 AKTS), NSC5026 Nörobilimde Nörogörüntüleme Yöntemleri (7 AKTS).
+
+QUESTION: Which courses can be chosen as a bölüm seçmeli in the Neuroscience (Grad, Thesis) program?
+ANSWER: Courses that can be chosen as a bölüm seçmeli in the Neuroscience (Grad, Thesis) program include: NSC5007 Temel Nöropatoloji (7 ECTS), NSC5009 Nörodejenerasyon ve Nörodejeneratif Hastalıklar (7 ECTS), NSC5011 Nörogenetik (7 ECTS), NSC5017 Nörobilim Deneysel Yöntemler (7 ECTS), NSC5021 Nörofarmakoloji (7 ECTS), NSC5023 Sinirbilimde Çağdaş Araştırmalar (7 ECTS), NSC5026 Nörobilimde Nörogörüntüleme Yöntemleri (7 ECTS).

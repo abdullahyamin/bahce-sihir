@@ -1,0 +1,19 @@
+BAU Yapay Zeka Mühendisliği Ders Planı (Kaynak: akts.bau.edu.tr, program kodu 04142101)
+
+SORU: Yapay Zeka Mühendisliği 3. sınıf güz döneminde (5. yarıyıl) hangi dersler alınır?
+CEVAP: Yapay Zeka Mühendisliği programının 3. yıl 5. yarıyılında (güz dönemi) şu dersler alınır: AIN3001 Yapay Öğrenme (7 AKTS), AIN3003 Veritabanı Sistemleri ve Bulut Bilişimi (8 AKTS), CMP3005 Algoritma Analizi (6 AKTS), HST1001 Atatürk İlkeleri ve İnkılap Tarihi I (2 AKTS), TLL1003 Türk Dili ve Edebiyatı I (2 AKTS), ve bir Genel Eğitim Seçmeli ders (5 AKTS). Toplam 30 AKTS'dir.
+
+QUESTION: Which courses do I need to take in the 3rd year fall semester (5th semester) of AI Engineering?
+ANSWER: In the 3rd year fall semester (5th semester) of the Artificial Intelligence Engineering program, the courses are: AIN3001 Machine Learning (7 ECTS), AIN3003 Database Systems and Cloud Computing (8 ECTS), CMP3005 Analysis of Algorithms (6 ECTS), HST1001 Principles of Atatürk and History of Revolution I (2 ECTS), TLL1003 Turkish Language and Literature I (2 ECTS), and one General Education Elective (5 ECTS). Total: 30 ECTS.
+
+SORU: Yapay Zeka Mühendisliği 3. sınıf bahar döneminde (6. yarıyıl) hangi dersler alınır?
+CEVAP: Yapay Zeka Mühendisliği programının 3. yıl 6. yarıyılında (bahar dönemi) şu dersler alınır: AIN3002 Derin Öğrenme (6 AKTS), CMP3008 Biçimsel Diller ve Otomat Teorisi (6 AKTS), CMP3010 Gömülü Sistem Programlama (6 AKTS), ENR3001 Mühendisliğin Teknik Olmayan Yönleri (4 AKTS), HST1002 Atatürk İlkeleri ve İnkılap Tarihi II (2 AKTS), TLL1004 Türk Dili ve Edebiyatı II (2 AKTS), ve bir Bölüm Dışı Seçmeli ders (4 AKTS). Toplam 30 AKTS'dir.
+
+QUESTION: Which courses do I need to take in the 3rd year spring semester (6th semester) of AI Engineering?
+ANSWER: In the 3rd year spring semester (6th semester) of the Artificial Intelligence Engineering program, the courses are: AIN3002 Deep Learning (6 ECTS), CMP3008 Formal Languages and Automata Theory (6 ECTS), CMP3010 Embedded Systems Programming (6 ECTS), ENR3001 Non-Technical Aspects of Engineering (4 ECTS), HST1002 Principles of Atatürk and History of Revolution II (2 ECTS), TLL1004 Turkish Language and Literature II (2 ECTS), and one Non-Departmental Elective (4 ECTS). Total: 30 ECTS.
+
+SORU: Yapay Zeka Mühendisliği 3. sınıfında toplam kaç AKTS alınır?
+CEVAP: Yapay Zeka Mühendisliği 3. sınıfında, güz ve bahar dönemleri birlikte, toplam 60 AKTS alınır (her yarıyıl 30 AKTS).
+
+QUESTION: How many total ECTS are taken in the 3rd year of AI Engineering?
+ANSWER: In the 3rd year of the AI Engineering program, across both fall and spring semesters, a total of 60 ECTS is taken (30 ECTS per semester).

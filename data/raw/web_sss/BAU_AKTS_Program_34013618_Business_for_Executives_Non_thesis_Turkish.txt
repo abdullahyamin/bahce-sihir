@@ -1,0 +1,19 @@
+BAU Yöneticiler için İşletme (Tezsiz, Türkçe) (Business for Executives (Non-thesis, Turkish)) Ders Planı (Kaynak: akts.bau.edu.tr)
+
+SORU: Yöneticiler için İşletme (Tezsiz, Türkçe) 1. sınıfında (1. ve 2. yarıyıl) hangi dersler alınır?
+CEVAP: Yöneticiler için İşletme (Tezsiz, Türkçe) programının 1. sınıfında, 1. yarıyılda şu dersler alınır: HSL5103 Yöneticiler için Stratejik Liderlik ve Yönetim (8 AKTS), ISL5301 Araştırma Yöntemleri ve Etik (9 AKTS). 2. yarıyılda ise şu dersler alınır: HSL5201 Yöneticiler için Pazarlama Stratejileri (8 AKTS).
+
+QUESTION: Which courses are taken in year 1 (semesters 1 and 2) of Business for Executives (Non-thesis, Turkish)?
+ANSWER: In year 1 of the Business for Executives (Non-thesis, Turkish) program, semester 1 courses are: HSL5103 Yöneticiler için Stratejik Liderlik ve Yönetim (8 ECTS), ISL5301 Araştırma Yöntemleri ve Etik (9 ECTS). Semester 2 courses are: HSL5201 Yöneticiler için Pazarlama Stratejileri (8 ECTS).
+
+SORU: Yöneticiler için İşletme (Tezsiz, Türkçe) 2. sınıfında (3. ve 4. yarıyıl) hangi dersler alınır?
+CEVAP: Yöneticiler için İşletme (Tezsiz, Türkçe) programının 2. sınıfında, 3. yarıyılda şu dersler alınır: ISL5999 Proje (16 AKTS). 4. yarıyılda ise şu dersler alınır: bilgi bulunmuyor.
+
+QUESTION: Which courses are taken in year 2 (semesters 3 and 4) of Business for Executives (Non-thesis, Turkish)?
+ANSWER: In year 2 of the Business for Executives (Non-thesis, Turkish) program, semester 3 courses are: ISL5999 Proje (16 ECTS). Semester 4 courses are: no data available.
+
+SORU: Yöneticiler için İşletme (Tezsiz, Türkçe) programında bölüm seçmeli olarak hangi dersler seçilebilir?
+CEVAP: Yöneticiler için İşletme (Tezsiz, Türkçe) programında bölüm seçmeli kapsamında seçilebilecek dersler: ISL5130 Büyük Veri Bilimi Yönetimi (8 AKTS), ISL5194 İş Yaşamında Etik (8 AKTS), ISL5630 İş Dünyasında Karar Alma ve Yönetişim (8 AKTS), ISL5631 Türkiye Ekonomisi üzerine Güncel Konular (8 AKTS), ISL5930 Güncel Finansal Teknikler (8 AKTS), PAZ5702 Güçlü Markalar Yaratma (8 AKTS), PAZ5904 Pazarlamada Güncel Konular (8 AKTS).
+
+QUESTION: Which courses can be chosen as a bölüm seçmeli in the Business for Executives (Non-thesis, Turkish) program?
+ANSWER: Courses that can be chosen as a bölüm seçmeli in the Business for Executives (Non-thesis, Turkish) program include: ISL5130 Büyük Veri Bilimi Yönetimi (8 ECTS), ISL5194 İş Yaşamında Etik (8 ECTS), ISL5630 İş Dünyasında Karar Alma ve Yönetişim (8 ECTS), ISL5631 Türkiye Ekonomisi üzerine Güncel Konular (8 ECTS), ISL5930 Güncel Finansal Teknikler (8 ECTS), PAZ5702 Güçlü Markalar Yaratma (8 ECTS), PAZ5904 Pazarlamada Güncel Konular (8 ECTS).

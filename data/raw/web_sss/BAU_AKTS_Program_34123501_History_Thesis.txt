@@ -1,0 +1,13 @@
+BAU Tarih (Tezli) (History (Thesis)) Ders Planı (Kaynak: akts.bau.edu.tr)
+
+SORU: Tarih (Tezli) 1. sınıfında (1. ve 2. yarıyıl) hangi dersler alınır?
+CEVAP: Tarih (Tezli) programının 1. sınıfında, 1. yarıyılda şu dersler alınır: ISL5301 Araştırma Yöntemleri ve Etik (9 AKTS), TAR5110 Osmanli Tarihinde Ilk El Kaynaklara Giris (7 AKTS). 2. yarıyılda ise şu dersler alınır: TAR5142 Osmanlı Sosyal ve Ekonomik Tarihi (7 AKTS).
+
+QUESTION: Which courses are taken in year 1 (semesters 1 and 2) of History (Thesis)?
+ANSWER: In year 1 of the History (Thesis) program, semester 1 courses are: ISL5301 Araştırma Yöntemleri ve Etik (9 ECTS), TAR5110 Osmanli Tarihinde Ilk El Kaynaklara Giris (7 ECTS). Semester 2 courses are: TAR5142 Osmanlı Sosyal ve Ekonomik Tarihi (7 ECTS).
+
+SORU: Tarih (Tezli) programında bölüm seçmeli olarak hangi dersler seçilebilir?
+CEVAP: Tarih (Tezli) programında bölüm seçmeli kapsamında seçilebilecek dersler: TAR5113 Osmanlı Türkçesi I (8 AKTS), TAR5122 Osmanlı Şehirleşmesi ve Mimarisi (1300-1500) (8 AKTS), TAR5142 Osmanlı Sosyal ve Ekonomik Tarihi (7 AKTS), TAR5202 Osmanlı Türkçesi II (8 AKTS), TAR5211 Klasik Çağ Osmanlı Tarihi (7 AKTS), TAR5319 16. – 19. Yüzyıllarda Akdeniz Tarihi (8 AKTS).
+
+QUESTION: Which courses can be chosen as a bölüm seçmeli in the History (Thesis) program?
+ANSWER: Courses that can be chosen as a bölüm seçmeli in the History (Thesis) program include: TAR5113 Osmanlı Türkçesi I (8 ECTS), TAR5122 Osmanlı Şehirleşmesi ve Mimarisi (1300-1500) (8 ECTS), TAR5142 Osmanlı Sosyal ve Ekonomik Tarihi (7 ECTS), TAR5202 Osmanlı Türkçesi II (8 ECTS), TAR5211 Klasik Çağ Osmanlı Tarihi (7 ECTS), TAR5319 16. – 19. Yüzyıllarda Akdeniz Tarihi (8 ECTS).

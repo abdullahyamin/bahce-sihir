@@ -1,0 +1,19 @@
+BAU Endüstri Mühendisliği (Doktora) (Industrial Engineering (Doctorate)) Ders Planı (Kaynak: akts.bau.edu.tr)
+
+SORU: Endüstri Mühendisliği (Doktora) 1. sınıfında (1. ve 2. yarıyıl) hangi dersler alınır?
+CEVAP: Endüstri Mühendisliği (Doktora) programının 1. sınıfında, 1. yarıyılda şu dersler alınır: INE6101 Doğrusal Optimizasyon (9 AKTS), RCH6001 İleri Araştırma Yöntemleri (9 AKTS). 2. yarıyılda ise şu dersler alınır: INE6105 Stokastik Modeller (9 AKTS).
+
+QUESTION: Which courses are taken in year 1 (semesters 1 and 2) of Industrial Engineering (Doctorate)?
+ANSWER: In year 1 of the Industrial Engineering (Doctorate) program, semester 1 courses are: INE6101 Doğrusal Optimizasyon (9 ECTS), RCH6001 İleri Araştırma Yöntemleri (9 ECTS). Semester 2 courses are: INE6105 Stokastik Modeller (9 ECTS).
+
+SORU: Endüstri Mühendisliği (Doktora) 2. sınıfında (3. ve 4. yarıyıl) hangi dersler alınır?
+CEVAP: Endüstri Mühendisliği (Doktora) programının 2. sınıfında, 3. yarıyılda şu dersler alınır: SMR6887 Seminer (6 AKTS). 4. yarıyılda ise şu dersler alınır: QUA6999 Doktora Yeterlilik (30 AKTS).
+
+QUESTION: Which courses are taken in year 2 (semesters 3 and 4) of Industrial Engineering (Doctorate)?
+ANSWER: In year 2 of the Industrial Engineering (Doctorate) program, semester 3 courses are: SMR6887 Seminer (6 ECTS). Semester 4 courses are: QUA6999 Doktora Yeterlilik (30 ECTS).
+
+SORU: Endüstri Mühendisliği (Doktora) programında bölüm seçmeli olarak hangi dersler seçilebilir?
+CEVAP: Endüstri Mühendisliği (Doktora) programında bölüm seçmeli kapsamında seçilebilecek dersler: ENM5227 Risk Yönetimi (12 AKTS), ENM5510 İnovasyon ve Yaratıcılık Yönetimi (12 AKTS), INE5261 Çok Ölçütlü Karar Verme (12 AKTS), INE5309 SAP ile Kurumsal Kaynak Planlama (12 AKTS), INE6310 Tedarik Zinciri ve Lojistik Yönetiminde Özel Konular (12 AKTS), INE6360 Talep Planlamada Özel Konular (9 AKTS).
+
+QUESTION: Which courses can be chosen as a bölüm seçmeli in the Industrial Engineering (Doctorate) program?
+ANSWER: Courses that can be chosen as a bölüm seçmeli in the Industrial Engineering (Doctorate) program include: ENM5227 Risk Yönetimi (12 ECTS), ENM5510 İnovasyon ve Yaratıcılık Yönetimi (12 ECTS), INE5261 Çok Ölçütlü Karar Verme (12 ECTS), INE5309 SAP ile Kurumsal Kaynak Planlama (12 ECTS), INE6310 Tedarik Zinciri ve Lojistik Yönetiminde Özel Konular (12 ECTS), INE6360 Talep Planlamada Özel Konular (9 ECTS).

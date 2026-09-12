@@ -18,7 +18,7 @@ class Settings(BaseSettings):
     dense_top_k: int = 10
     sparse_top_k: int = 10
     rerank_top_k: int = 5
-    rerank_candidate_pool_size: int = 6
+    rerank_candidate_pool_size: int = 5
     # Cross-encoder raw scores are a relative ranking signal, not a calibrated absolute
     # probability - a threshold of 0.0 was observed to silently discard ALL candidates
     # (including the correct document ranked #1) for some legitimate queries. Kept as a

@@ -1,0 +1,19 @@
+BAU Tarih (Tezsiz) (History (Non-thesis)) Ders Planı (Kaynak: akts.bau.edu.tr)
+
+SORU: Tarih (Tezsiz) 1. sınıfında (1. ve 2. yarıyıl) hangi dersler alınır?
+CEVAP: Tarih (Tezsiz) programının 1. sınıfında, 1. yarıyılda şu dersler alınır: ISL5301 Araştırma Yöntemleri ve Etik (9 AKTS), TAR5110 Osmanli Tarihinde Ilk El Kaynaklara Giris (7 AKTS). 2. yarıyılda ise şu dersler alınır: TAR5142 Osmanlı Sosyal ve Ekonomik Tarihi (7 AKTS).
+
+QUESTION: Which courses are taken in year 1 (semesters 1 and 2) of History (Non-thesis)?
+ANSWER: In year 1 of the History (Non-thesis) program, semester 1 courses are: ISL5301 Araştırma Yöntemleri ve Etik (9 ECTS), TAR5110 Osmanli Tarihinde Ilk El Kaynaklara Giris (7 ECTS). Semester 2 courses are: TAR5142 Osmanlı Sosyal ve Ekonomik Tarihi (7 ECTS).
+
+SORU: Tarih (Tezsiz) 2. sınıfında (3. ve 4. yarıyıl) hangi dersler alınır?
+CEVAP: Tarih (Tezsiz) programının 2. sınıfında, 3. yarıyılda şu dersler alınır: TAR5999 Bitirme Projesi (14 AKTS). 4. yarıyılda ise şu dersler alınır: bilgi bulunmuyor.
+
+QUESTION: Which courses are taken in year 2 (semesters 3 and 4) of History (Non-thesis)?
+ANSWER: In year 2 of the History (Non-thesis) program, semester 3 courses are: TAR5999 Bitirme Projesi (14 ECTS). Semester 4 courses are: no data available.
+
+SORU: Tarih (Tezsiz) programında bölüm seçmeli olarak hangi dersler seçilebilir?
+CEVAP: Tarih (Tezsiz) programında bölüm seçmeli kapsamında seçilebilecek dersler: TAR5013 Osmanlı Askeri Tarihi (8 AKTS), TAR5014 Osmanlı Diplomasi Tarihi (8 AKTS), TAR5015 Osmanlı İktisat Tarihi (8 AKTS), TAR5113 Osmanlı Türkçesi I (8 AKTS), TAR5122 Osmanlı Şehirleşmesi ve Mimarisi (1300-1500) (8 AKTS), TAR5142 Osmanlı Sosyal ve Ekonomik Tarihi (7 AKTS), TAR5202 Osmanlı Türkçesi II (8 AKTS), TAR5211 Klasik Çağ Osmanlı Tarihi (7 AKTS), TAR5319 16. – 19. Yüzyıllarda Akdeniz Tarihi (8 AKTS).
+
+QUESTION: Which courses can be chosen as a bölüm seçmeli in the History (Non-thesis) program?
+ANSWER: Courses that can be chosen as a bölüm seçmeli in the History (Non-thesis) program include: TAR5013 Osmanlı Askeri Tarihi (8 ECTS), TAR5014 Osmanlı Diplomasi Tarihi (8 ECTS), TAR5015 Osmanlı İktisat Tarihi (8 ECTS), TAR5113 Osmanlı Türkçesi I (8 ECTS), TAR5122 Osmanlı Şehirleşmesi ve Mimarisi (1300-1500) (8 ECTS), TAR5142 Osmanlı Sosyal ve Ekonomik Tarihi (7 ECTS), TAR5202 Osmanlı Türkçesi II (8 ECTS), TAR5211 Klasik Çağ Osmanlı Tarihi (7 ECTS), TAR5319 16. – 19. Yüzyıllarda Akdeniz Tarihi (8 ECTS).

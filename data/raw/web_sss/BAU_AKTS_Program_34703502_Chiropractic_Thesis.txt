@@ -1,0 +1,19 @@
+BAU Kayropraktik (Tezli) (Chiropractic (Thesis)) Ders Planı (Kaynak: akts.bau.edu.tr)
+
+SORU: Kayropraktik (Tezli) 1. sınıfında (1. ve 2. yarıyıl) hangi dersler alınır?
+CEVAP: Kayropraktik (Tezli) programının 1. sınıfında, 1. yarıyılda şu dersler alınır: ISL5301 Araştırma Yöntemleri ve Etik (9 AKTS), KYR5103 Spinal Anatomi ve Biyomekanik (6 AKTS). 2. yarıyılda ise şu dersler alınır: KYR5105 Statik ve Dinamik Spinal Palpasyon (8 AKTS).
+
+QUESTION: Which courses are taken in year 1 (semesters 1 and 2) of Chiropractic (Thesis)?
+ANSWER: In year 1 of the Chiropractic (Thesis) program, semester 1 courses are: ISL5301 Araştırma Yöntemleri ve Etik (9 ECTS), KYR5103 Spinal Anatomi ve Biyomekanik (6 ECTS). Semester 2 courses are: KYR5105 Statik ve Dinamik Spinal Palpasyon (8 ECTS).
+
+SORU: Kayropraktik (Tezli) 2. sınıfında (3. ve 4. yarıyıl) hangi dersler alınır?
+CEVAP: Kayropraktik (Tezli) programının 2. sınıfında, 3. yarıyılda şu dersler alınır: KYR5222 Klinik Gözlem I (4 AKTS), KYR5223 Klinik Uygulama l (5 AKTS). 4. yarıyılda ise şu dersler alınır: KYR5224 Klinik Gözlem II (4 AKTS), KYR5225 Klinik Uygulama II (6 AKTS).
+
+QUESTION: Which courses are taken in year 2 (semesters 3 and 4) of Chiropractic (Thesis)?
+ANSWER: In year 2 of the Chiropractic (Thesis) program, semester 3 courses are: KYR5222 Klinik Gözlem I (4 ECTS), KYR5223 Klinik Uygulama l (5 ECTS). Semester 4 courses are: KYR5224 Klinik Gözlem II (4 ECTS), KYR5225 Klinik Uygulama II (6 ECTS).
+
+SORU: Kayropraktik (Tezli) programında bölüm seçmeli olarak hangi dersler seçilebilir?
+CEVAP: Kayropraktik (Tezli) programında bölüm seçmeli kapsamında seçilebilecek dersler: KYR5102 Klinik Fiziksel Değerlendirme Yöntemleri (6 AKTS), KYR5104 Kayropraktik Öykü (8 AKTS), KYR5207 Patoloji (8 AKTS), KYR5209 Radyoloji (6 AKTS), KYR5211 Nöroloji (8 AKTS), KYR5212 Pediatri (8 AKTS), KYR5213 Geriatri (8 AKTS), KYR5214 Etik (8 AKTS), KYR5215 Kayropraktik Temel Uygulama Prensipleri (8 AKTS), KYR5218 Klinik Beslenme (8 AKTS), KYR5219 Kayropraktikde Hasta Kayıtları ve Dökümantasyon (8 AKTS), KYR5221 Olgular Eşliğinde Pratik Uygulamalar (8 AKTS).
+
+QUESTION: Which courses can be chosen as a bölüm seçmeli in the Chiropractic (Thesis) program?
+ANSWER: Courses that can be chosen as a bölüm seçmeli in the Chiropractic (Thesis) program include: KYR5102 Klinik Fiziksel Değerlendirme Yöntemleri (6 ECTS), KYR5104 Kayropraktik Öykü (8 ECTS), KYR5207 Patoloji (8 ECTS), KYR5209 Radyoloji (6 ECTS), KYR5211 Nöroloji (8 ECTS), KYR5212 Pediatri (8 ECTS), KYR5213 Geriatri (8 ECTS), KYR5214 Etik (8 ECTS), KYR5215 Kayropraktik Temel Uygulama Prensipleri (8 ECTS), KYR5218 Klinik Beslenme (8 ECTS), KYR5219 Kayropraktikde Hasta Kayıtları ve Dökümantasyon (8 ECTS), KYR5221 Olgular Eşliğinde Pratik Uygulamalar (8 ECTS).

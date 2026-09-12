@@ -1,0 +1,19 @@
+BAU Kayropraktik (Tezsiz) (Chiropractic (Non-thesis)) Ders Planı (Kaynak: akts.bau.edu.tr)
+
+SORU: Kayropraktik (Tezsiz) 1. sınıfında (1. ve 2. yarıyıl) hangi dersler alınır?
+CEVAP: Kayropraktik (Tezsiz) programının 1. sınıfında, 1. yarıyılda şu dersler alınır: ISL5301 Araştırma Yöntemleri ve Etik (9 AKTS), KYR5103 Spinal Anatomi ve Biyomekanik (6 AKTS). 2. yarıyılda ise şu dersler alınır: KYR5105 Statik ve Dinamik Spinal Palpasyon (8 AKTS).
+
+QUESTION: Which courses are taken in year 1 (semesters 1 and 2) of Chiropractic (Non-thesis)?
+ANSWER: In year 1 of the Chiropractic (Non-thesis) program, semester 1 courses are: ISL5301 Araştırma Yöntemleri ve Etik (9 ECTS), KYR5103 Spinal Anatomi ve Biyomekanik (6 ECTS). Semester 2 courses are: KYR5105 Statik ve Dinamik Spinal Palpasyon (8 ECTS).
+
+SORU: Kayropraktik (Tezsiz) 2. sınıfında (3. ve 4. yarıyıl) hangi dersler alınır?
+CEVAP: Kayropraktik (Tezsiz) programının 2. sınıfında, 3. yarıyılda şu dersler alınır: SKY5999 Proje (16 AKTS). 4. yarıyılda ise şu dersler alınır: bilgi bulunmuyor.
+
+QUESTION: Which courses are taken in year 2 (semesters 3 and 4) of Chiropractic (Non-thesis)?
+ANSWER: In year 2 of the Chiropractic (Non-thesis) program, semester 3 courses are: SKY5999 Proje (16 ECTS). Semester 4 courses are: no data available.
+
+SORU: Kayropraktik (Tezsiz) programında bölüm seçmeli olarak hangi dersler seçilebilir?
+CEVAP: Kayropraktik (Tezsiz) programında bölüm seçmeli kapsamında seçilebilecek dersler: KYR5102 Klinik Fiziksel Değerlendirme Yöntemleri (6 AKTS), KYR5104 Kayropraktik Öykü (8 AKTS), KYR5207 Patoloji (8 AKTS), KYR5209 Radyoloji (6 AKTS), KYR5211 Nöroloji (8 AKTS), KYR5212 Pediatri (8 AKTS), KYR5213 Geriatri (8 AKTS), KYR5214 Etik (8 AKTS), KYR5215 Kayropraktik Temel Uygulama Prensipleri (8 AKTS), KYR5218 Klinik Beslenme (8 AKTS), KYR5219 Kayropraktikde Hasta Kayıtları ve Dökümantasyon (8 AKTS), KYR5221 Olgular Eşliğinde Pratik Uygulamalar (8 AKTS).
+
+QUESTION: Which courses can be chosen as a bölüm seçmeli in the Chiropractic (Non-thesis) program?
+ANSWER: Courses that can be chosen as a bölüm seçmeli in the Chiropractic (Non-thesis) program include: KYR5102 Klinik Fiziksel Değerlendirme Yöntemleri (6 ECTS), KYR5104 Kayropraktik Öykü (8 ECTS), KYR5207 Patoloji (8 ECTS), KYR5209 Radyoloji (6 ECTS), KYR5211 Nöroloji (8 ECTS), KYR5212 Pediatri (8 ECTS), KYR5213 Geriatri (8 ECTS), KYR5214 Etik (8 ECTS), KYR5215 Kayropraktik Temel Uygulama Prensipleri (8 ECTS), KYR5218 Klinik Beslenme (8 ECTS), KYR5219 Kayropraktikde Hasta Kayıtları ve Dökümantasyon (8 ECTS), KYR5221 Olgular Eşliğinde Pratik Uygulamalar (8 ECTS).

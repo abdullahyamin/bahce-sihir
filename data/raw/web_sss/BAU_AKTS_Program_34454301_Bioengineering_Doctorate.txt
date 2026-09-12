@@ -1,0 +1,19 @@
+BAU Biyomühendislik (Doktora) (Bioengineering (Doctorate)) Ders Planı (Kaynak: akts.bau.edu.tr)
+
+SORU: Biyomühendislik (Doktora) 1. sınıfında (1. ve 2. yarıyıl) hangi dersler alınır?
+CEVAP: Biyomühendislik (Doktora) programının 1. sınıfında, 1. yarıyılda şu dersler alınır: BNG6001 İleri Düzey Hücre Biyolojisi ve Moleküler Yapı (9 AKTS), RCH6001 İleri Araştırma Yöntemleri (9 AKTS). 2. yarıyılda ise şu dersler alınır: BNG6002 Biyomühendislikte Analitik Yöntemler (9 AKTS).
+
+QUESTION: Which courses are taken in year 1 (semesters 1 and 2) of Bioengineering (Doctorate)?
+ANSWER: In year 1 of the Bioengineering (Doctorate) program, semester 1 courses are: BNG6001 İleri Düzey Hücre Biyolojisi ve Moleküler Yapı (9 ECTS), RCH6001 İleri Araştırma Yöntemleri (9 ECTS). Semester 2 courses are: BNG6002 Biyomühendislikte Analitik Yöntemler (9 ECTS).
+
+SORU: Biyomühendislik (Doktora) 2. sınıfında (3. ve 4. yarıyıl) hangi dersler alınır?
+CEVAP: Biyomühendislik (Doktora) programının 2. sınıfında, 3. yarıyılda şu dersler alınır: SMR6887 Seminer (6 AKTS). 4. yarıyılda ise şu dersler alınır: QUA6999 Doktora Yeterlilik (30 AKTS).
+
+QUESTION: Which courses are taken in year 2 (semesters 3 and 4) of Bioengineering (Doctorate)?
+ANSWER: In year 2 of the Bioengineering (Doctorate) program, semester 3 courses are: SMR6887 Seminer (6 ECTS). Semester 4 courses are: QUA6999 Doktora Yeterlilik (30 ECTS).
+
+SORU: Biyomühendislik (Doktora) programında bölüm seçmeli olarak hangi dersler seçilebilir?
+CEVAP: Biyomühendislik (Doktora) programında bölüm seçmeli kapsamında seçilebilecek dersler: BNG6003 Biyolojik Bilimlerde İstatistiksel Yöntemler (9 AKTS), BNG6004 Biyomühendislikte Güncel Konular I (12 AKTS), BNG6006 Biyomühendislikte Uygulamalı Proje Atölyesi (12 AKTS), NSC6201 Sinirbilim Güncel Konular I (12 AKTS).
+
+QUESTION: Which courses can be chosen as a bölüm seçmeli in the Bioengineering (Doctorate) program?
+ANSWER: Courses that can be chosen as a bölüm seçmeli in the Bioengineering (Doctorate) program include: BNG6003 Biyolojik Bilimlerde İstatistiksel Yöntemler (9 ECTS), BNG6004 Biyomühendislikte Güncel Konular I (12 ECTS), BNG6006 Biyomühendislikte Uygulamalı Proje Atölyesi (12 ECTS), NSC6201 Sinirbilim Güncel Konular I (12 ECTS).

@@ -1,0 +1,19 @@
+BAU Bilişim Hukuku (Tezsiz) (Information Technology Law (Non-thesis)) Ders Planı (Kaynak: akts.bau.edu.tr)
+
+SORU: Bilişim Hukuku (Tezsiz) 1. sınıfında (1. ve 2. yarıyıl) hangi dersler alınır?
+CEVAP: Bilişim Hukuku (Tezsiz) programının 1. sınıfında, 1. yarıyılda şu dersler alınır: ISL5215 Bilgi Güvenliği Yönetimi (8 AKTS), ISL5301 Araştırma Yöntemleri ve Etik (9 AKTS). 2. yarıyılda ise şu dersler alınır: KHK5253 Bilişim Teknolojileri ve Hukuk (8 AKTS).
+
+QUESTION: Which courses are taken in year 1 (semesters 1 and 2) of Information Technology Law (Non-thesis)?
+ANSWER: In year 1 of the Information Technology Law (Non-thesis) program, semester 1 courses are: ISL5215 Bilgi Güvenliği Yönetimi (8 ECTS), ISL5301 Araştırma Yöntemleri ve Etik (9 ECTS). Semester 2 courses are: KHK5253 Bilişim Teknolojileri ve Hukuk (8 ECTS).
+
+SORU: Bilişim Hukuku (Tezsiz) 2. sınıfında (3. ve 4. yarıyıl) hangi dersler alınır?
+CEVAP: Bilişim Hukuku (Tezsiz) programının 2. sınıfında, 3. yarıyılda şu dersler alınır: KHK5999 Proje (16 AKTS). 4. yarıyılda ise şu dersler alınır: bilgi bulunmuyor.
+
+QUESTION: Which courses are taken in year 2 (semesters 3 and 4) of Information Technology Law (Non-thesis)?
+ANSWER: In year 2 of the Information Technology Law (Non-thesis) program, semester 3 courses are: KHK5999 Proje (16 ECTS). Semester 4 courses are: no data available.
+
+SORU: Bilişim Hukuku (Tezsiz) programında bölüm seçmeli olarak hangi dersler seçilebilir?
+CEVAP: Bilişim Hukuku (Tezsiz) programında bölüm seçmeli kapsamında seçilebilecek dersler: BHK5101 İnternet Hukuku (8 AKTS), BHK5102 Bilgi ve İletişim Teknolojileri Temel Kavramları (8 AKTS), BHK5106 Bilişim Suçları (8 AKTS), BHK5112 Bilişim Hukuku ve Veri Etiği (8 AKTS), ISL5371 Veri Analizi ve Karar Alma (8 AKTS), KHK5254 Kişisel Verilerin Korunması (8 AKTS), OHK5120 İnşaat Sözleşmeleri (8 AKTS), OHK5126 Hukuk Uyuşmazlıklarında Arabuluculuk (8 AKTS), OHK5129 Yabancı Mahkeme Kararlarının Tanınması ve Tenfizi (8 AKTS), OHK5950 İş Hukuku (8 AKTS), THK5311 Birleşme, Devralma, Bölünmeler ve Şirketler Topluluğu (8 AKTS).
+
+QUESTION: Which courses can be chosen as a bölüm seçmeli in the Information Technology Law (Non-thesis) program?
+ANSWER: Courses that can be chosen as a bölüm seçmeli in the Information Technology Law (Non-thesis) program include: BHK5101 İnternet Hukuku (8 ECTS), BHK5102 Bilgi ve İletişim Teknolojileri Temel Kavramları (8 ECTS), BHK5106 Bilişim Suçları (8 ECTS), BHK5112 Bilişim Hukuku ve Veri Etiği (8 ECTS), ISL5371 Veri Analizi ve Karar Alma (8 ECTS), KHK5254 Kişisel Verilerin Korunması (8 ECTS), OHK5120 İnşaat Sözleşmeleri (8 ECTS), OHK5126 Hukuk Uyuşmazlıklarında Arabuluculuk (8 ECTS), OHK5129 Yabancı Mahkeme Kararlarının Tanınması ve Tenfizi (8 ECTS), OHK5950 İş Hukuku (8 ECTS), THK5311 Birleşme, Devralma, Bölünmeler ve Şirketler Topluluğu (8 ECTS).

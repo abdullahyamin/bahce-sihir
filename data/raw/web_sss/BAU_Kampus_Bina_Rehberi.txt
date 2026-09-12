@@ -1,0 +1,49 @@
+BAU Kampüs Bina Rehberi (Not: Bu bilgiler resmi olarak yayımlanmış bir üniversite belgesinden değil, öğrenci tarafından bildirilen kampüs bilgilerinden derlenmiştir.)
+
+SORU: D Blok asansöründe 0 numaralı kat neresidir?
+CEVAP: D Blok asansöründe 0 numaralı kat bodrum kattır ve laboratuvarları içerir.
+
+QUESTION: What is floor 0 in the D block elevator?
+ANSWER: Floor 0 in the D block elevator is the basement, and it contains the laboratories.
+
+SORU: D Blok'ta 1. kat (zemin kat) ne içerir?
+CEVAP: D Blok'ta 1. kat zemin kattır ve dekanlık çalışanlarını (dekanın işbirlikçilerini) içerir.
+
+QUESTION: What is on the 1st floor (ground floor) of D block?
+ANSWER: The 1st floor (ground floor) of D block is where the dean's collaborators/staff are located.
+
+SORU: D Blok 2. katta hangi derslikler ve ofisler bulunur?
+CEVAP: D Blok 2. katta D301'den D307'ye kadar derslikler bulunur; bu katta ayrıca öğretim üyesi ofisleri için bir alan vardır.
+
+QUESTION: Which classrooms and offices are on the 2nd floor of D block?
+ANSWER: The 2nd floor of D block has classrooms D301 through D307, and also has a section for professors' offices.
+
+SORU: D Blok 3. katta hangi derslikler ve ofisler bulunur?
+CEVAP: D Blok 3. katta D401'den D407'ye kadar derslikler bulunur ve öğretim üyesi ofisleri de bu kattadır.
+
+QUESTION: Which classrooms and offices are on the 3rd floor of D block?
+ANSWER: The 3rd floor of D block has classrooms D401 through D407, and professors' offices are also on this floor.
+
+SORU: D Blok'un son katı (4. kat) ne içerir?
+CEVAP: D Blok'un son katı 4. kattır ve D501'den D507'ye kadar derslikleri içerir. Bu katta dekanlık makamı (dekanın ofisi) ve tüm bölümlerin Bölüm Başkanı ofisleri bulunur. Ayrıca bu kattan, üzerinde bir kafeterya ve güzel bir manzara bulunan terasa çıkan bir merdiven vardır.
+
+QUESTION: What is on the top (4th) floor of D block?
+ANSWER: The top floor of D block is the 4th floor, containing classrooms D501 through D507. This floor has the dean's office and the Head of Department offices for every department. There is also a staircase from this floor up to a rooftop terrace with a cafeteria and a nice view.
+
+SORU: D Blok'ta her katta kaç tuvalet vardır?
+CEVAP: D Blok'ta her katta erkekler ve kadınlar için ayrı olmak üzere toplam 2 tuvalet bulunur.
+
+QUESTION: How many bathrooms are on each floor of D block?
+ANSWER: Each floor of D block has 2 bathrooms, one for males and one for females.
+
+SORU: B Blok'ta hangi idari birimler bulunur?
+CEVAP: B Blok'ta Öğrenci İşleri (Student Affairs), Uluslararası İlişkiler (International Affairs) ve Mali İşler (Financial Affairs) birimleri bulunur. Yeni/aday öğrenciler üniversiteye başvurularını bu blokta yaparlar. B Blok'ta ayrıca Boğaz manzaralı bir bahçe bulunmaktadır.
+
+QUESTION: Which administrative departments are in B block?
+ANSWER: B block houses Student Affairs, International Affairs, and Financial Affairs. It is where new/prospective students apply to the university. B block also has a garden overlooking the Bosphorus.
+
+SORU: Kampüste öğrenciler ve öğretim üyeleri için otopark var mı, nerede?
+CEVAP: Üniversite, öğrenciler ve öğretim üyeleri için yeni bir otopark alanı yapmıştır. Bu otopark C Blok'un bodrum katında yer almaktadır.
+
+QUESTION: Is there a parking area on campus for students and faculty, and where is it?
+ANSWER: The university has built a new parking area for students and faculty. This parking area is located in the basement of C block.

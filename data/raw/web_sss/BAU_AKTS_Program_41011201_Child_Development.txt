@@ -1,0 +1,19 @@
+BAU Çocuk Gelişimi (Child Development) Ders Planı (Kaynak: akts.bau.edu.tr)
+
+SORU: Çocuk Gelişimi 1. sınıfında (1. ve 2. yarıyıl) hangi dersler alınır?
+CEVAP: Çocuk Gelişimi programının 1. sınıfında, 1. yarıyılda şu dersler alınır: BPR1021 Bilgi ve İletişim Teknolojileri (3 AKTS), CGL1001 Çocuk Gelişimi I (9 AKTS), CGL1005 Okul Öncesi Eğitime Giriş (6 AKTS), CGL1013 Özel Eğitim I (5 AKTS), ENG1071 İngilizce I (3 AKTS), HST1071 Atatürk İlkeleri ve İnkılap Tarihi I (2 AKTS), TLL1071 Türk Dili ve Edebiyatı I (2 AKTS). 2. yarıyılda ise şu dersler alınır: CGL1002 Çocuk Gelişimi II (9 AKTS), CGL1014 Özel Eğitim II (7 AKTS), CGL1018 Çocukta Oyun ve Drama (7 AKTS), ENG1072 İngilizce II (2 AKTS), HST1072 Atatürk İlkeleri ve İnkılap Tarihi II (2 AKTS), LAW1154 Çocuk Hukuku ve Çocuk Psikolojisi (1 AKTS), TLL1072 Türk Dili ve Edebiyatı II (2 AKTS).
+
+QUESTION: Which courses are taken in year 1 (semesters 1 and 2) of Child Development?
+ANSWER: In year 1 of the Child Development program, semester 1 courses are: BPR1021 Bilgi ve İletişim Teknolojileri (3 ECTS), CGL1001 Çocuk Gelişimi I (9 ECTS), CGL1005 Okul Öncesi Eğitime Giriş (6 ECTS), CGL1013 Özel Eğitim I (5 ECTS), ENG1071 İngilizce I (3 ECTS), HST1071 Atatürk İlkeleri ve İnkılap Tarihi I (2 ECTS), TLL1071 Türk Dili ve Edebiyatı I (2 ECTS). Semester 2 courses are: CGL1002 Çocuk Gelişimi II (9 ECTS), CGL1014 Özel Eğitim II (7 ECTS), CGL1018 Çocukta Oyun ve Drama (7 ECTS), ENG1072 İngilizce II (2 ECTS), HST1072 Atatürk İlkeleri ve İnkılap Tarihi II (2 ECTS), LAW1154 Çocuk Hukuku ve Çocuk Psikolojisi (1 ECTS), TLL1072 Türk Dili ve Edebiyatı II (2 ECTS).
+
+SORU: Çocuk Gelişimi 2. sınıfında (3. ve 4. yarıyıl) hangi dersler alınır?
+CEVAP: Çocuk Gelişimi programının 2. sınıfında, 3. yarıyılda şu dersler alınır: CGL2003 Çocuk Psikolojisi ve Ruh Sağlığı (2 AKTS), CGL2011 Özel Eğitimde Uygulamalar I (4 AKTS), CGL2015 Okul Öncesi Eğitimde Program Geliştirme (2 AKTS), CGL2023 İşyeri Eğitimi (6 AKTS), TGT2006 İlk Yardım (3 AKTS). 4. yarıyılda ise şu dersler alınır: CGL2020 Özel Eğitimde Uygulamalar II (3 AKTS), CGL2022 Okul Öncesi Eğitim Kurumlarında Uygulama (2 AKTS), CGL2024 Özel Eğitimde Uygulamalar II (8 AKTS).
+
+QUESTION: Which courses are taken in year 2 (semesters 3 and 4) of Child Development?
+ANSWER: In year 2 of the Child Development program, semester 3 courses are: CGL2003 Çocuk Psikolojisi ve Ruh Sağlığı (2 ECTS), CGL2011 Özel Eğitimde Uygulamalar I (4 ECTS), CGL2015 Okul Öncesi Eğitimde Program Geliştirme (2 ECTS), CGL2023 İşyeri Eğitimi (6 ECTS), TGT2006 İlk Yardım (3 ECTS). Semester 4 courses are: CGL2020 Özel Eğitimde Uygulamalar II (3 ECTS), CGL2022 Okul Öncesi Eğitim Kurumlarında Uygulama (2 ECTS), CGL2024 Özel Eğitimde Uygulamalar II (8 ECTS).
+
+SORU: Çocuk Gelişimi programında bölüm seçmeli olarak hangi dersler seçilebilir?
+CEVAP: Çocuk Gelişimi programında bölüm seçmeli kapsamında seçilebilecek dersler: CGL2001 Eğitimde Materyal Geliştirme (3 AKTS), CGL2007 Çocukla İletişim (3 AKTS), CGL2009 Çocuk Beslenmesi (3 AKTS), CGL2017 Çocuk ve Medya (3 AKTS), CGL2018 Çocuk ve Resim (2 AKTS), CGL2019 Çocuk Edebiyatı (3 AKTS).
+
+QUESTION: Which courses can be chosen as a bölüm seçmeli in the Child Development program?
+ANSWER: Courses that can be chosen as a bölüm seçmeli in the Child Development program include: CGL2001 Eğitimde Materyal Geliştirme (3 ECTS), CGL2007 Çocukla İletişim (3 ECTS), CGL2009 Çocuk Beslenmesi (3 ECTS), CGL2017 Çocuk ve Medya (3 ECTS), CGL2018 Çocuk ve Resim (2 ECTS), CGL2019 Çocuk Edebiyatı (3 ECTS).

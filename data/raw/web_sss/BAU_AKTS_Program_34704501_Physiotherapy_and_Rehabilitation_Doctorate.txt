@@ -1,0 +1,19 @@
+BAU Fizyoterapi ve Rehabilitasyon (Doktora) (Physiotherapy and Rehabilitation (Doctorate)) Ders Planı (Kaynak: akts.bau.edu.tr)
+
+SORU: Fizyoterapi ve Rehabilitasyon (Doktora) 1. sınıfında (1. ve 2. yarıyıl) hangi dersler alınır?
+CEVAP: Fizyoterapi ve Rehabilitasyon (Doktora) programının 1. sınıfında, 1. yarıyılda şu dersler alınır: ARS6001 İleri Araştırma Yöntemleri (12 AKTS), FTR6001 Fizyoterapi ve Rehabilitasyonda Kanıta Dayalı Değerlendirme Yöntemleri (9 AKTS). 2. yarıyılda ise şu dersler alınır: FTR6002 Ortopedik Rehabilitasyonda Özel Konular (9 AKTS).
+
+QUESTION: Which courses are taken in year 1 (semesters 1 and 2) of Physiotherapy and Rehabilitation (Doctorate)?
+ANSWER: In year 1 of the Physiotherapy and Rehabilitation (Doctorate) program, semester 1 courses are: ARS6001 İleri Araştırma Yöntemleri (12 ECTS), FTR6001 Fizyoterapi ve Rehabilitasyonda Kanıta Dayalı Değerlendirme Yöntemleri (9 ECTS). Semester 2 courses are: FTR6002 Ortopedik Rehabilitasyonda Özel Konular (9 ECTS).
+
+SORU: Fizyoterapi ve Rehabilitasyon (Doktora) 2. sınıfında (3. ve 4. yarıyıl) hangi dersler alınır?
+CEVAP: Fizyoterapi ve Rehabilitasyon (Doktora) programının 2. sınıfında, 3. yarıyılda şu dersler alınır: SEM6887 Seminer (6 AKTS). 4. yarıyılda ise şu dersler alınır: YET6999 Doktora Yeterlilik (30 AKTS).
+
+QUESTION: Which courses are taken in year 2 (semesters 3 and 4) of Physiotherapy and Rehabilitation (Doctorate)?
+ANSWER: In year 2 of the Physiotherapy and Rehabilitation (Doctorate) program, semester 3 courses are: SEM6887 Seminer (6 ECTS). Semester 4 courses are: YET6999 Doktora Yeterlilik (30 ECTS).
+
+SORU: Fizyoterapi ve Rehabilitasyon (Doktora) programında bölüm seçmeli olarak hangi dersler seçilebilir?
+CEVAP: Fizyoterapi ve Rehabilitasyon (Doktora) programında bölüm seçmeli kapsamında seçilebilecek dersler: FTR6005 Romatolojide Fizyoterapi ve Rehabilitasyon Yöntemleri (9 AKTS), FTR6011 Sporcu Rehabilitasyonu (9 AKTS), FTR6015 Pulmoner Rehabilitasyonda Güncel Yaklaşımlar (9 AKTS), FTR6016 İleri Nöroanatomi ve Nörofizyoloji (9 AKTS), FTR6017 Nöroplastisite ve Bilişsel Rehabilitasyon (9 AKTS), FTR6023 Ortez-Protez Rehabilitasyonunda Güncel Yaklaşımlar (9 AKTS), FTR6024 Muskuloskeletal Fizyoterapi ve Rehabilitasyon (9 AKTS), FTR6025 Obezite ve Fiziksel Aktivite, Koruyucu Yaklaşımlar (9 AKTS), FTR6026 Fizyoterapide İntegratif Yaklaşımlar (9 AKTS).
+
+QUESTION: Which courses can be chosen as a bölüm seçmeli in the Physiotherapy and Rehabilitation (Doctorate) program?
+ANSWER: Courses that can be chosen as a bölüm seçmeli in the Physiotherapy and Rehabilitation (Doctorate) program include: FTR6005 Romatolojide Fizyoterapi ve Rehabilitasyon Yöntemleri (9 ECTS), FTR6011 Sporcu Rehabilitasyonu (9 ECTS), FTR6015 Pulmoner Rehabilitasyonda Güncel Yaklaşımlar (9 ECTS), FTR6016 İleri Nöroanatomi ve Nörofizyoloji (9 ECTS), FTR6017 Nöroplastisite ve Bilişsel Rehabilitasyon (9 ECTS), FTR6023 Ortez-Protez Rehabilitasyonunda Güncel Yaklaşımlar (9 ECTS), FTR6024 Muskuloskeletal Fizyoterapi ve Rehabilitasyon (9 ECTS), FTR6025 Obezite ve Fiziksel Aktivite, Koruyucu Yaklaşımlar (9 ECTS), FTR6026 Fizyoterapide İntegratif Yaklaşımlar (9 ECTS).

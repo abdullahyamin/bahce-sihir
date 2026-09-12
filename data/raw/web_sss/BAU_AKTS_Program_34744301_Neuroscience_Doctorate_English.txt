@@ -1,0 +1,19 @@
+BAU Sinirbilim (Doktora, İngilizce) (Neuroscience (Doctorate, English)) Ders Planı (Kaynak: akts.bau.edu.tr)
+
+SORU: Sinirbilim (Doktora, İngilizce) 1. sınıfında (1. ve 2. yarıyıl) hangi dersler alınır?
+CEVAP: Sinirbilim (Doktora, İngilizce) programının 1. sınıfında, 1. yarıyılda şu dersler alınır: NSC6001 Hücresel ve Moleküler Sinirbilim (9 AKTS), RCH6001 İleri Araştırma Yöntemleri (9 AKTS). 2. yarıyılda ise şu dersler alınır: NSC6005 Nöroanatomi (9 AKTS).
+
+QUESTION: Which courses are taken in year 1 (semesters 1 and 2) of Neuroscience (Doctorate, English)?
+ANSWER: In year 1 of the Neuroscience (Doctorate, English) program, semester 1 courses are: NSC6001 Hücresel ve Moleküler Sinirbilim (9 ECTS), RCH6001 İleri Araştırma Yöntemleri (9 ECTS). Semester 2 courses are: NSC6005 Nöroanatomi (9 ECTS).
+
+SORU: Sinirbilim (Doktora, İngilizce) 2. sınıfında (3. ve 4. yarıyıl) hangi dersler alınır?
+CEVAP: Sinirbilim (Doktora, İngilizce) programının 2. sınıfında, 3. yarıyılda şu dersler alınır: SMR6887 Seminer (6 AKTS). 4. yarıyılda ise şu dersler alınır: QUA6999 Doktora Yeterlilik (30 AKTS).
+
+QUESTION: Which courses are taken in year 2 (semesters 3 and 4) of Neuroscience (Doctorate, English)?
+ANSWER: In year 2 of the Neuroscience (Doctorate, English) program, semester 3 courses are: SMR6887 Seminer (6 ECTS). Semester 4 courses are: QUA6999 Doktora Yeterlilik (30 ECTS).
+
+SORU: Sinirbilim (Doktora, İngilizce) programında bölüm seçmeli olarak hangi dersler seçilebilir?
+CEVAP: Sinirbilim (Doktora, İngilizce) programında bölüm seçmeli kapsamında seçilebilecek dersler: NSC6003 Davranışsal ve Bilişsel Nörobilim (7 AKTS), NSC6004 Sinirbilimde Araştırma Yöntemleri (8 AKTS), NSC6010 Edebiyat Araştırması ve Laboratuar Rotasyonu II (16 AKTS), NSC6011 Nörodejenerasyon (12 AKTS), NSC6012 Nöropatoloji (12 AKTS), NSC6015 Nörofarmakoloji (12 AKTS), NSC6102 Bilişsel Nörobilim Araştırması (12 AKTS), NSC6105 Hesaplamalı Sinirbilim (12 AKTS), NSC6201 Sinirbilim Güncel Konular I (12 AKTS), NSC6305 Nöroonkoloji (12 AKTS), NSC6306 Gelişmiş Nöroonkoloji (7 AKTS).
+
+QUESTION: Which courses can be chosen as a bölüm seçmeli in the Neuroscience (Doctorate, English) program?
+ANSWER: Courses that can be chosen as a bölüm seçmeli in the Neuroscience (Doctorate, English) program include: NSC6003 Davranışsal ve Bilişsel Nörobilim (7 ECTS), NSC6004 Sinirbilimde Araştırma Yöntemleri (8 ECTS), NSC6010 Edebiyat Araştırması ve Laboratuar Rotasyonu II (16 ECTS), NSC6011 Nörodejenerasyon (12 ECTS), NSC6012 Nöropatoloji (12 ECTS), NSC6015 Nörofarmakoloji (12 ECTS), NSC6102 Bilişsel Nörobilim Araştırması (12 ECTS), NSC6105 Hesaplamalı Sinirbilim (12 ECTS), NSC6201 Sinirbilim Güncel Konular I (12 ECTS), NSC6305 Nöroonkoloji (12 ECTS), NSC6306 Gelişmiş Nöroonkoloji (7 ECTS).

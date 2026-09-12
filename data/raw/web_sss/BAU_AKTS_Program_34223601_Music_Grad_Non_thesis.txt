@@ -1,0 +1,19 @@
+BAU Müzik (Tezsiz, Grad) (Music (Grad, Non-thesis)) Ders Planı (Kaynak: akts.bau.edu.tr)
+
+SORU: Müzik (Tezsiz, Grad) 1. sınıfında (1. ve 2. yarıyıl) hangi dersler alınır?
+CEVAP: Müzik (Tezsiz, Grad) programının 1. sınıfında, 1. yarıyılda şu dersler alınır: ISL5301 Araştırma Yöntemleri ve Etik (9 AKTS), MSC5013 Müzik Teorisi I (8 AKTS). 2. yarıyılda ise şu dersler alınır: MSC5014 Müzik Teorisi II (8 AKTS).
+
+QUESTION: Which courses are taken in year 1 (semesters 1 and 2) of Music (Grad, Non-thesis)?
+ANSWER: In year 1 of the Music (Grad, Non-thesis) program, semester 1 courses are: ISL5301 Araştırma Yöntemleri ve Etik (9 ECTS), MSC5013 Müzik Teorisi I (8 ECTS). Semester 2 courses are: MSC5014 Müzik Teorisi II (8 ECTS).
+
+SORU: Müzik (Tezsiz, Grad) 2. sınıfında (3. ve 4. yarıyıl) hangi dersler alınır?
+CEVAP: Müzik (Tezsiz, Grad) programının 2. sınıfında, 3. yarıyılda şu dersler alınır: MSC5999 Proje (16 AKTS). 4. yarıyılda ise şu dersler alınır: bilgi bulunmuyor.
+
+QUESTION: Which courses are taken in year 2 (semesters 3 and 4) of Music (Grad, Non-thesis)?
+ANSWER: In year 2 of the Music (Grad, Non-thesis) program, semester 3 courses are: MSC5999 Proje (16 ECTS). Semester 4 courses are: no data available.
+
+SORU: Müzik (Tezsiz, Grad) programında bölüm seçmeli olarak hangi dersler seçilebilir?
+CEVAP: Müzik (Tezsiz, Grad) programında bölüm seçmeli kapsamında seçilebilecek dersler: MSC5001 Tarihsel Müzikolojiye Giriş I (8 AKTS), MSC5002 Tarihsel Müzikolojiye Giriş II (8 AKTS), MSC5003 20 YY. Müziği (8 AKTS), MSC5006 İleri Piyano Edebiyatı (8 AKTS), MSC5007 Resital I (8 AKTS), MSC5010 Geleneksel Türk Müziği Teori ve Uygulamaları I (8 AKTS), MSC5011 Geleneksel Türk Müziği Teori ve Uygulamaları II (8 AKTS), MSC5012 Etnomüzikoloji Kuramları (8 AKTS), MSC5015 Oda Müziği Repertuarı I (8 AKTS), MSC5016 Resital II (8 AKTS), MSC5017 Resital 3 (8 AKTS), MSC5018 Estetik Teorisi ve Sanat Eleştirisi (8 AKTS), MSC5019 Oda Müziği Repertuarı II (8 AKTS).
+
+QUESTION: Which courses can be chosen as a bölüm seçmeli in the Music (Grad, Non-thesis) program?
+ANSWER: Courses that can be chosen as a bölüm seçmeli in the Music (Grad, Non-thesis) program include: MSC5001 Tarihsel Müzikolojiye Giriş I (8 ECTS), MSC5002 Tarihsel Müzikolojiye Giriş II (8 ECTS), MSC5003 20 YY. Müziği (8 ECTS), MSC5006 İleri Piyano Edebiyatı (8 ECTS), MSC5007 Resital I (8 ECTS), MSC5010 Geleneksel Türk Müziği Teori ve Uygulamaları I (8 ECTS), MSC5011 Geleneksel Türk Müziği Teori ve Uygulamaları II (8 ECTS), MSC5012 Etnomüzikoloji Kuramları (8 ECTS), MSC5015 Oda Müziği Repertuarı I (8 ECTS), MSC5016 Resital II (8 ECTS), MSC5017 Resital 3 (8 ECTS), MSC5018 Estetik Teorisi ve Sanat Eleştirisi (8 ECTS), MSC5019 Oda Müziği Repertuarı II (8 ECTS).

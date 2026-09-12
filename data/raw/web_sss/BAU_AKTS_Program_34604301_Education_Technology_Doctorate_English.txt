@@ -1,0 +1,19 @@
+BAU Eğitim Teknolojisi (Doktora, İngilizce) (Education Technology (Doctorate, English)) Ders Planı (Kaynak: akts.bau.edu.tr)
+
+SORU: Eğitim Teknolojisi (Doktora, İngilizce) 1. sınıfında (1. ve 2. yarıyıl) hangi dersler alınır?
+CEVAP: Eğitim Teknolojisi (Doktora, İngilizce) programının 1. sınıfında, 1. yarıyılda şu dersler alınır: EDT6110 Teknolojiyle Desteklenmiş Öğrenme (9 AKTS), RCH6001 İleri Araştırma Yöntemleri (9 AKTS). 2. yarıyılda ise şu dersler alınır: EDT6103 EğitimTeknolojisinde Okumalar (9 AKTS).
+
+QUESTION: Which courses are taken in year 1 (semesters 1 and 2) of Education Technology (Doctorate, English)?
+ANSWER: In year 1 of the Education Technology (Doctorate, English) program, semester 1 courses are: EDT6110 Teknolojiyle Desteklenmiş Öğrenme (9 ECTS), RCH6001 İleri Araştırma Yöntemleri (9 ECTS). Semester 2 courses are: EDT6103 EğitimTeknolojisinde Okumalar (9 ECTS).
+
+SORU: Eğitim Teknolojisi (Doktora, İngilizce) 2. sınıfında (3. ve 4. yarıyıl) hangi dersler alınır?
+CEVAP: Eğitim Teknolojisi (Doktora, İngilizce) programının 2. sınıfında, 3. yarıyılda şu dersler alınır: SMR6887 Seminer (6 AKTS). 4. yarıyılda ise şu dersler alınır: QUA6999 Doktora Yeterlilik (30 AKTS).
+
+QUESTION: Which courses are taken in year 2 (semesters 3 and 4) of Education Technology (Doctorate, English)?
+ANSWER: In year 2 of the Education Technology (Doctorate, English) program, semester 3 courses are: SMR6887 Seminer (6 ECTS). Semester 4 courses are: QUA6999 Doktora Yeterlilik (30 ECTS).
+
+SORU: Eğitim Teknolojisi (Doktora, İngilizce) programında bölüm seçmeli olarak hangi dersler seçilebilir?
+CEVAP: Eğitim Teknolojisi (Doktora, İngilizce) programında bölüm seçmeli kapsamında seçilebilecek dersler: EDT6101 Eğitim Araştırmalarında Nicel Yöntemler (9 AKTS), EDT6102 Eğitim Araştırmalarında Nitel Yöntemler (9 AKTS), EDT6104 Entegre Ortam Tasarımı (12 AKTS), EDT6105 Eğitim Sistemi Tasarımı (12 AKTS), EDT6106 Web Temelli Materyal Geliştirme (12 AKTS), EDT6107 Dijital Eğitsel Oyunlar: Teoriler, Tasarım, Araştırma ve Uygulama (12 AKTS), EDT6108 Uzaktan Eğitim: Kuramlar, Araştırma ve Uygulama (12 AKTS), EDT6113 Çevrimiçi Özgün Ölçme (12 AKTS), EDT6114 Eğitsel Teknolojide Gelişen Konular (12 AKTS), EDT6115 Teknoloji Liderliği ve Planlanması (12 AKTS), EDT6116 Biliş, Öğrenme ve Teknoloji (12 AKTS), EDT6117 Eğitim Projeleri Geliştirilmesi ve Yönetimi (12 AKTS), EDT6118 Bilim, Teknoloji ve Toplum (12 AKTS).
+
+QUESTION: Which courses can be chosen as a bölüm seçmeli in the Education Technology (Doctorate, English) program?
+ANSWER: Courses that can be chosen as a bölüm seçmeli in the Education Technology (Doctorate, English) program include: EDT6101 Eğitim Araştırmalarında Nicel Yöntemler (9 ECTS), EDT6102 Eğitim Araştırmalarında Nitel Yöntemler (9 ECTS), EDT6104 Entegre Ortam Tasarımı (12 ECTS), EDT6105 Eğitim Sistemi Tasarımı (12 ECTS), EDT6106 Web Temelli Materyal Geliştirme (12 ECTS), EDT6107 Dijital Eğitsel Oyunlar: Teoriler, Tasarım, Araştırma ve Uygulama (12 ECTS), EDT6108 Uzaktan Eğitim: Kuramlar, Araştırma ve Uygulama (12 ECTS), EDT6113 Çevrimiçi Özgün Ölçme (12 ECTS), EDT6114 Eğitsel Teknolojide Gelişen Konular (12 ECTS), EDT6115 Teknoloji Liderliği ve Planlanması (12 ECTS), EDT6116 Biliş, Öğrenme ve Teknoloji (12 ECTS), EDT6117 Eğitim Projeleri Geliştirilmesi ve Yönetimi (12 ECTS), EDT6118 Bilim, Teknoloji ve Toplum (12 ECTS).

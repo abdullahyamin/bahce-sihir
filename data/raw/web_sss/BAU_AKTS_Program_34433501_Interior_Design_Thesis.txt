@@ -1,0 +1,13 @@
+BAU İç Mekan Tasarımı (Tezli) (Interior Design (Thesis)) Ders Planı (Kaynak: akts.bau.edu.tr)
+
+SORU: İç Mekan Tasarımı (Tezli) 1. sınıfında (1. ve 2. yarıyıl) hangi dersler alınır?
+CEVAP: İç Mekan Tasarımı (Tezli) programının 1. sınıfında, 1. yarıyılda şu dersler alınır: IMT5401 İç Mekan Tasarımı I (8 AKTS), ISL5301 Araştırma Yöntemleri ve Etik (9 AKTS). 2. yarıyılda ise şu dersler alınır: IMT5410 Çağdaş Tasarım Yaklaşımları (8 AKTS).
+
+QUESTION: Which courses are taken in year 1 (semesters 1 and 2) of Interior Design (Thesis)?
+ANSWER: In year 1 of the Interior Design (Thesis) program, semester 1 courses are: IMT5401 İç Mekan Tasarımı I (8 ECTS), ISL5301 Araştırma Yöntemleri ve Etik (9 ECTS). Semester 2 courses are: IMT5410 Çağdaş Tasarım Yaklaşımları (8 ECTS).
+
+SORU: İç Mekan Tasarımı (Tezli) programında bölüm seçmeli olarak hangi dersler seçilebilir?
+CEVAP: İç Mekan Tasarımı (Tezli) programında bölüm seçmeli kapsamında seçilebilecek dersler: ETI5312 Tasarım Düşüncesi ve Yaratıcılık (8 AKTS), IMT5402 Sürdürülebilir İç Mekan Tasarımı (8 AKTS), IMT5412 Ayndınlatma ve Renk Uygulamaları (12 AKTS), IMT5420 İç Mekan Tasarım Tarihinde Seçilmiş Dönemler (12 AKTS), IMT5422 Konut Tasarımı (12 AKTS), IMT5424 İç Mekan Tasarımında Kullanıcı Katılımı: Mekanların Kişiselleştirilmesi (12 AKTS), IMT5426 Tarihi Mekanların Yeniden İşlevlendirilmesi (12 AKTS), IMT5503 Bilgisayar Destekli Tasarım Kuramı (12 AKTS), MIM5227 Mimarlık Tarihinde Seçilmiş Dönemler Üzerine Araştırmalar (8 AKTS), MIM5233 Kent ve Mimarlık (12 AKTS).
+
+QUESTION: Which courses can be chosen as a bölüm seçmeli in the Interior Design (Thesis) program?
+ANSWER: Courses that can be chosen as a bölüm seçmeli in the Interior Design (Thesis) program include: ETI5312 Tasarım Düşüncesi ve Yaratıcılık (8 ECTS), IMT5402 Sürdürülebilir İç Mekan Tasarımı (8 ECTS), IMT5412 Ayndınlatma ve Renk Uygulamaları (12 ECTS), IMT5420 İç Mekan Tasarım Tarihinde Seçilmiş Dönemler (12 ECTS), IMT5422 Konut Tasarımı (12 ECTS), IMT5424 İç Mekan Tasarımında Kullanıcı Katılımı: Mekanların Kişiselleştirilmesi (12 ECTS), IMT5426 Tarihi Mekanların Yeniden İşlevlendirilmesi (12 ECTS), IMT5503 Bilgisayar Destekli Tasarım Kuramı (12 ECTS), MIM5227 Mimarlık Tarihinde Seçilmiş Dönemler Üzerine Araştırmalar (8 ECTS), MIM5233 Kent ve Mimarlık (12 ECTS).

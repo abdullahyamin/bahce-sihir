@@ -1,0 +1,19 @@
+BAU Klinik Psikoloji (Tezli, Türkçe) (Clinical Psychology (Thesis, Turkish)) Ders Planı (Kaynak: akts.bau.edu.tr)
+
+SORU: Klinik Psikoloji (Tezli, Türkçe) 1. sınıfında (1. ve 2. yarıyıl) hangi dersler alınır?
+CEVAP: Klinik Psikoloji (Tezli, Türkçe) programının 1. sınıfında, 1. yarıyılda şu dersler alınır: ISL5301 Araştırma Yöntemleri ve Etik (9 AKTS), PSY5125 İleri Düzey Psikopatoloji (8 AKTS). 2. yarıyılda ise şu dersler alınır: PSY5126 Klinik Görüşme (8 AKTS).
+
+QUESTION: Which courses are taken in year 1 (semesters 1 and 2) of Clinical Psychology (Thesis, Turkish)?
+ANSWER: In year 1 of the Clinical Psychology (Thesis, Turkish) program, semester 1 courses are: ISL5301 Araştırma Yöntemleri ve Etik (9 ECTS), PSY5125 İleri Düzey Psikopatoloji (8 ECTS). Semester 2 courses are: PSY5126 Klinik Görüşme (8 ECTS).
+
+SORU: Klinik Psikoloji (Tezli, Türkçe) 2. sınıfında (3. ve 4. yarıyıl) hangi dersler alınır?
+CEVAP: Klinik Psikoloji (Tezli, Türkçe) programının 2. sınıfında, 3. yarıyılda şu dersler alınır: PSY5201 Klinik Denetleme I (3 AKTS), PSY5203 Saha Çalışması-I (15 AKTS), PSY5887 Seminer (2 AKTS). 4. yarıyılda ise şu dersler alınır: PSY5202 Klinik Denetleme II (4 AKTS), PSY5204 Saha Çalışması-II (16 AKTS).
+
+QUESTION: Which courses are taken in year 2 (semesters 3 and 4) of Clinical Psychology (Thesis, Turkish)?
+ANSWER: In year 2 of the Clinical Psychology (Thesis, Turkish) program, semester 3 courses are: PSY5201 Klinik Denetleme I (3 ECTS), PSY5203 Saha Çalışması-I (15 ECTS), PSY5887 Seminer (2 ECTS). Semester 4 courses are: PSY5202 Klinik Denetleme II (4 ECTS), PSY5204 Saha Çalışması-II (16 ECTS).
+
+SORU: Klinik Psikoloji (Tezli, Türkçe) programında bölüm seçmeli olarak hangi dersler seçilebilir?
+CEVAP: Klinik Psikoloji (Tezli, Türkçe) programında bölüm seçmeli kapsamında seçilebilecek dersler: PSY5112 Klinik Psikolojide Etik (8 AKTS), PSY5124 Araştırma ve Yöntemleri ve İstatistik II (8 AKTS), PSY5129 Bilişsel Davranışçı Psikoterapi Kuramları (8 AKTS), PSY5130 Bilişsel Davranışçı Terapisi (8 AKTS), PSY5131 Psikodinamik Psikoterapi Kuramları (8 AKTS), PSY5132 Psikodinamik Psikoterapi (8 AKTS).
+
+QUESTION: Which courses can be chosen as a bölüm seçmeli in the Clinical Psychology (Thesis, Turkish) program?
+ANSWER: Courses that can be chosen as a bölüm seçmeli in the Clinical Psychology (Thesis, Turkish) program include: PSY5112 Klinik Psikolojide Etik (8 ECTS), PSY5124 Araştırma ve Yöntemleri ve İstatistik II (8 ECTS), PSY5129 Bilişsel Davranışçı Psikoterapi Kuramları (8 ECTS), PSY5130 Bilişsel Davranışçı Terapisi (8 ECTS), PSY5131 Psikodinamik Psikoterapi Kuramları (8 ECTS), PSY5132 Psikodinamik Psikoterapi (8 ECTS).

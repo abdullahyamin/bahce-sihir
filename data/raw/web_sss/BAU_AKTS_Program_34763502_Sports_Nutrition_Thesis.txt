@@ -1,0 +1,19 @@
+BAU Sporcu Beslenmesi (Tezli) (Sports Nutrition (Thesis)) Ders Planı (Kaynak: akts.bau.edu.tr)
+
+SORU: Sporcu Beslenmesi (Tezli) 1. sınıfında (1. ve 2. yarıyıl) hangi dersler alınır?
+CEVAP: Sporcu Beslenmesi (Tezli) programının 1. sınıfında, 1. yarıyılda şu dersler alınır: ISL5301 Araştırma Yöntemleri ve Etik (9 AKTS), SPB5011 Sporcularda İleri Beslenme 1 (7 AKTS). 2. yarıyılda ise şu dersler alınır: SPB5012 Sporcularda İleri Beslenme 2 (8 AKTS).
+
+QUESTION: Which courses are taken in year 1 (semesters 1 and 2) of Sports Nutrition (Thesis)?
+ANSWER: In year 1 of the Sports Nutrition (Thesis) program, semester 1 courses are: ISL5301 Araştırma Yöntemleri ve Etik (9 ECTS), SPB5011 Sporcularda İleri Beslenme 1 (7 ECTS). Semester 2 courses are: SPB5012 Sporcularda İleri Beslenme 2 (8 ECTS).
+
+SORU: Sporcu Beslenmesi (Tezli) 2. sınıfında (3. ve 4. yarıyıl) hangi dersler alınır?
+CEVAP: Sporcu Beslenmesi (Tezli) programının 2. sınıfında, 3. yarıyılda şu dersler alınır: SPB5887 Seminer (10 AKTS). 4. yarıyılda ise şu dersler alınır: bilgi bulunmuyor.
+
+QUESTION: Which courses are taken in year 2 (semesters 3 and 4) of Sports Nutrition (Thesis)?
+ANSWER: In year 2 of the Sports Nutrition (Thesis) program, semester 3 courses are: SPB5887 Seminer (10 ECTS). Semester 4 courses are: no data available.
+
+SORU: Sporcu Beslenmesi (Tezli) programında bölüm seçmeli olarak hangi dersler seçilebilir?
+CEVAP: Sporcu Beslenmesi (Tezli) programında bölüm seçmeli kapsamında seçilebilecek dersler: BES5015 Sporcu Beslenmesinde Özel Konular (8 AKTS), BES5016 Beslenme Antropometrisi (8 AKTS), BES5024 Besin Destekleri ve Sağlık İlişkisi (8 AKTS), BES5030 Beslenme Davranışları ve Danışmanlık Becerileri (8 AKTS), SPB5001 Sporcularda Mikrobiyota (8 AKTS), SPB5002 Egzersiz Fizyolojisi (8 AKTS), SPB5003 Performans Değerlendirme Yöntemleri (8 AKTS), SPB5004 Sporcu Beslenmesinde Makro Besin Öğeleri (8 AKTS), SPB5005 Sporcu Beslenmesinde Mikro Besin Öğeleri (8 AKTS), SPB5006 Sporcu Sağlığı ve Diyet Uygulamaları (8 AKTS), SPB5007 Özel Sporcu Gruplarında Beslenme (8 AKTS), SPB5008 Sporculara Özel Beslenme Eğitimi ve Danışmanlığı Uygulamaları (8 AKTS), SPB5009 Farklı Sporlara Özel Beslenme Stratejileri (8 AKTS).
+
+QUESTION: Which courses can be chosen as a bölüm seçmeli in the Sports Nutrition (Thesis) program?
+ANSWER: Courses that can be chosen as a bölüm seçmeli in the Sports Nutrition (Thesis) program include: BES5015 Sporcu Beslenmesinde Özel Konular (8 ECTS), BES5016 Beslenme Antropometrisi (8 ECTS), BES5024 Besin Destekleri ve Sağlık İlişkisi (8 ECTS), BES5030 Beslenme Davranışları ve Danışmanlık Becerileri (8 ECTS), SPB5001 Sporcularda Mikrobiyota (8 ECTS), SPB5002 Egzersiz Fizyolojisi (8 ECTS), SPB5003 Performans Değerlendirme Yöntemleri (8 ECTS), SPB5004 Sporcu Beslenmesinde Makro Besin Öğeleri (8 ECTS), SPB5005 Sporcu Beslenmesinde Mikro Besin Öğeleri (8 ECTS), SPB5006 Sporcu Sağlığı ve Diyet Uygulamaları (8 ECTS), SPB5007 Özel Sporcu Gruplarında Beslenme (8 ECTS), SPB5008 Sporculara Özel Beslenme Eğitimi ve Danışmanlığı Uygulamaları (8 ECTS), SPB5009 Farklı Sporlara Özel Beslenme Stratejileri (8 ECTS).

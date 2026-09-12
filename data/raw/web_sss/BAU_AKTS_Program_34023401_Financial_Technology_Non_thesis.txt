@@ -1,0 +1,19 @@
+BAU Finansal Teknoloji (Tezsiz) (Financial Technology (Non-thesis)) Ders Planı (Kaynak: akts.bau.edu.tr)
+
+SORU: Finansal Teknoloji (Tezsiz) 1. sınıfında (1. ve 2. yarıyıl) hangi dersler alınır?
+CEVAP: Finansal Teknoloji (Tezsiz) programının 1. sınıfında, 1. yarıyılda şu dersler alınır: BUS5301 Araştırma Yöntemleri ve Etik (9 AKTS), FIN5228 Finansal Yönetim (8 AKTS). 2. yarıyılda ise şu dersler alınır: FIN5237 FinTech 1.0 (8 AKTS).
+
+QUESTION: Which courses are taken in year 1 (semesters 1 and 2) of Financial Technology (Non-thesis)?
+ANSWER: In year 1 of the Financial Technology (Non-thesis) program, semester 1 courses are: BUS5301 Araştırma Yöntemleri ve Etik (9 ECTS), FIN5228 Finansal Yönetim (8 ECTS). Semester 2 courses are: FIN5237 FinTech 1.0 (8 ECTS).
+
+SORU: Finansal Teknoloji (Tezsiz) 2. sınıfında (3. ve 4. yarıyıl) hangi dersler alınır?
+CEVAP: Finansal Teknoloji (Tezsiz) programının 2. sınıfında, 3. yarıyılda şu dersler alınır: ECO5999 Proje (16 AKTS). 4. yarıyılda ise şu dersler alınır: bilgi bulunmuyor.
+
+QUESTION: Which courses are taken in year 2 (semesters 3 and 4) of Financial Technology (Non-thesis)?
+ANSWER: In year 2 of the Financial Technology (Non-thesis) program, semester 3 courses are: ECO5999 Proje (16 ECTS). Semester 4 courses are: no data available.
+
+SORU: Finansal Teknoloji (Tezsiz) programında bölüm seçmeli olarak hangi dersler seçilebilir?
+CEVAP: Finansal Teknoloji (Tezsiz) programında bölüm seçmeli kapsamında seçilebilecek dersler: ECO5001 Yönetim Ekonomisi (8 AKTS), ECO5103 Para ve Bankacılık (7 AKTS), ECO5150 Küresel Finans Piyasaları ve Türk Kurumları (8 AKTS), FIN5221 Kurumsal Finansman (8 AKTS), FIN5222 Uluslararası Finans ve Döviz Piyasaları (8 AKTS), FIN5228 Finansal Yönetim (8 AKTS), FIN5229 Portföy Yönetimi (9 AKTS), FIN5231 Türevler (7 AKTS), FIN5232 Teknik Analiz (8 AKTS), FIN5241 Finansal Teknolojiler Analitiği: Veri Temelli Kredi Modellemesi 3 0 3 8 FIN5243 Blockchain ve Kriptoekonomi (8 AKTS), FIN5477 Bankacılıkta Risk Değerlendirmesi (8 AKTS), GLA5501 Uluslararası Ekonomi (8 AKTS).
+
+QUESTION: Which courses can be chosen as a bölüm seçmeli in the Financial Technology (Non-thesis) program?
+ANSWER: Courses that can be chosen as a bölüm seçmeli in the Financial Technology (Non-thesis) program include: ECO5001 Yönetim Ekonomisi (8 ECTS), ECO5103 Para ve Bankacılık (7 ECTS), ECO5150 Küresel Finans Piyasaları ve Türk Kurumları (8 ECTS), FIN5221 Kurumsal Finansman (8 ECTS), FIN5222 Uluslararası Finans ve Döviz Piyasaları (8 ECTS), FIN5228 Finansal Yönetim (8 ECTS), FIN5229 Portföy Yönetimi (9 ECTS), FIN5231 Türevler (7 ECTS), FIN5232 Teknik Analiz (8 ECTS), FIN5241 Finansal Teknolojiler Analitiği: Veri Temelli Kredi Modellemesi 3 0 3 8 FIN5243 Blockchain ve Kriptoekonomi (8 ECTS), FIN5477 Bankacılıkta Risk Değerlendirmesi (8 ECTS), GLA5501 Uluslararası Ekonomi (8 ECTS).

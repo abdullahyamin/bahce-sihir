@@ -1,0 +1,19 @@
+BAU Klinik Psikoloji (Tezli, İngilizce) (Clinical Psychology (Thesis, English)) Ders Planı (Kaynak: akts.bau.edu.tr)
+
+SORU: Klinik Psikoloji (Tezli, İngilizce) 1. sınıfında (1. ve 2. yarıyıl) hangi dersler alınır?
+CEVAP: Klinik Psikoloji (Tezli, İngilizce) programının 1. sınıfında, 1. yarıyılda şu dersler alınır: BUS5301 Araştırma Yöntemleri ve Etik (9 AKTS), CPS5125 İleri Düzey Psikopatoloji (8 AKTS). 2. yarıyılda ise şu dersler alınır: CPS5126 Klinik Görüşme (8 AKTS).
+
+QUESTION: Which courses are taken in year 1 (semesters 1 and 2) of Clinical Psychology (Thesis, English)?
+ANSWER: In year 1 of the Clinical Psychology (Thesis, English) program, semester 1 courses are: BUS5301 Araştırma Yöntemleri ve Etik (9 ECTS), CPS5125 İleri Düzey Psikopatoloji (8 ECTS). Semester 2 courses are: CPS5126 Klinik Görüşme (8 ECTS).
+
+SORU: Klinik Psikoloji (Tezli, İngilizce) 2. sınıfında (3. ve 4. yarıyıl) hangi dersler alınır?
+CEVAP: Klinik Psikoloji (Tezli, İngilizce) programının 2. sınıfında, 3. yarıyılda şu dersler alınır: CPS5201 Klinik Denetleme I (3 AKTS), CPS5203 Saha Çalışması I (15 AKTS). 4. yarıyılda ise şu dersler alınır: CPS5202 Klinik Denetleme II (4 AKTS), CPS5204 Saha Çalışması II (16 AKTS).
+
+QUESTION: Which courses are taken in year 2 (semesters 3 and 4) of Clinical Psychology (Thesis, English)?
+ANSWER: In year 2 of the Clinical Psychology (Thesis, English) program, semester 3 courses are: CPS5201 Klinik Denetleme I (3 ECTS), CPS5203 Saha Çalışması I (15 ECTS). Semester 4 courses are: CPS5202 Klinik Denetleme II (4 ECTS), CPS5204 Saha Çalışması II (16 ECTS).
+
+SORU: Klinik Psikoloji (Tezli, İngilizce) programında bölüm seçmeli olarak hangi dersler seçilebilir?
+CEVAP: Klinik Psikoloji (Tezli, İngilizce) programında bölüm seçmeli kapsamında seçilebilecek dersler: CPS5112 Kliinik Psikolojide Etik (6 AKTS), CPS5124 Araştırma Yöntemleri ve İstatistik II (9 AKTS), CPS5129 Bilişsel-Davranışçı Psikoterapi Kuramları (6 AKTS), CPS5130 Bilişsel Davranışçı Terapisi (6 AKTS), CPS5131 Psikodinamik Psikoterapi Kuramları (6 AKTS), CPS5132 Psikodinamik Psikoterapi (6 AKTS).
+
+QUESTION: Which courses can be chosen as a bölüm seçmeli in the Clinical Psychology (Thesis, English) program?
+ANSWER: Courses that can be chosen as a bölüm seçmeli in the Clinical Psychology (Thesis, English) program include: CPS5112 Kliinik Psikolojide Etik (6 ECTS), CPS5124 Araştırma Yöntemleri ve İstatistik II (9 ECTS), CPS5129 Bilişsel-Davranışçı Psikoterapi Kuramları (6 ECTS), CPS5130 Bilişsel Davranışçı Terapisi (6 ECTS), CPS5131 Psikodinamik Psikoterapi Kuramları (6 ECTS), CPS5132 Psikodinamik Psikoterapi (6 ECTS).

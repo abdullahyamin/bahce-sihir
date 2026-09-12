@@ -1,0 +1,31 @@
+BAU Endüstriyel Tasarım (Industrial Design) Ders Planı (Kaynak: akts.bau.edu.tr)
+
+SORU: Endüstriyel Tasarım 1. sınıfında (1. ve 2. yarıyıl) hangi dersler alınır?
+CEVAP: Endüstriyel Tasarım programının 1. sınıfında, 1. yarıyılda şu dersler alınır: DES1001 Temel Tasarım (11 AKTS), DES1011 Çizim ve Anlatım Teknikleri I (3 AKTS), DES1013 Teknik Çizim I (7 AKTS), DES1021 Endüstriyel Tasarıma Giriş (3 AKTS), ENG1003 İletişim Becerileri ve Akademik Raporlama I (4 AKTS), HST1001 Atatürk İlkeleri ve İnkılap Tarihi I (2 AKTS). 2. yarıyılda ise şu dersler alınır: DES1002 Endüstriyel Tasarım Çalışmaları (10 AKTS), DES1012 Tasarım İletişimi II (3 AKTS), DES1014 Teknik Çizim II (7 AKTS), DES1032 Model Yapımı (2 AKTS), DES1033 Üretim Malzemeleri I (2 AKTS), ENG1004 İletişim Becerileri ve Akademik Raporlama II (3 AKTS), HST1002 Atatürk İlkeleri ve İnkılap Tarihi II (2 AKTS), LAW1156 Çocuk Hukuku ve Çocuk Psikolojisi (1 AKTS).
+
+QUESTION: Which courses are taken in year 1 (semesters 1 and 2) of Industrial Design?
+ANSWER: In year 1 of the Industrial Design program, semester 1 courses are: DES1001 Temel Tasarım (11 ECTS), DES1011 Çizim ve Anlatım Teknikleri I (3 ECTS), DES1013 Teknik Çizim I (7 ECTS), DES1021 Endüstriyel Tasarıma Giriş (3 ECTS), ENG1003 İletişim Becerileri ve Akademik Raporlama I (4 ECTS), HST1001 Atatürk İlkeleri ve İnkılap Tarihi I (2 ECTS). Semester 2 courses are: DES1002 Endüstriyel Tasarım Çalışmaları (10 ECTS), DES1012 Tasarım İletişimi II (3 ECTS), DES1014 Teknik Çizim II (7 ECTS), DES1032 Model Yapımı (2 ECTS), DES1033 Üretim Malzemeleri I (2 ECTS), ENG1004 İletişim Becerileri ve Akademik Raporlama II (3 ECTS), HST1002 Atatürk İlkeleri ve İnkılap Tarihi II (2 ECTS), LAW1156 Çocuk Hukuku ve Çocuk Psikolojisi (1 ECTS).
+
+SORU: Endüstriyel Tasarım 2. sınıfında (3. ve 4. yarıyıl) hangi dersler alınır?
+CEVAP: Endüstriyel Tasarım programının 2. sınıfında, 3. yarıyılda şu dersler alınır: DES2001 Endüstriyel Tasarım I (9 AKTS), DES2013 Tasarım İletişimi III (3 AKTS), DES2021 Bilgisayar Destekli Tasarım I (3 AKTS), DES2031 Üretim Malzemeleri II (2 AKTS), DES2033 Yapı Teorisi (3 AKTS), TLL1003 Türk Dili ve Edebiyatı I (2 AKTS). 4. yarıyılda ise şu dersler alınır: DES2002 Endüstriyel Tasarım II (10 AKTS), DES2014 Tasarım İletişimi IV (3 AKTS), DES2034 Nesnelerin Çalışma Sistemleri (3 AKTS), DES2044 İnsan Faktörleri ve Tasarım Psikolojisi (4 AKTS), TLL1004 Türk Dili ve Edebiyatı II (2 AKTS).
+
+QUESTION: Which courses are taken in year 2 (semesters 3 and 4) of Industrial Design?
+ANSWER: In year 2 of the Industrial Design program, semester 3 courses are: DES2001 Endüstriyel Tasarım I (9 ECTS), DES2013 Tasarım İletişimi III (3 ECTS), DES2021 Bilgisayar Destekli Tasarım I (3 ECTS), DES2031 Üretim Malzemeleri II (2 ECTS), DES2033 Yapı Teorisi (3 ECTS), TLL1003 Türk Dili ve Edebiyatı I (2 ECTS). Semester 4 courses are: DES2002 Endüstriyel Tasarım II (10 ECTS), DES2014 Tasarım İletişimi IV (3 ECTS), DES2034 Nesnelerin Çalışma Sistemleri (3 ECTS), DES2044 İnsan Faktörleri ve Tasarım Psikolojisi (4 ECTS), TLL1004 Türk Dili ve Edebiyatı II (2 ECTS).
+
+SORU: Endüstriyel Tasarım 3. sınıfında (5. ve 6. yarıyıl) hangi dersler alınır?
+CEVAP: Endüstriyel Tasarım programının 3. sınıfında, 5. yarıyılda şu dersler alınır: DES3001 Endüstriyel Tasarım III (11 AKTS), DES3017 Tasarım ve Anlam (4 AKTS), DES3033 Endüstriyel Tasarımcılar için Pazarlama (4 AKTS), DES3041 Tasarım Araştırmaları (4 AKTS), DES3095 Staj I (3 AKTS). 6. yarıyılda ise şu dersler alınır: DES3002 Endüstriyel Tasarım IV (11 AKTS), DES3032 Tasarım Yönetimi (4 AKTS), DES3096 Staj II (3 AKTS).
+
+QUESTION: Which courses are taken in year 3 (semesters 5 and 6) of Industrial Design?
+ANSWER: In year 3 of the Industrial Design program, semester 5 courses are: DES3001 Endüstriyel Tasarım III (11 ECTS), DES3017 Tasarım ve Anlam (4 ECTS), DES3033 Endüstriyel Tasarımcılar için Pazarlama (4 ECTS), DES3041 Tasarım Araştırmaları (4 ECTS), DES3095 Staj I (3 ECTS). Semester 6 courses are: DES3002 Endüstriyel Tasarım IV (11 ECTS), DES3032 Tasarım Yönetimi (4 ECTS), DES3096 Staj II (3 ECTS).
+
+SORU: Endüstriyel Tasarım 4. sınıfında (7. ve 8. yarıyıl) hangi dersler alınır?
+CEVAP: Endüstriyel Tasarım programının 4. sınıfında, 7. yarıyılda şu dersler alınır: DES4001 Endüstriyel Tasarım V (11 AKTS), DES4011 Meslek Pratiği (3 AKTS), DES4097 Staj III (4 AKTS). 8. yarıyılda ise şu dersler alınır: DES4002 Bitirme Projesi (14 AKTS).
+
+QUESTION: Which courses are taken in year 4 (semesters 7 and 8) of Industrial Design?
+ANSWER: In year 4 of the Industrial Design program, semester 7 courses are: DES4001 Endüstriyel Tasarım V (11 ECTS), DES4011 Meslek Pratiği (3 ECTS), DES4097 Staj III (4 ECTS). Semester 8 courses are: DES4002 Bitirme Projesi (14 ECTS).
+
+SORU: Endüstriyel Tasarım programında bölüm seçmeli olarak hangi dersler seçilebilir?
+CEVAP: Endüstriyel Tasarım programında bölüm seçmeli kapsamında seçilebilecek dersler: COP3910 Bürotime – Çalışma Alanının Evrimi: Fikirden Ürüne (4 AKTS), DES3940 Otomotiv Tasarımı II (4 AKTS).
+
+QUESTION: Which courses can be chosen as a bölüm seçmeli in the Industrial Design program?
+ANSWER: Courses that can be chosen as a bölüm seçmeli in the Industrial Design program include: COP3910 Bürotime – Çalışma Alanının Evrimi: Fikirden Ürüne (4 ECTS), DES3940 Otomotiv Tasarımı II (4 ECTS).

@@ -1,0 +1,19 @@
+BAU Eğitim Programları ve Öğretim (Doktora) (Curriculum and Instruction (Doctorate)) Ders Planı (Kaynak: akts.bau.edu.tr)
+
+SORU: Eğitim Programları ve Öğretim (Doktora) 1. sınıfında (1. ve 2. yarıyıl) hangi dersler alınır?
+CEVAP: Eğitim Programları ve Öğretim (Doktora) programının 1. sınıfında, 1. yarıyılda şu dersler alınır: EDE6101 Eğitimde Program Geliştirme (9 AKTS), RCH6001 İleri Araştırma Yöntemleri (9 AKTS). 2. yarıyılda ise şu dersler alınır: EDE6103 Öğretim Tasarımı (9 AKTS).
+
+QUESTION: Which courses are taken in year 1 (semesters 1 and 2) of Curriculum and Instruction (Doctorate)?
+ANSWER: In year 1 of the Curriculum and Instruction (Doctorate) program, semester 1 courses are: EDE6101 Eğitimde Program Geliştirme (9 ECTS), RCH6001 İleri Araştırma Yöntemleri (9 ECTS). Semester 2 courses are: EDE6103 Öğretim Tasarımı (9 ECTS).
+
+SORU: Eğitim Programları ve Öğretim (Doktora) 2. sınıfında (3. ve 4. yarıyıl) hangi dersler alınır?
+CEVAP: Eğitim Programları ve Öğretim (Doktora) programının 2. sınıfında, 3. yarıyılda şu dersler alınır: SMR6887 Seminer (6 AKTS). 4. yarıyılda ise şu dersler alınır: QUA6999 Doktora Yeterlilik (30 AKTS).
+
+QUESTION: Which courses are taken in year 2 (semesters 3 and 4) of Curriculum and Instruction (Doctorate)?
+ANSWER: In year 2 of the Curriculum and Instruction (Doctorate) program, semester 3 courses are: SMR6887 Seminer (6 ECTS). Semester 4 courses are: QUA6999 Doktora Yeterlilik (30 ECTS).
+
+SORU: Eğitim Programları ve Öğretim (Doktora) programında bölüm seçmeli olarak hangi dersler seçilebilir?
+CEVAP: Eğitim Programları ve Öğretim (Doktora) programında bölüm seçmeli kapsamında seçilebilecek dersler: EDE6102 Eğitimde Program Değerlendirme (12 AKTS), EDE6104 Öğrenme ve Öğretme Kuramları (12 AKTS), EDE6108 Öğrenme ve Öğretimde Bireysel Farklılıklar (12 AKTS), EDE6109 Eğitim Araştırmalarında Karma Yöntemler (12 AKTS).
+
+QUESTION: Which courses can be chosen as a bölüm seçmeli in the Curriculum and Instruction (Doctorate) program?
+ANSWER: Courses that can be chosen as a bölüm seçmeli in the Curriculum and Instruction (Doctorate) program include: EDE6102 Eğitimde Program Değerlendirme (12 ECTS), EDE6104 Öğrenme ve Öğretme Kuramları (12 ECTS), EDE6108 Öğrenme ve Öğretimde Bireysel Farklılıklar (12 ECTS), EDE6109 Eğitim Araştırmalarında Karma Yöntemler (12 ECTS).

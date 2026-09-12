@@ -1,0 +1,13 @@
+BAU Fizyoterapi ve Rehabilitasyon (Tezli, Türkçe, Grad) (Physiotherapy and Rehabilitation (Grad, Thesis, Turkish)) Ders Planı (Kaynak: akts.bau.edu.tr)
+
+SORU: Fizyoterapi ve Rehabilitasyon (Tezli, Türkçe, Grad) 1. sınıfında (1. ve 2. yarıyıl) hangi dersler alınır?
+CEVAP: Fizyoterapi ve Rehabilitasyon (Tezli, Türkçe, Grad) programının 1. sınıfında, 1. yarıyılda şu dersler alınır: FTR5002 İleri Tedavi Edici Egzersizler (8 AKTS), ISL5301 Araştırma Yöntemleri ve Etik (9 AKTS). 2. yarıyılda ise şu dersler alınır: FTR5001 Fizyoterapi ve Rehabilitasyonda Özel Değerlendirme Yöntemleri (8 AKTS).
+
+QUESTION: Which courses are taken in year 1 (semesters 1 and 2) of Physiotherapy and Rehabilitation (Grad, Thesis, Turkish)?
+ANSWER: In year 1 of the Physiotherapy and Rehabilitation (Grad, Thesis, Turkish) program, semester 1 courses are: FTR5002 İleri Tedavi Edici Egzersizler (8 ECTS), ISL5301 Araştırma Yöntemleri ve Etik (9 ECTS). Semester 2 courses are: FTR5001 Fizyoterapi ve Rehabilitasyonda Özel Değerlendirme Yöntemleri (8 ECTS).
+
+SORU: Fizyoterapi ve Rehabilitasyon (Tezli, Türkçe, Grad) programında bölüm seçmeli olarak hangi dersler seçilebilir?
+CEVAP: Fizyoterapi ve Rehabilitasyon (Tezli, Türkçe, Grad) programında bölüm seçmeli kapsamında seçilebilecek dersler: FTR5005 Çocuk Hastalıklarında Fizyoterapi ve Rehabilitasyon (8 AKTS), FTR5006 Yoğun Bakımda Fizyoterapi ve Rehabilitasyon (8 AKTS), FTR5009 Ağrılı Hastada Değerlendirme (8 AKTS), FTR5014 Romatizmal Hastalıklarda Fizyoterapi ve Rehabilitasyon (8 AKTS), FTR5017 Ortopedik Hastalıklar (8 AKTS).
+
+QUESTION: Which courses can be chosen as a bölüm seçmeli in the Physiotherapy and Rehabilitation (Grad, Thesis, Turkish) program?
+ANSWER: Courses that can be chosen as a bölüm seçmeli in the Physiotherapy and Rehabilitation (Grad, Thesis, Turkish) program include: FTR5005 Çocuk Hastalıklarında Fizyoterapi ve Rehabilitasyon (8 ECTS), FTR5006 Yoğun Bakımda Fizyoterapi ve Rehabilitasyon (8 ECTS), FTR5009 Ağrılı Hastada Değerlendirme (8 ECTS), FTR5014 Romatizmal Hastalıklarda Fizyoterapi ve Rehabilitasyon (8 ECTS), FTR5017 Ortopedik Hastalıklar (8 ECTS).

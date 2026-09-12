@@ -1,0 +1,31 @@
+BAU Yapay Zeka Mühendisliği (Artificial Intelligence Engineering) Ders Planı (Kaynak: akts.bau.edu.tr)
+
+SORU: Yapay Zeka Mühendisliği 1. sınıfında (1. ve 2. yarıyıl) hangi dersler alınır?
+CEVAP: Yapay Zeka Mühendisliği programının 1. sınıfında, 1. yarıyılda şu dersler alınır: AIN1001 Bilgisayar Programlama I (Python) (5 AKTS), AIN1003 Birinci Sınıf Semineri (1 AKTS), ENG1003 İletişim Becerileri ve Akademik Raporlama I (4 AKTS), MAT1051 Diferensiyel ve İntegral Hesap I (7 AKTS), MAT2033 Ayrık Matematik (6 AKTS), PHY1001 Fizik I (7 AKTS). 2. yarıyılda ise şu dersler alınır: AIN1002 Bilgisayar Programlama II (C++) (6 AKTS), ENG1004 İletişim Becerileri ve Akademik Raporlama II (3 AKTS), LAW1156 Çocuk Hukuku ve Çocuk Psikolojisi (1 AKTS), MAT1052 Diferensiyel ve İntegral Hesap II (7 AKTS), PHY1002 Fizik II (7 AKTS), SEN2201 Hesaplama Sistemleri (6 AKTS).
+
+QUESTION: Which courses are taken in year 1 (semesters 1 and 2) of Artificial Intelligence Engineering?
+ANSWER: In year 1 of the Artificial Intelligence Engineering program, semester 1 courses are: AIN1001 Bilgisayar Programlama I (Python) (5 ECTS), AIN1003 Birinci Sınıf Semineri (1 ECTS), ENG1003 İletişim Becerileri ve Akademik Raporlama I (4 ECTS), MAT1051 Diferensiyel ve İntegral Hesap I (7 ECTS), MAT2033 Ayrık Matematik (6 ECTS), PHY1001 Fizik I (7 ECTS). Semester 2 courses are: AIN1002 Bilgisayar Programlama II (C++) (6 ECTS), ENG1004 İletişim Becerileri ve Akademik Raporlama II (3 ECTS), LAW1156 Çocuk Hukuku ve Çocuk Psikolojisi (1 ECTS), MAT1052 Diferensiyel ve İntegral Hesap II (7 ECTS), PHY1002 Fizik II (7 ECTS), SEN2201 Hesaplama Sistemleri (6 ECTS).
+
+SORU: Yapay Zeka Mühendisliği 2. sınıfında (3. ve 4. yarıyıl) hangi dersler alınır?
+CEVAP: Yapay Zeka Mühendisliği programının 2. sınıfında, 3. yarıyılda şu dersler alınır: AIN2001 Yapay Zekanın İlkeleri (6 AKTS), CMP2003 Veri Yapıları ve Algoritmalar (C++) (7 AKTS), MAT1041 Doğrusal Cebir (6 AKTS), MAT3026 Olasılık ve İstatistik (6 AKTS). 4. yarıyılda ise şu dersler alınır: AIN2002 Veri Bilimine Giriş (6 AKTS), AIN2008 Bilgisayarlar ve Etik (5 AKTS), INE2002 Mühendisler için İstatistik (7 AKTS), MAT2008 Optimizasyona Giriş (6 AKTS), MAT2062 Diferensiyel Denklemler (6 AKTS).
+
+QUESTION: Which courses are taken in year 2 (semesters 3 and 4) of Artificial Intelligence Engineering?
+ANSWER: In year 2 of the Artificial Intelligence Engineering program, semester 3 courses are: AIN2001 Yapay Zekanın İlkeleri (6 ECTS), CMP2003 Veri Yapıları ve Algoritmalar (C++) (7 ECTS), MAT1041 Doğrusal Cebir (6 ECTS), MAT3026 Olasılık ve İstatistik (6 ECTS). Semester 4 courses are: AIN2002 Veri Bilimine Giriş (6 ECTS), AIN2008 Bilgisayarlar ve Etik (5 ECTS), INE2002 Mühendisler için İstatistik (7 ECTS), MAT2008 Optimizasyona Giriş (6 ECTS), MAT2062 Diferensiyel Denklemler (6 ECTS).
+
+SORU: Yapay Zeka Mühendisliği 3. sınıfında (5. ve 6. yarıyıl) hangi dersler alınır?
+CEVAP: Yapay Zeka Mühendisliği programının 3. sınıfında, 5. yarıyılda şu dersler alınır: AIN3001 Yapay Öğrenme (7 AKTS), AIN3003 Veritabanı Sistemleri ve Bulut Bilişimi (8 AKTS), CMP3005 Algoritma Analizi (6 AKTS), HST1001 Atatürk İlkeleri ve İnkılap Tarihi I (2 AKTS), TLL1003 Türk Dili ve Edebiyatı I (2 AKTS). 6. yarıyılda ise şu dersler alınır: AIN3002 Derin Öğrenme (6 AKTS), CMP3008 Biçimsel Diller ve Otomat Teorisi (6 AKTS), CMP3010 Gömülü Sistem Programlama (6 AKTS), ENR3001 Mühendisliğin Teknik Olmayan Yönleri (4 AKTS), HST1002 Atatürk İlkeleri ve İnkılap Tarihi II (2 AKTS), TLL1004 Türk Dili ve Edebiyatı II (2 AKTS).
+
+QUESTION: Which courses are taken in year 3 (semesters 5 and 6) of Artificial Intelligence Engineering?
+ANSWER: In year 3 of the Artificial Intelligence Engineering program, semester 5 courses are: AIN3001 Yapay Öğrenme (7 ECTS), AIN3003 Veritabanı Sistemleri ve Bulut Bilişimi (8 ECTS), CMP3005 Algoritma Analizi (6 ECTS), HST1001 Atatürk İlkeleri ve İnkılap Tarihi I (2 ECTS), TLL1003 Türk Dili ve Edebiyatı I (2 ECTS). Semester 6 courses are: AIN3002 Derin Öğrenme (6 ECTS), CMP3008 Biçimsel Diller ve Otomat Teorisi (6 ECTS), CMP3010 Gömülü Sistem Programlama (6 ECTS), ENR3001 Mühendisliğin Teknik Olmayan Yönleri (4 ECTS), HST1002 Atatürk İlkeleri ve İnkılap Tarihi II (2 ECTS), TLL1004 Türk Dili ve Edebiyatı II (2 ECTS).
+
+SORU: Yapay Zeka Mühendisliği 4. sınıfında (7. ve 8. yarıyıl) hangi dersler alınır?
+CEVAP: Yapay Zeka Mühendisliği programının 4. sınıfında, 7. yarıyılda şu dersler alınır: AIN4991 Bitirme Projesi I (1 AKTS), AIN4993 Yaz Stajı (7 AKTS). 8. yarıyılda ise şu dersler alınır: AIN4992 Bitirme Projesi II (6 AKTS).
+
+QUESTION: Which courses are taken in year 4 (semesters 7 and 8) of Artificial Intelligence Engineering?
+ANSWER: In year 4 of the Artificial Intelligence Engineering program, semester 7 courses are: AIN4991 Bitirme Projesi I (1 ECTS), AIN4993 Yaz Stajı (7 ECTS). Semester 8 courses are: AIN4992 Bitirme Projesi II (6 ECTS).
+
+SORU: Yapay Zeka Mühendisliği programında bölüm seçmeli olarak hangi dersler seçilebilir?
+CEVAP: Yapay Zeka Mühendisliği programında bölüm seçmeli kapsamında seçilebilecek dersler: AIN3005 Yapay Zeka Uygulamaları Geliştirmek için Gelişmiş Python Programlama (6 AKTS), AIN3007 Derin Öğrenme ile Tıbbi Görüntü İşleme (6 AKTS), AIN3009 MLOps ile Yapay Zeka Uygulamaların Dağıtımı (6 AKTS), AIN4311 Yapay Zeka Mühendisliğinde Özel Konular I (6 AKTS), AIN4312 Yapay Zeka Mühendisliğinde Özel Konular II (6 AKTS), COP3342 Prompt Mühendisliği (6 AKTS).
+
+QUESTION: Which courses can be chosen as a bölüm seçmeli in the Artificial Intelligence Engineering program?
+ANSWER: Courses that can be chosen as a bölüm seçmeli in the Artificial Intelligence Engineering program include: AIN3005 Yapay Zeka Uygulamaları Geliştirmek için Gelişmiş Python Programlama (6 ECTS), AIN3007 Derin Öğrenme ile Tıbbi Görüntü İşleme (6 ECTS), AIN3009 MLOps ile Yapay Zeka Uygulamaların Dağıtımı (6 ECTS), AIN4311 Yapay Zeka Mühendisliğinde Özel Konular I (6 ECTS), AIN4312 Yapay Zeka Mühendisliğinde Özel Konular II (6 ECTS), COP3342 Prompt Mühendisliği (6 ECTS).

@@ -1,0 +1,13 @@
+BAU Spor Yönetimi (Tezli) (Sports Management (Thesis)) Ders Planı (Kaynak: akts.bau.edu.tr)
+
+SORU: Spor Yönetimi (Tezli) 1. sınıfında (1. ve 2. yarıyıl) hangi dersler alınır?
+CEVAP: Spor Yönetimi (Tezli) programının 1. sınıfında, 1. yarıyılda şu dersler alınır: ISL5105 Stratejik Liderlik ve Yönetim (8 AKTS), ISL5301 Araştırma Yöntemleri ve Etik (9 AKTS). 2. yarıyılda ise şu dersler alınır: ISL5903 Spor Yönetimi (9 AKTS).
+
+QUESTION: Which courses are taken in year 1 (semesters 1 and 2) of Sports Management (Thesis)?
+ANSWER: In year 1 of the Sports Management (Thesis) program, semester 1 courses are: ISL5105 Stratejik Liderlik ve Yönetim (8 ECTS), ISL5301 Araştırma Yöntemleri ve Etik (9 ECTS). Semester 2 courses are: ISL5903 Spor Yönetimi (9 ECTS).
+
+SORU: Spor Yönetimi (Tezli) programında bölüm seçmeli olarak hangi dersler seçilebilir?
+CEVAP: Spor Yönetimi (Tezli) programında bölüm seçmeli kapsamında seçilebilecek dersler: ISL5115 Sporda Sosyal ve Kültürel Temalar (8 AKTS), ISL5901 Spor Tüketici Davranışı ve Psikolojisi (8 AKTS), ISL5902 Spor Ekonomisi ve Finansı (8 AKTS), ISL5904 Spor Endüstrisi (8 AKTS), ISL5906 Spor Pazarlaması (8 AKTS), ISL5907 Spor Tesisleri ve İşletmeciliği (8 AKTS), ISL5908 Spor İletişimi (8 AKTS), ISL5909 Sporda Örgütsel Davranış (8 AKTS), ISL5915 Spor Örgüt Yönetimi (8 AKTS), ISL5917 Spor Tarihi ve Rolü (8 AKTS), ISL5919 Sporda Dijital Dünya (8 AKTS).
+
+QUESTION: Which courses can be chosen as a bölüm seçmeli in the Sports Management (Thesis) program?
+ANSWER: Courses that can be chosen as a bölüm seçmeli in the Sports Management (Thesis) program include: ISL5115 Sporda Sosyal ve Kültürel Temalar (8 ECTS), ISL5901 Spor Tüketici Davranışı ve Psikolojisi (8 ECTS), ISL5902 Spor Ekonomisi ve Finansı (8 ECTS), ISL5904 Spor Endüstrisi (8 ECTS), ISL5906 Spor Pazarlaması (8 ECTS), ISL5907 Spor Tesisleri ve İşletmeciliği (8 ECTS), ISL5908 Spor İletişimi (8 ECTS), ISL5909 Sporda Örgütsel Davranış (8 ECTS), ISL5915 Spor Örgüt Yönetimi (8 ECTS), ISL5917 Spor Tarihi ve Rolü (8 ECTS), ISL5919 Sporda Dijital Dünya (8 ECTS).

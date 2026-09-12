@@ -1,0 +1,19 @@
+BAU Dil ve Konuşma Terapisi (Tezsiz, Grad) (Speech and Language Therapy (Grad, Non-thesis)) Ders Planı (Kaynak: akts.bau.edu.tr)
+
+SORU: Dil ve Konuşma Terapisi (Tezsiz, Grad) 1. sınıfında (1. ve 2. yarıyıl) hangi dersler alınır?
+CEVAP: Dil ve Konuşma Terapisi (Tezsiz, Grad) programının 1. sınıfında, 1. yarıyılda şu dersler alınır: DKT5001 Dil ve Konuşma Terapisi İleri Klinik Uygulama I: Ölçme, Değerlendirme, Görüntüleme ve Teknolojik Uyg (7 AKTS), ISL5301 Araştırma Yöntemleri ve Etik (9 AKTS). 2. yarıyılda ise şu dersler alınır: DKT5002 Dil ve Konuşma Terapisi İleri Klinik Uygulama II: Değerlendirme ve Terapi (8 AKTS).
+
+QUESTION: Which courses are taken in year 1 (semesters 1 and 2) of Speech and Language Therapy (Grad, Non-thesis)?
+ANSWER: In year 1 of the Speech and Language Therapy (Grad, Non-thesis) program, semester 1 courses are: DKT5001 Dil ve Konuşma Terapisi İleri Klinik Uygulama I: Ölçme, Değerlendirme, Görüntüleme ve Teknolojik Uyg (7 ECTS), ISL5301 Araştırma Yöntemleri ve Etik (9 ECTS). Semester 2 courses are: DKT5002 Dil ve Konuşma Terapisi İleri Klinik Uygulama II: Değerlendirme ve Terapi (8 ECTS).
+
+SORU: Dil ve Konuşma Terapisi (Tezsiz, Grad) 2. sınıfında (3. ve 4. yarıyıl) hangi dersler alınır?
+CEVAP: Dil ve Konuşma Terapisi (Tezsiz, Grad) programının 2. sınıfında, 3. yarıyılda şu dersler alınır: DKT5999 Proje (16 AKTS). 4. yarıyılda ise şu dersler alınır: bilgi bulunmuyor.
+
+QUESTION: Which courses are taken in year 2 (semesters 3 and 4) of Speech and Language Therapy (Grad, Non-thesis)?
+ANSWER: In year 2 of the Speech and Language Therapy (Grad, Non-thesis) program, semester 3 courses are: DKT5999 Proje (16 ECTS). Semester 4 courses are: no data available.
+
+SORU: Dil ve Konuşma Terapisi (Tezsiz, Grad) programında bölüm seçmeli olarak hangi dersler seçilebilir?
+CEVAP: Dil ve Konuşma Terapisi (Tezsiz, Grad) programında bölüm seçmeli kapsamında seçilebilecek dersler: DKT5003 Nörojenik Edinilmiş Dil Bozuklukları: İleri Tanı ve Terapi Uygulamaları (8 AKTS), DKT5004 Ses Bozuklukları: İleri Tanı ve Terapi Uygulamaları (8 AKTS), DKT5006 Yutma Bozuklukları: İleri Tanı ve Terapi Uygulamaları (8 AKTS), DKT5008 Konuşma Sesi Bozukluklarında İleri Araştırmalar (8 AKTS).
+
+QUESTION: Which courses can be chosen as a bölüm seçmeli in the Speech and Language Therapy (Grad, Non-thesis) program?
+ANSWER: Courses that can be chosen as a bölüm seçmeli in the Speech and Language Therapy (Grad, Non-thesis) program include: DKT5003 Nörojenik Edinilmiş Dil Bozuklukları: İleri Tanı ve Terapi Uygulamaları (8 ECTS), DKT5004 Ses Bozuklukları: İleri Tanı ve Terapi Uygulamaları (8 ECTS), DKT5006 Yutma Bozuklukları: İleri Tanı ve Terapi Uygulamaları (8 ECTS), DKT5008 Konuşma Sesi Bozukluklarında İleri Araştırmalar (8 ECTS).

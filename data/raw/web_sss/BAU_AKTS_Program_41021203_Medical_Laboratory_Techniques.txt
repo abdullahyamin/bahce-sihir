@@ -1,0 +1,19 @@
+BAU Tıbbi Laboratuvar Teknikleri (Medical Laboratory Techniques) Ders Planı (Kaynak: akts.bau.edu.tr)
+
+SORU: Tıbbi Laboratuvar Teknikleri 1. sınıfında (1. ve 2. yarıyıl) hangi dersler alınır?
+CEVAP: Tıbbi Laboratuvar Teknikleri programının 1. sınıfında, 1. yarıyılda şu dersler alınır: ENG1071 İngilizce I (3 AKTS), HST1071 Atatürk İlkeleri ve İnkılap Tarihi I (2 AKTS), KİM1061 Genel Kimya (5 AKTS), TDS1003 Tıbbi Terminoloji (3 AKTS), TDS1007 Sağlık Hizmetlerinde İletişim (5 AKTS), TLL1071 Türk Dili ve Edebiyatı I (2 AKTS), TLT1001 Histoloji (5 AKTS), TLT1003 Mikrobiyoloji I (5 AKTS). 2. yarıyılda ise şu dersler alınır: BPR1021 Bilgi ve İletişim Teknolojileri (3 AKTS), ENG1072 İngilizce II (2 AKTS), HST1072 Atatürk İlkeleri ve İnkılap Tarihi II (2 AKTS), LAW1154 Çocuk Hukuku ve Çocuk Psikolojisi (1 AKTS), TLL1072 Türk Dili ve Edebiyatı II (2 AKTS), TLT1006 Tıbbi Biyoloji ve Genetik (5 AKTS), TLT1008 Anatomi ve Fizyoloji (7 AKTS), TLT1010 Biyokimya (8 AKTS).
+
+QUESTION: Which courses are taken in year 1 (semesters 1 and 2) of Medical Laboratory Techniques?
+ANSWER: In year 1 of the Medical Laboratory Techniques program, semester 1 courses are: ENG1071 İngilizce I (3 ECTS), HST1071 Atatürk İlkeleri ve İnkılap Tarihi I (2 ECTS), KİM1061 Genel Kimya (5 ECTS), TDS1003 Tıbbi Terminoloji (3 ECTS), TDS1007 Sağlık Hizmetlerinde İletişim (5 ECTS), TLL1071 Türk Dili ve Edebiyatı I (2 ECTS), TLT1001 Histoloji (5 ECTS), TLT1003 Mikrobiyoloji I (5 ECTS). Semester 2 courses are: BPR1021 Bilgi ve İletişim Teknolojileri (3 ECTS), ENG1072 İngilizce II (2 ECTS), HST1072 Atatürk İlkeleri ve İnkılap Tarihi II (2 ECTS), LAW1154 Çocuk Hukuku ve Çocuk Psikolojisi (1 ECTS), TLL1072 Türk Dili ve Edebiyatı II (2 ECTS), TLT1006 Tıbbi Biyoloji ve Genetik (5 ECTS), TLT1008 Anatomi ve Fizyoloji (7 ECTS), TLT1010 Biyokimya (8 ECTS).
+
+SORU: Tıbbi Laboratuvar Teknikleri 2. sınıfında (3. ve 4. yarıyıl) hangi dersler alınır?
+CEVAP: Tıbbi Laboratuvar Teknikleri programının 2. sınıfında, 3. yarıyılda şu dersler alınır: TLT2001 Parazitoloji (2 AKTS), TLT2003 Klinik Laboratuvar Uygulamaları I (3 AKTS), TLT2023 İşyeri Eğitimi (8 AKTS). 4. yarıyılda ise şu dersler alınır: TLT2002 Klinik Mikrobiyoloji ve Laboratuvar Yöntemleri (9 AKTS), TLT2004 Klinik Laboratuvar Uygulamaları II (8 AKTS).
+
+QUESTION: Which courses are taken in year 2 (semesters 3 and 4) of Medical Laboratory Techniques?
+ANSWER: In year 2 of the Medical Laboratory Techniques program, semester 3 courses are: TLT2001 Parazitoloji (2 ECTS), TLT2003 Klinik Laboratuvar Uygulamaları I (3 ECTS), TLT2023 İşyeri Eğitimi (8 ECTS). Semester 4 courses are: TLT2002 Klinik Mikrobiyoloji ve Laboratuvar Yöntemleri (9 ECTS), TLT2004 Klinik Laboratuvar Uygulamaları II (8 ECTS).
+
+SORU: Tıbbi Laboratuvar Teknikleri programında bölüm seçmeli olarak hangi dersler seçilebilir?
+CEVAP: Tıbbi Laboratuvar Teknikleri programında bölüm seçmeli kapsamında seçilebilecek dersler: TLT1002 Hematoloji (4 AKTS), TLT2007 İmmünoloji Laboratuvarı (3 AKTS), TLT2008 Laboratuvar Yöntemleri ve Güvenliği (3 AKTS), TLT2009 İş Sağlığı ve Kalite (3 AKTS), TLT2011 Kan Bankası Yönetimi (3 AKTS), TLT2012 Biyomedikal Cihazlar (3 AKTS), TLT2014 Kan ve İdrar Analizleri (3 AKTS).
+
+QUESTION: Which courses can be chosen as a bölüm seçmeli in the Medical Laboratory Techniques program?
+ANSWER: Courses that can be chosen as a bölüm seçmeli in the Medical Laboratory Techniques program include: TLT1002 Hematoloji (4 ECTS), TLT2007 İmmünoloji Laboratuvarı (3 ECTS), TLT2008 Laboratuvar Yöntemleri ve Güvenliği (3 ECTS), TLT2009 İş Sağlığı ve Kalite (3 ECTS), TLT2011 Kan Bankası Yönetimi (3 ECTS), TLT2012 Biyomedikal Cihazlar (3 ECTS), TLT2014 Kan ve İdrar Analizleri (3 ECTS).

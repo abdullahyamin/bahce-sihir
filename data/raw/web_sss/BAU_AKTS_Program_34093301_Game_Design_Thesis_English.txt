@@ -1,0 +1,13 @@
+BAU Oyun Tasarımı (Tezli, İngilizce) (Game Design (Thesis, English)) Ders Planı (Kaynak: akts.bau.edu.tr)
+
+SORU: Oyun Tasarımı (Tezli, İngilizce) 1. sınıfında (1. ve 2. yarıyıl) hangi dersler alınır?
+CEVAP: Oyun Tasarımı (Tezli, İngilizce) programının 1. sınıfında, 1. yarıyılda şu dersler alınır: BUS5301 Araştırma Yöntemleri ve Etik (9 AKTS), GAD5201 Oyun Tasarımının Temelleri (8 AKTS). 2. yarıyılda ise şu dersler alınır: GAD5202 Oyun Tasarımı Stüdyosu (8 AKTS).
+
+QUESTION: Which courses are taken in year 1 (semesters 1 and 2) of Game Design (Thesis, English)?
+ANSWER: In year 1 of the Game Design (Thesis, English) program, semester 1 courses are: BUS5301 Araştırma Yöntemleri ve Etik (9 ECTS), GAD5201 Oyun Tasarımının Temelleri (8 ECTS). Semester 2 courses are: GAD5202 Oyun Tasarımı Stüdyosu (8 ECTS).
+
+SORU: Oyun Tasarımı (Tezli, İngilizce) programında bölüm seçmeli olarak hangi dersler seçilebilir?
+CEVAP: Oyun Tasarımı (Tezli, İngilizce) programında bölüm seçmeli kapsamında seçilebilecek dersler: GAD5101 Oyunlar ve Kültür (8 AKTS), GAD5102 İnteraktif Anlatı (8 AKTS), GAD5103 Oyun Çalışmaları I (8 AKTS), GAD5107 Oyuncu Araştırmaları (8 AKTS), GAD5203 Kullanıcı Arayüz Tasarımı (8 AKTS), GAD5204 Oyun İçerikli Deneyim Tasarımı (8 AKTS), GAD5301 Oyun Sanatı ve Estetiği (8 AKTS), GAD5403 Oyunlarda Yeni Arayüzler ve Teknolojiler (8 AKTS), GAD5501 Oyun Prodüksiyonu (8 AKTS), SDM5010 Fikir Görselleştirme (8 AKTS).
+
+QUESTION: Which courses can be chosen as a bölüm seçmeli in the Game Design (Thesis, English) program?
+ANSWER: Courses that can be chosen as a bölüm seçmeli in the Game Design (Thesis, English) program include: GAD5101 Oyunlar ve Kültür (8 ECTS), GAD5102 İnteraktif Anlatı (8 ECTS), GAD5103 Oyun Çalışmaları I (8 ECTS), GAD5107 Oyuncu Araştırmaları (8 ECTS), GAD5203 Kullanıcı Arayüz Tasarımı (8 ECTS), GAD5204 Oyun İçerikli Deneyim Tasarımı (8 ECTS), GAD5301 Oyun Sanatı ve Estetiği (8 ECTS), GAD5403 Oyunlarda Yeni Arayüzler ve Teknolojiler (8 ECTS), GAD5501 Oyun Prodüksiyonu (8 ECTS), SDM5010 Fikir Görselleştirme (8 ECTS).

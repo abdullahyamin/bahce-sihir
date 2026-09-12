@@ -1,0 +1,13 @@
+BAU Finansal Teknoloji (Tezli) (Financial Technology (Thesis)) Ders Planı (Kaynak: akts.bau.edu.tr)
+
+SORU: Finansal Teknoloji (Tezli) 1. sınıfında (1. ve 2. yarıyıl) hangi dersler alınır?
+CEVAP: Finansal Teknoloji (Tezli) programının 1. sınıfında, 1. yarıyılda şu dersler alınır: BUS5301 Araştırma Yöntemleri ve Etik (9 AKTS), FIN5228 Finansal Yönetim (8 AKTS). 2. yarıyılda ise şu dersler alınır: FIN5237 FinTech 1.0 (8 AKTS).
+
+QUESTION: Which courses are taken in year 1 (semesters 1 and 2) of Financial Technology (Thesis)?
+ANSWER: In year 1 of the Financial Technology (Thesis) program, semester 1 courses are: BUS5301 Araştırma Yöntemleri ve Etik (9 ECTS), FIN5228 Finansal Yönetim (8 ECTS). Semester 2 courses are: FIN5237 FinTech 1.0 (8 ECTS).
+
+SORU: Finansal Teknoloji (Tezli) programında bölüm seçmeli olarak hangi dersler seçilebilir?
+CEVAP: Finansal Teknoloji (Tezli) programında bölüm seçmeli kapsamında seçilebilecek dersler: BUS5110 Örgütsel Davranış (8 AKTS), ECO5001 Yönetim Ekonomisi (8 AKTS), ECO5150 Küresel Finans Piyasaları ve Türk Kurumları (8 AKTS), FIN5222 Uluslararası Finans ve Döviz Piyasaları (8 AKTS), FIN5228 Finansal Yönetim (8 AKTS), FIN5229 Portföy Yönetimi (9 AKTS), FIN5231 Türevler (7 AKTS), FIN5232 Teknik Analiz (8 AKTS), FIN5241 Finansal Teknolojiler Analitiği: Veri Temelli Kredi Modellemesi 3 0 3 8 FIN5477 Bankacılıkta Risk Değerlendirmesi (8 AKTS).
+
+QUESTION: Which courses can be chosen as a bölüm seçmeli in the Financial Technology (Thesis) program?
+ANSWER: Courses that can be chosen as a bölüm seçmeli in the Financial Technology (Thesis) program include: BUS5110 Örgütsel Davranış (8 ECTS), ECO5001 Yönetim Ekonomisi (8 ECTS), ECO5150 Küresel Finans Piyasaları ve Türk Kurumları (8 ECTS), FIN5222 Uluslararası Finans ve Döviz Piyasaları (8 ECTS), FIN5228 Finansal Yönetim (8 ECTS), FIN5229 Portföy Yönetimi (9 ECTS), FIN5231 Türevler (7 ECTS), FIN5232 Teknik Analiz (8 ECTS), FIN5241 Finansal Teknolojiler Analitiği: Veri Temelli Kredi Modellemesi 3 0 3 8 FIN5477 Bankacılıkta Risk Değerlendirmesi (8 ECTS).

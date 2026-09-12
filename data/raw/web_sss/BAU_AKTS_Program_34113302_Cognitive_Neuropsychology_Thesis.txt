@@ -1,0 +1,19 @@
+BAU Bilişsel Nöropsikoloji (Tezli) (Cognitive Neuropsychology (Thesis)) Ders Planı (Kaynak: akts.bau.edu.tr)
+
+SORU: Bilişsel Nöropsikoloji (Tezli) 1. sınıfında (1. ve 2. yarıyıl) hangi dersler alınır?
+CEVAP: Bilişsel Nöropsikoloji (Tezli) programının 1. sınıfında, 1. yarıyılda şu dersler alınır: CNP5001 Araştırma Yöntemleri ve Bilişsel Nöropsikolojide  İstatistik (9 AKTS), CNP5003 Biliş Temelleri (7 AKTS). 2. yarıyılda ise şu dersler alınır: CNP5004 Gelişmiş Nöropsikoloji (7 AKTS).
+
+QUESTION: Which courses are taken in year 1 (semesters 1 and 2) of Cognitive Neuropsychology (Thesis)?
+ANSWER: In year 1 of the Cognitive Neuropsychology (Thesis) program, semester 1 courses are: CNP5001 Araştırma Yöntemleri ve Bilişsel Nöropsikolojide  İstatistik (9 ECTS), CNP5003 Biliş Temelleri (7 ECTS). Semester 2 courses are: CNP5004 Gelişmiş Nöropsikoloji (7 ECTS).
+
+SORU: Bilişsel Nöropsikoloji (Tezli) 2. sınıfında (3. ve 4. yarıyıl) hangi dersler alınır?
+CEVAP: Bilişsel Nöropsikoloji (Tezli) programının 2. sınıfında, 3. yarıyılda şu dersler alınır: CNP5041 Alan Çalışması-1 (10 AKTS), CNP5305 Seminer (10 AKTS). 4. yarıyılda ise şu dersler alınır: CNP5042 Alan Çalışması-2 (10 AKTS).
+
+QUESTION: Which courses are taken in year 2 (semesters 3 and 4) of Cognitive Neuropsychology (Thesis)?
+ANSWER: In year 2 of the Cognitive Neuropsychology (Thesis) program, semester 3 courses are: CNP5041 Alan Çalışması-1 (10 ECTS), CNP5305 Seminer (10 ECTS). Semester 4 courses are: CNP5042 Alan Çalışması-2 (10 ECTS).
+
+SORU: Bilişsel Nöropsikoloji (Tezli) programında bölüm seçmeli olarak hangi dersler seçilebilir?
+CEVAP: Bilişsel Nöropsikoloji (Tezli) programında bölüm seçmeli kapsamında seçilebilecek dersler: CNP5011 İnsan Belleği (8 AKTS), CNP5019 Nöropsikolojik Testler ve Uygulamalar (8 AKTS), CNP5022 Bilişsel Elektrofizyoloji (8 AKTS), CNP5029 Biyomedikal Sinyal İşleme (8 AKTS), CNP5032 Genlerin İnsan Davranışının Üzerindeki Etkileri (8 AKTS), CNP5035 Klinik Nöropsikoloji (8 AKTS).
+
+QUESTION: Which courses can be chosen as a bölüm seçmeli in the Cognitive Neuropsychology (Thesis) program?
+ANSWER: Courses that can be chosen as a bölüm seçmeli in the Cognitive Neuropsychology (Thesis) program include: CNP5011 İnsan Belleği (8 ECTS), CNP5019 Nöropsikolojik Testler ve Uygulamalar (8 ECTS), CNP5022 Bilişsel Elektrofizyoloji (8 ECTS), CNP5029 Biyomedikal Sinyal İşleme (8 ECTS), CNP5032 Genlerin İnsan Davranışının Üzerindeki Etkileri (8 ECTS), CNP5035 Klinik Nöropsikoloji (8 ECTS).

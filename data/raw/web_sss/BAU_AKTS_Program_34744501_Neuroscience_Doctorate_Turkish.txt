@@ -1,0 +1,19 @@
+BAU Sinirbilim (Doktora, Türkçe) (Neuroscience (Doctorate, Turkish)) Ders Planı (Kaynak: akts.bau.edu.tr)
+
+SORU: Sinirbilim (Doktora, Türkçe) 1. sınıfında (1. ve 2. yarıyıl) hangi dersler alınır?
+CEVAP: Sinirbilim (Doktora, Türkçe) programının 1. sınıfında, 1. yarıyılda şu dersler alınır: ARS6001 İleri Araştırma Yöntemleri (12 AKTS), SNC6001 Hücresel ve Moleküler Sinirbilim I (9 AKTS). 2. yarıyılda ise şu dersler alınır: SNC6303 Nöroanatomi I (9 AKTS).
+
+QUESTION: Which courses are taken in year 1 (semesters 1 and 2) of Neuroscience (Doctorate, Turkish)?
+ANSWER: In year 1 of the Neuroscience (Doctorate, Turkish) program, semester 1 courses are: ARS6001 İleri Araştırma Yöntemleri (12 ECTS), SNC6001 Hücresel ve Moleküler Sinirbilim I (9 ECTS). Semester 2 courses are: SNC6303 Nöroanatomi I (9 ECTS).
+
+SORU: Sinirbilim (Doktora, Türkçe) 2. sınıfında (3. ve 4. yarıyıl) hangi dersler alınır?
+CEVAP: Sinirbilim (Doktora, Türkçe) programının 2. sınıfında, 3. yarıyılda şu dersler alınır: SMR6887 Seminer (6 AKTS). 4. yarıyılda ise şu dersler alınır: QUA6999 Doktora Yeterlilik (30 AKTS).
+
+QUESTION: Which courses are taken in year 2 (semesters 3 and 4) of Neuroscience (Doctorate, Turkish)?
+ANSWER: In year 2 of the Neuroscience (Doctorate, Turkish) program, semester 3 courses are: SMR6887 Seminer (6 ECTS). Semester 4 courses are: QUA6999 Doktora Yeterlilik (30 ECTS).
+
+SORU: Sinirbilim (Doktora, Türkçe) programında bölüm seçmeli olarak hangi dersler seçilebilir?
+CEVAP: Sinirbilim (Doktora, Türkçe) programında bölüm seçmeli kapsamında seçilebilecek dersler: SNC6003 Davranışsal ve Bilişsel Nörobilim (5 AKTS), SNC6011 Nörodejenerasyon (8 AKTS), SNC6012 Nöropatoloji (8 AKTS), SNC6014 Nörofizyoloji (9 AKTS), SNC6015 Nörofarmakoloji (9 AKTS), SNC6019 Biyoistatistik (9 AKTS), SNC6102 Bilişsel Nörobilim Araştırması (9 AKTS), SNC6104 Beyin ve Yapay Zeka (12 AKTS), SNC6105 Hesaplamalı Sinirbilim (12 AKTS), SNC6201 Sinirbilim Güncel Konular I (12 AKTS), SNC6301 Nöroradyoloji I (12 AKTS), SNC6303 Nöroanatomi I (9 AKTS), SNC6305 Nöroonkoloji (12 AKTS), SNC6309 Edebiyat Araştırması ve Lab. Rotasyonu (12 AKTS).
+
+QUESTION: Which courses can be chosen as a bölüm seçmeli in the Neuroscience (Doctorate, Turkish) program?
+ANSWER: Courses that can be chosen as a bölüm seçmeli in the Neuroscience (Doctorate, Turkish) program include: SNC6003 Davranışsal ve Bilişsel Nörobilim (5 ECTS), SNC6011 Nörodejenerasyon (8 ECTS), SNC6012 Nöropatoloji (8 ECTS), SNC6014 Nörofizyoloji (9 ECTS), SNC6015 Nörofarmakoloji (9 ECTS), SNC6019 Biyoistatistik (9 ECTS), SNC6102 Bilişsel Nörobilim Araştırması (9 ECTS), SNC6104 Beyin ve Yapay Zeka (12 ECTS), SNC6105 Hesaplamalı Sinirbilim (12 ECTS), SNC6201 Sinirbilim Güncel Konular I (12 ECTS), SNC6301 Nöroradyoloji I (12 ECTS), SNC6303 Nöroanatomi I (9 ECTS), SNC6305 Nöroonkoloji (12 ECTS), SNC6309 Edebiyat Araştırması ve Lab. Rotasyonu (12 ECTS).

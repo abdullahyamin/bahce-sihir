@@ -1,0 +1,19 @@
+BAU Diş Protez Teknolojisi (Dental Prosthetics Technology) Ders Planı (Kaynak: akts.bau.edu.tr)
+
+SORU: Diş Protez Teknolojisi 1. sınıfında (1. ve 2. yarıyıl) hangi dersler alınır?
+CEVAP: Diş Protez Teknolojisi programının 1. sınıfında, 1. yarıyılda şu dersler alınır: DPT1001 Dental Anatomi (11 AKTS), DPT1003 Dental Terminoloji (3 AKTS), DPT1005 Diş Protez Teknikerleri için Tıbbi Bilimler (3 AKTS), DPT1007 Diş Protez Teknikerliğinde Alet ve Ekipman Bilgisi (3 AKTS), ENG1071 İngilizce I (3 AKTS), HST1071 Atatürk İlkeleri ve İnkılap Tarihi I (2 AKTS), TDS1003 Tıbbi Terminoloji (3 AKTS), TLL1071 Türk Dili ve Edebiyatı I (2 AKTS). 2. yarıyılda ise şu dersler alınır: BPR1021 Bilgi ve İletişim Teknolojileri (3 AKTS), DPT1002 Protetik Diş Tedavisine Giriş (11 AKTS), DPT1004 Fonksiyonel Oklüzyon ve Gnatoloji (3 AKTS), DPT1006 Diş Protez Teknikerliğinde Maddeler Bilimi (3 AKTS), DYZ1004 Sterilizasyon ve Dezenfeksiyon Yöntemleri (4 AKTS), ENG1072 İngilizce II (2 AKTS), HST1072 Atatürk İlkeleri ve İnkılap Tarihi II (2 AKTS), LAW1154 Çocuk Hukuku ve Çocuk Psikolojisi (1 AKTS), TLL1072 Türk Dili ve Edebiyatı II (2 AKTS).
+
+QUESTION: Which courses are taken in year 1 (semesters 1 and 2) of Dental Prosthetics Technology?
+ANSWER: In year 1 of the Dental Prosthetics Technology program, semester 1 courses are: DPT1001 Dental Anatomi (11 ECTS), DPT1003 Dental Terminoloji (3 ECTS), DPT1005 Diş Protez Teknikerleri için Tıbbi Bilimler (3 ECTS), DPT1007 Diş Protez Teknikerliğinde Alet ve Ekipman Bilgisi (3 ECTS), ENG1071 İngilizce I (3 ECTS), HST1071 Atatürk İlkeleri ve İnkılap Tarihi I (2 ECTS), TDS1003 Tıbbi Terminoloji (3 ECTS), TLL1071 Türk Dili ve Edebiyatı I (2 ECTS). Semester 2 courses are: BPR1021 Bilgi ve İletişim Teknolojileri (3 ECTS), DPT1002 Protetik Diş Tedavisine Giriş (11 ECTS), DPT1004 Fonksiyonel Oklüzyon ve Gnatoloji (3 ECTS), DPT1006 Diş Protez Teknikerliğinde Maddeler Bilimi (3 ECTS), DYZ1004 Sterilizasyon ve Dezenfeksiyon Yöntemleri (4 ECTS), ENG1072 İngilizce II (2 ECTS), HST1072 Atatürk İlkeleri ve İnkılap Tarihi II (2 ECTS), LAW1154 Çocuk Hukuku ve Çocuk Psikolojisi (1 ECTS), TLL1072 Türk Dili ve Edebiyatı II (2 ECTS).
+
+SORU: Diş Protez Teknolojisi 2. sınıfında (3. ve 4. yarıyıl) hangi dersler alınır?
+CEVAP: Diş Protez Teknolojisi programının 2. sınıfında, 3. yarıyılda şu dersler alınır: DPT2001 Sabit Protezler - I (Intrakoronal Restorasyonlar) (7 AKTS), DPT2003 Hareketli Protezler - I (Tam Protezler) (7 AKTS). 4. yarıyılda ise şu dersler alınır: DPT2002 Sabit Protezler - II (Kron & Köprü Restorasyonları) (5 AKTS), DPT2004 Hareketli Protezler - II (Bölümlü Protezler) (5 AKTS), DPT2023 İşyeri Eğitimi (7 AKTS).
+
+QUESTION: Which courses are taken in year 2 (semesters 3 and 4) of Dental Prosthetics Technology?
+ANSWER: In year 2 of the Dental Prosthetics Technology program, semester 3 courses are: DPT2001 Sabit Protezler - I (Intrakoronal Restorasyonlar) (7 ECTS), DPT2003 Hareketli Protezler - I (Tam Protezler) (7 ECTS). Semester 4 courses are: DPT2002 Sabit Protezler - II (Kron & Köprü Restorasyonları) (5 ECTS), DPT2004 Hareketli Protezler - II (Bölümlü Protezler) (5 ECTS), DPT2023 İşyeri Eğitimi (7 ECTS).
+
+SORU: Diş Protez Teknolojisi programında bölüm seçmeli olarak hangi dersler seçilebilir?
+CEVAP: Diş Protez Teknolojisi programında bölüm seçmeli kapsamında seçilebilecek dersler: DPT2201 Diş Protez Teknikerleri için Dental Fotoğrafçılık (3 AKTS), DPT2202 Çene-Yüz Protezleri (2 AKTS), DPT2203 Ortodontik Apareyler (3 AKTS), DPT2205 Dijital Diş Hekimliği (3 AKTS).
+
+QUESTION: Which courses can be chosen as a bölüm seçmeli in the Dental Prosthetics Technology program?
+ANSWER: Courses that can be chosen as a bölüm seçmeli in the Dental Prosthetics Technology program include: DPT2201 Diş Protez Teknikerleri için Dental Fotoğrafçılık (3 ECTS), DPT2202 Çene-Yüz Protezleri (2 ECTS), DPT2203 Ortodontik Apareyler (3 ECTS), DPT2205 Dijital Diş Hekimliği (3 ECTS).

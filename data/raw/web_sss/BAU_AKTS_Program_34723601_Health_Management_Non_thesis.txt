@@ -1,0 +1,19 @@
+BAU Sağlık Yönetimi (Tezsiz) (Health Management (Non-thesis)) Ders Planı (Kaynak: akts.bau.edu.tr)
+
+SORU: Sağlık Yönetimi (Tezsiz) 1. sınıfında (1. ve 2. yarıyıl) hangi dersler alınır?
+CEVAP: Sağlık Yönetimi (Tezsiz) programının 1. sınıfında, 1. yarıyılda şu dersler alınır: ISL5105 Stratejik Liderlik ve Yönetim (8 AKTS), ISL5301 Araştırma Yöntemleri ve Etik (9 AKTS). 2. yarıyılda ise şu dersler alınır: SAY5003 Sağlık Kurumlarında İnsan Kaynakları Yönetimi (8 AKTS).
+
+QUESTION: Which courses are taken in year 1 (semesters 1 and 2) of Health Management (Non-thesis)?
+ANSWER: In year 1 of the Health Management (Non-thesis) program, semester 1 courses are: ISL5105 Stratejik Liderlik ve Yönetim (8 ECTS), ISL5301 Araştırma Yöntemleri ve Etik (9 ECTS). Semester 2 courses are: SAY5003 Sağlık Kurumlarında İnsan Kaynakları Yönetimi (8 ECTS).
+
+SORU: Sağlık Yönetimi (Tezsiz) 2. sınıfında (3. ve 4. yarıyıl) hangi dersler alınır?
+CEVAP: Sağlık Yönetimi (Tezsiz) programının 2. sınıfında, 3. yarıyılda şu dersler alınır: SKY5999 Proje (16 AKTS). 4. yarıyılda ise şu dersler alınır: bilgi bulunmuyor.
+
+QUESTION: Which courses are taken in year 2 (semesters 3 and 4) of Health Management (Non-thesis)?
+ANSWER: In year 2 of the Health Management (Non-thesis) program, semester 3 courses are: SKY5999 Proje (16 ECTS). Semester 4 courses are: no data available.
+
+SORU: Sağlık Yönetimi (Tezsiz) programında bölüm seçmeli olarak hangi dersler seçilebilir?
+CEVAP: Sağlık Yönetimi (Tezsiz) programında bölüm seçmeli kapsamında seçilebilecek dersler: SAY5002 Sağlık Bilişimi (8 AKTS), SAY5008 Sağlık Hizmetleri Pazarlaması (8 AKTS), SAY5010 Sağlık Kurumlarında Liderlik (8 AKTS), SAY5013 Karşılaştırmalı Sağlık Sistemleri (8 AKTS), SAY5015 Sağlık Ekonomisi ve Finansmanı (8 AKTS), SAY5016 Sağlık Sektöründe Girişimcilik (8 AKTS), SAY5018 Proje Yönetimi (8 AKTS), SAY5020 Sağlık Politikası (8 AKTS), SAY5024 Sağlık Kurumlarında Lojistik Yönetimi (8 AKTS).
+
+QUESTION: Which courses can be chosen as a bölüm seçmeli in the Health Management (Non-thesis) program?
+ANSWER: Courses that can be chosen as a bölüm seçmeli in the Health Management (Non-thesis) program include: SAY5002 Sağlık Bilişimi (8 ECTS), SAY5008 Sağlık Hizmetleri Pazarlaması (8 ECTS), SAY5010 Sağlık Kurumlarında Liderlik (8 ECTS), SAY5013 Karşılaştırmalı Sağlık Sistemleri (8 ECTS), SAY5015 Sağlık Ekonomisi ve Finansmanı (8 ECTS), SAY5016 Sağlık Sektöründe Girişimcilik (8 ECTS), SAY5018 Proje Yönetimi (8 ECTS), SAY5020 Sağlık Politikası (8 ECTS), SAY5024 Sağlık Kurumlarında Lojistik Yönetimi (8 ECTS).

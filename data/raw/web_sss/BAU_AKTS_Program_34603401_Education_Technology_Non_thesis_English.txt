@@ -1,0 +1,19 @@
+BAU Eğitim Teknolojisi (Tezsiz, İngilizce) (Education Technology (Non-thesis, English)) Ders Planı (Kaynak: akts.bau.edu.tr)
+
+SORU: Eğitim Teknolojisi (Tezsiz, İngilizce) 1. sınıfında (1. ve 2. yarıyıl) hangi dersler alınır?
+CEVAP: Eğitim Teknolojisi (Tezsiz, İngilizce) programının 1. sınıfında, 1. yarıyılda şu dersler alınır: BUS5301 Araştırma Yöntemleri ve Etik (9 AKTS), EDT5003 Öğretim Tasarımı (8 AKTS). 2. yarıyılda ise şu dersler alınır: EDT5004 Eğitimde Çoklu Ortam Tasarımı (8 AKTS).
+
+QUESTION: Which courses are taken in year 1 (semesters 1 and 2) of Education Technology (Non-thesis, English)?
+ANSWER: In year 1 of the Education Technology (Non-thesis, English) program, semester 1 courses are: BUS5301 Araştırma Yöntemleri ve Etik (9 ECTS), EDT5003 Öğretim Tasarımı (8 ECTS). Semester 2 courses are: EDT5004 Eğitimde Çoklu Ortam Tasarımı (8 ECTS).
+
+SORU: Eğitim Teknolojisi (Tezsiz, İngilizce) 2. sınıfında (3. ve 4. yarıyıl) hangi dersler alınır?
+CEVAP: Eğitim Teknolojisi (Tezsiz, İngilizce) programının 2. sınıfında, 3. yarıyılda şu dersler alınır: EDT5999 Proje (16 AKTS). 4. yarıyılda ise şu dersler alınır: bilgi bulunmuyor.
+
+QUESTION: Which courses are taken in year 2 (semesters 3 and 4) of Education Technology (Non-thesis, English)?
+ANSWER: In year 2 of the Education Technology (Non-thesis, English) program, semester 3 courses are: EDT5999 Proje (16 ECTS). Semester 4 courses are: no data available.
+
+SORU: Eğitim Teknolojisi (Tezsiz, İngilizce) programında bölüm seçmeli olarak hangi dersler seçilebilir?
+CEVAP: Eğitim Teknolojisi (Tezsiz, İngilizce) programında bölüm seçmeli kapsamında seçilebilecek dersler: CNG5102 Nitel Araştırma Yöntemleri (8 AKTS), CNG5103 Gelişmiş İstatistik (8 AKTS), EDT5001 Eğitim Teknolojisi Alanı, Teorisi ve Uzmanlığı (8 AKTS), EDT5012 İstatiksel Veri Analizi (8 AKTS), EDT5014 Oyun temelli öğrenme (12 AKTS), EDT5019 Eğitimde Bilgi ve İletişim Teknolojileri (8 AKTS), EDT5020 Eğitim Teknolojisinde Seçilmiş Konular (8 AKTS), ELT5007 Dil Eğitiminde Program Tasarlama ve Değerlendirme (8 AKTS), ELT5008 Dil bilinci ve Analizi (8 AKTS), ELT5011 İkinci Dil Edinimi (8 AKTS), ELT5018 Öğretmenler İçin Kişisel Gelişim ve İletişim (12 AKTS), ELT5020 Dil Becerilerinin Öğretimi (8 AKTS), ELT5021 Hizmetiçi Öğretmen Eğitimi (8 AKTS).
+
+QUESTION: Which courses can be chosen as a bölüm seçmeli in the Education Technology (Non-thesis, English) program?
+ANSWER: Courses that can be chosen as a bölüm seçmeli in the Education Technology (Non-thesis, English) program include: CNG5102 Nitel Araştırma Yöntemleri (8 ECTS), CNG5103 Gelişmiş İstatistik (8 ECTS), EDT5001 Eğitim Teknolojisi Alanı, Teorisi ve Uzmanlığı (8 ECTS), EDT5012 İstatiksel Veri Analizi (8 ECTS), EDT5014 Oyun temelli öğrenme (12 ECTS), EDT5019 Eğitimde Bilgi ve İletişim Teknolojileri (8 ECTS), EDT5020 Eğitim Teknolojisinde Seçilmiş Konular (8 ECTS), ELT5007 Dil Eğitiminde Program Tasarlama ve Değerlendirme (8 ECTS), ELT5008 Dil bilinci ve Analizi (8 ECTS), ELT5011 İkinci Dil Edinimi (8 ECTS), ELT5018 Öğretmenler İçin Kişisel Gelişim ve İletişim (12 ECTS), ELT5020 Dil Becerilerinin Öğretimi (8 ECTS), ELT5021 Hizmetiçi Öğretmen Eğitimi (8 ECTS).

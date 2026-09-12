@@ -1,0 +1,19 @@
+BAU Ameliyathane Hizmetleri (Operating Room Services) Ders Planı (Kaynak: akts.bau.edu.tr)
+
+SORU: Ameliyathane Hizmetleri 1. sınıfında (1. ve 2. yarıyıl) hangi dersler alınır?
+CEVAP: Ameliyathane Hizmetleri programının 1. sınıfında, 1. yarıyılda şu dersler alınır: AHZ1001 Cerrahi Hastalıklar I (4 AKTS), ENG1071 İngilizce I (3 AKTS), HST1071 Atatürk İlkeleri ve İnkılap Tarihi I (2 AKTS), TDS1003 Tıbbi Terminoloji (3 AKTS), TDS1007 Sağlık Hizmetlerinde İletişim (5 AKTS), TGT1001 Anatomi I (6 AKTS), TLL1071 Türk Dili ve Edebiyatı I (2 AKTS), TLT1003 Mikrobiyoloji I (5 AKTS). 2. yarıyılda ise şu dersler alınır: AHZ1002 Cerrahi Hastalıklar II (5 AKTS), BPR1021 Bilgi ve İletişim Teknolojileri (3 AKTS), DYZ1001 Fizyoloji (5 AKTS), DYZ1004 Sterilizasyon ve Dezenfeksiyon Yöntemleri (4 AKTS), ENG1072 İngilizce II (2 AKTS), HST1072 Atatürk İlkeleri ve İnkılap Tarihi II (2 AKTS), TGT2004 Enfeksiyon Hastalıkları (3 AKTS), TLL1072 Türk Dili ve Edebiyatı II (2 AKTS), TLT2012 Biyomedikal Cihazlar (3 AKTS).
+
+QUESTION: Which courses are taken in year 1 (semesters 1 and 2) of Operating Room Services?
+ANSWER: In year 1 of the Operating Room Services program, semester 1 courses are: AHZ1001 Cerrahi Hastalıklar I (4 ECTS), ENG1071 İngilizce I (3 ECTS), HST1071 Atatürk İlkeleri ve İnkılap Tarihi I (2 ECTS), TDS1003 Tıbbi Terminoloji (3 ECTS), TDS1007 Sağlık Hizmetlerinde İletişim (5 ECTS), TGT1001 Anatomi I (6 ECTS), TLL1071 Türk Dili ve Edebiyatı I (2 ECTS), TLT1003 Mikrobiyoloji I (5 ECTS). Semester 2 courses are: AHZ1002 Cerrahi Hastalıklar II (5 ECTS), BPR1021 Bilgi ve İletişim Teknolojileri (3 ECTS), DYZ1001 Fizyoloji (5 ECTS), DYZ1004 Sterilizasyon ve Dezenfeksiyon Yöntemleri (4 ECTS), ENG1072 İngilizce II (2 ECTS), HST1072 Atatürk İlkeleri ve İnkılap Tarihi II (2 ECTS), TGT2004 Enfeksiyon Hastalıkları (3 ECTS), TLL1072 Türk Dili ve Edebiyatı II (2 ECTS), TLT2012 Biyomedikal Cihazlar (3 ECTS).
+
+SORU: Ameliyathane Hizmetleri 2. sınıfında (3. ve 4. yarıyıl) hangi dersler alınır?
+CEVAP: Ameliyathane Hizmetleri programının 2. sınıfında, 3. yarıyılda şu dersler alınır: AHZ2001 Yoğun Bakım Uygulamaları (4 AKTS), AHZ2003 Ameliyathane Uygulamaları I (6 AKTS), AHZ2023 İşyeri Eğitimi (7 AKTS). 4. yarıyılda ise şu dersler alınır: AHZ2002 Anestezi Uygulamaları (6 AKTS), AHZ2004 Ameliyathane Uygulamaları II (7 AKTS).
+
+QUESTION: Which courses are taken in year 2 (semesters 3 and 4) of Operating Room Services?
+ANSWER: In year 2 of the Operating Room Services program, semester 3 courses are: AHZ2001 Yoğun Bakım Uygulamaları (4 ECTS), AHZ2003 Ameliyathane Uygulamaları I (6 ECTS), AHZ2023 İşyeri Eğitimi (7 ECTS). Semester 4 courses are: AHZ2002 Anestezi Uygulamaları (6 ECTS), AHZ2004 Ameliyathane Uygulamaları II (7 ECTS).
+
+SORU: Ameliyathane Hizmetleri programında bölüm seçmeli olarak hangi dersler seçilebilir?
+CEVAP: Ameliyathane Hizmetleri programında bölüm seçmeli kapsamında seçilebilecek dersler: AHZ2005 Kardiyopulmoner Resusitasyon (3 AKTS), AHZ2006 Sağlık Psikolojisi (3 AKTS), AHZ2007 İş Sağlığı ve Güvenliği (3 AKTS), AHZ2008 Ameliyathane Teknolojisi (3 AKTS), AHZ2009 Güncel Kimyasal ve İlaçlar (3 AKTS), AHZ2010 Sağlık Hukuku (3 AKTS).
+
+QUESTION: Which courses can be chosen as a bölüm seçmeli in the Operating Room Services program?
+ANSWER: Courses that can be chosen as a bölüm seçmeli in the Operating Room Services program include: AHZ2005 Kardiyopulmoner Resusitasyon (3 ECTS), AHZ2006 Sağlık Psikolojisi (3 ECTS), AHZ2007 İş Sağlığı ve Güvenliği (3 ECTS), AHZ2008 Ameliyathane Teknolojisi (3 ECTS), AHZ2009 Güncel Kimyasal ve İlaçlar (3 ECTS), AHZ2010 Sağlık Hukuku (3 ECTS).

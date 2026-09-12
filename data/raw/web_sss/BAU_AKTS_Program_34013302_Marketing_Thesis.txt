@@ -1,0 +1,13 @@
+BAU Pazarlama (Tezli) (Marketing (Thesis)) Ders Planı (Kaynak: akts.bau.edu.tr)
+
+SORU: Pazarlama (Tezli) 1. sınıfında (1. ve 2. yarıyıl) hangi dersler alınır?
+CEVAP: Pazarlama (Tezli) programının 1. sınıfında, 1. yarıyılda şu dersler alınır: BUS5205 Pazarlama Stratejileri (8 AKTS), BUS5301 Araştırma Yöntemleri ve Etik (9 AKTS). 2. yarıyılda ise şu dersler alınır: MBA5201 Tüketici Davranışı (8 AKTS).
+
+QUESTION: Which courses are taken in year 1 (semesters 1 and 2) of Marketing (Thesis)?
+ANSWER: In year 1 of the Marketing (Thesis) program, semester 1 courses are: BUS5205 Pazarlama Stratejileri (8 ECTS), BUS5301 Araştırma Yöntemleri ve Etik (9 ECTS). Semester 2 courses are: MBA5201 Tüketici Davranışı (8 ECTS).
+
+SORU: Pazarlama (Tezli) programında bölüm seçmeli olarak hangi dersler seçilebilir?
+CEVAP: Pazarlama (Tezli) programında bölüm seçmeli kapsamında seçilebilecek dersler: BUS5074 E-ticaret ve İnternet Pazarlaması (8 AKTS), BUS5075 Dijital Pazarlama (8 AKTS), BUS5196 Yeni Girişimcilik (8 AKTS), BUS5197 Yeni Ürün Geliştirme (8 AKTS), BUS5291 Hizmetler Pazarlaması (8 AKTS), BUS5304 Marka Yönetimi (8 AKTS), ENI5021 Pazarlamada Yenilikçi Yaklaşımlar (8 AKTS), MAR5205 Bütünleşik Pazarlama İletişimi (9 AKTS), MAR5502 Nöropazarlamaya Giriş (8 AKTS).
+
+QUESTION: Which courses can be chosen as a bölüm seçmeli in the Marketing (Thesis) program?
+ANSWER: Courses that can be chosen as a bölüm seçmeli in the Marketing (Thesis) program include: BUS5074 E-ticaret ve İnternet Pazarlaması (8 ECTS), BUS5075 Dijital Pazarlama (8 ECTS), BUS5196 Yeni Girişimcilik (8 ECTS), BUS5197 Yeni Ürün Geliştirme (8 ECTS), BUS5291 Hizmetler Pazarlaması (8 ECTS), BUS5304 Marka Yönetimi (8 ECTS), ENI5021 Pazarlamada Yenilikçi Yaklaşımlar (8 ECTS), MAR5205 Bütünleşik Pazarlama İletişimi (9 ECTS), MAR5502 Nöropazarlamaya Giriş (8 ECTS).

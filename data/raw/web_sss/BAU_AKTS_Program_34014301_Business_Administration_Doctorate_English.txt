@@ -1,0 +1,19 @@
+BAU İşletme (Doktora, İngilizce) (Business Administration (Doctorate, English)) Ders Planı (Kaynak: akts.bau.edu.tr)
+
+SORU: İşletme (Doktora, İngilizce) 1. sınıfında (1. ve 2. yarıyıl) hangi dersler alınır?
+CEVAP: İşletme (Doktora, İngilizce) programının 1. sınıfında, 1. yarıyılda şu dersler alınır: BUS6005 Yönetim Ekonomisi (9 AKTS), RCH6001 İleri Araştırma Yöntemleri (9 AKTS). 2. yarıyılda ise şu dersler alınır: BUS6007 Stratejik Yönetim ve Rekabet Analizi (9 AKTS).
+
+QUESTION: Which courses are taken in year 1 (semesters 1 and 2) of Business Administration (Doctorate, English)?
+ANSWER: In year 1 of the Business Administration (Doctorate, English) program, semester 1 courses are: BUS6005 Yönetim Ekonomisi (9 ECTS), RCH6001 İleri Araştırma Yöntemleri (9 ECTS). Semester 2 courses are: BUS6007 Stratejik Yönetim ve Rekabet Analizi (9 ECTS).
+
+SORU: İşletme (Doktora, İngilizce) 2. sınıfında (3. ve 4. yarıyıl) hangi dersler alınır?
+CEVAP: İşletme (Doktora, İngilizce) programının 2. sınıfında, 3. yarıyılda şu dersler alınır: SMR6887 Seminer (6 AKTS). 4. yarıyılda ise şu dersler alınır: QUA6999 Doktora Yeterlilik (30 AKTS).
+
+QUESTION: Which courses are taken in year 2 (semesters 3 and 4) of Business Administration (Doctorate, English)?
+ANSWER: In year 2 of the Business Administration (Doctorate, English) program, semester 3 courses are: SMR6887 Seminer (6 ECTS). Semester 4 courses are: QUA6999 Doktora Yeterlilik (30 ECTS).
+
+SORU: İşletme (Doktora, İngilizce) programında bölüm seçmeli olarak hangi dersler seçilebilir?
+CEVAP: İşletme (Doktora, İngilizce) programında bölüm seçmeli kapsamında seçilebilecek dersler: BUS6009 Finansal Yönetim (12 AKTS), BUS6011 İleri Yönetim Muhasebesi (12 AKTS), BUS6101 Örgütsel Teori (12 AKTS), BUS6102 Örgütsel Sistemde Davranış (9 AKTS), BUS6192 Yönetim ve Organizasyonda Özel Konular (12 AKTS), BUS6193 Çok Uluslu Girişimler ve Global Ticaret (12 AKTS), BUS6194 Müzakere ve Çatışmaların Çözümlenmesi (12 AKTS), BUS6210 Pazarlamada Yönetsel Yaklaşımlar (12 AKTS), BUS6509 İnsan Kaynakları Yönetiminde Seçilmiş Okumalar (12 AKTS), BUS6900 Uygulamalı Araştırma Yöntemleri (12 AKTS).
+
+QUESTION: Which courses can be chosen as a bölüm seçmeli in the Business Administration (Doctorate, English) program?
+ANSWER: Courses that can be chosen as a bölüm seçmeli in the Business Administration (Doctorate, English) program include: BUS6009 Finansal Yönetim (12 ECTS), BUS6011 İleri Yönetim Muhasebesi (12 ECTS), BUS6101 Örgütsel Teori (12 ECTS), BUS6102 Örgütsel Sistemde Davranış (9 ECTS), BUS6192 Yönetim ve Organizasyonda Özel Konular (12 ECTS), BUS6193 Çok Uluslu Girişimler ve Global Ticaret (12 ECTS), BUS6194 Müzakere ve Çatışmaların Çözümlenmesi (12 ECTS), BUS6210 Pazarlamada Yönetsel Yaklaşımlar (12 ECTS), BUS6509 İnsan Kaynakları Yönetiminde Seçilmiş Okumalar (12 ECTS), BUS6900 Uygulamalı Araştırma Yöntemleri (12 ECTS).

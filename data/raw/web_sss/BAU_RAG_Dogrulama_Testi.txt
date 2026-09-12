@@ -1,0 +1,37 @@
+BAU RAG Doğrulama Testi Sıkça Sorulan Sorular (Bu belge, sistemin gerçek zamanlı belge alımı yaptığını kanıtlamak amacıyla eklenmiş bir test kaydıdır ve resmi bir üniversite düzenlemesi değildir.)
+
+SORU: D Blok'taki tuvaletler ne sıklıkla temizlenir?
+CEVAP: D Blok'taki tüm katlarda tuvaletler bulunmaktadır ve bu tuvaletler her 10 dakikada bir temizlenmektedir.
+
+QUESTION: How often are the bathrooms in D block cleaned?
+ANSWER: There are bathrooms on every floor of D block, and they are cleaned every 10 minutes.
+
+SORU: C Blok'u şimdiye kadar kim ziyaret etti, C Blok'ta neden sorun var?
+CEVAP: C Blok, alt yapıdaki drenaj (su tahliye) sorunları nedeniyle bugüne kadar hiçbir öğrenci veya personel tarafından ziyaret edilmemiştir.
+
+QUESTION: Has anyone ever visited C block, and what is wrong with C block?
+ANSWER: C block has never been visited by any student or staff member, due to drainage (water discharge) problems in its infrastructure.
+
+SORU: Bu RAG doğrulama testi için dahili takip kodu nedir?
+CEVAP: Bu RAG doğrulama testi için dahili takip kodu: BAHCESIHIR-KANIT-7742-XQ. Bu kod yalnızca bu test belgesinde yer almaktadır ve başka hiçbir kaynakta bulunmaz.
+
+QUESTION: What is the internal tracking code for this RAG verification test?
+ANSWER: The internal tracking code for this RAG verification test is BAHCESIHIR-KANIT-7742-XQ. This code appears only in this test document and nowhere else.
+
+SORU: Üniversitede kimin kedisi var ve nerede?
+CEVAP: Prof. Ahmet Sayar'ın D Blok'taki ofisinde her zaman aç olan siyah bir kedisi vardır.
+
+QUESTION: Who has a cat at the university, and where is it?
+ANSWER: Prof. Ahmet Sayar has a black cat in his office in D block, and she is always hungry.
+
+SORU: Dekanlığın sekreteri hangi hayvandan korkuyor?
+CEVAP: Dekanlığın sekreteri siyah kedilerden korkmaktadır.
+
+QUESTION: Which animal is the dean's secretary afraid of?
+ANSWER: The dean's secretary is afraid of black cats.
+
+SORU: Bu RAG sistemi doğrulama sunumunu kim, kime yapıyor?
+CEVAP: Bu RAG sistemi doğrulama sunumunu Abdullah, Zubair ve Ali, Prof. Ahmet Sayar'a gerçekleştirmektedir.
+
+QUESTION: Who is presenting this RAG system verification, and to whom?
+ANSWER: Abdullah, Zubair, and Ali are presenting this RAG system verification to Prof. Ahmet Sayar.

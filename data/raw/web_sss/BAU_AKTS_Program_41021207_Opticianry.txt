@@ -1,0 +1,19 @@
+BAU Optisyenlik (Opticianry) Ders Planı (Kaynak: akts.bau.edu.tr)
+
+SORU: Optisyenlik 1. sınıfında (1. ve 2. yarıyıl) hangi dersler alınır?
+CEVAP: Optisyenlik programının 1. sınıfında, 1. yarıyılda şu dersler alınır: ENG1071 İngilizce I (3 AKTS), HST1071 Atatürk İlkeleri ve İnkılap Tarihi I (2 AKTS), OPT1001 Temel Matematiğe Giriş (4 AKTS), OPT1003 Fizik ve Geometrik Optik (4 AKTS), OPT1005 Optisyenliğe Giriş (6 AKTS), TDS1003 Tıbbi Terminoloji (3 AKTS), TGT1001 Anatomi I (6 AKTS), TLL1071 Türk Dili ve Edebiyatı I (2 AKTS). 2. yarıyılda ise şu dersler alınır: BPR1021 Bilgi ve İletişim Teknolojileri (3 AKTS), ENG1072 İngilizce II (2 AKTS), HST1072 Atatürk İlkeleri ve İnkılap Tarihi II (2 AKTS), LAW1154 Çocuk Hukuku ve Çocuk Psikolojisi (1 AKTS), OPT1002 Optisyenlik I (9 AKTS), OPT1004 Göz Anatomisi ve Fizyolojisi (6 AKTS), TDS1007 Sağlık Hizmetlerinde İletişim (5 AKTS), TLL1072 Türk Dili ve Edebiyatı II (2 AKTS).
+
+QUESTION: Which courses are taken in year 1 (semesters 1 and 2) of Opticianry?
+ANSWER: In year 1 of the Opticianry program, semester 1 courses are: ENG1071 İngilizce I (3 ECTS), HST1071 Atatürk İlkeleri ve İnkılap Tarihi I (2 ECTS), OPT1001 Temel Matematiğe Giriş (4 ECTS), OPT1003 Fizik ve Geometrik Optik (4 ECTS), OPT1005 Optisyenliğe Giriş (6 ECTS), TDS1003 Tıbbi Terminoloji (3 ECTS), TGT1001 Anatomi I (6 ECTS), TLL1071 Türk Dili ve Edebiyatı I (2 ECTS). Semester 2 courses are: BPR1021 Bilgi ve İletişim Teknolojileri (3 ECTS), ENG1072 İngilizce II (2 ECTS), HST1072 Atatürk İlkeleri ve İnkılap Tarihi II (2 ECTS), LAW1154 Çocuk Hukuku ve Çocuk Psikolojisi (1 ECTS), OPT1002 Optisyenlik I (9 ECTS), OPT1004 Göz Anatomisi ve Fizyolojisi (6 ECTS), TDS1007 Sağlık Hizmetlerinde İletişim (5 ECTS), TLL1072 Türk Dili ve Edebiyatı II (2 ECTS).
+
+SORU: Optisyenlik 2. sınıfında (3. ve 4. yarıyıl) hangi dersler alınır?
+CEVAP: Optisyenlik programının 2. sınıfında, 3. yarıyılda şu dersler alınır: OPT2001 Optisyenlik II (5 AKTS), OPT2023 İşyeri Eğitimi (8 AKTS). 4. yarıyılda ise şu dersler alınır: OPT2002 Optisyenlik Uygulamaları (10 AKTS), OPT2004 Görme Optiği ve Refraksiyon (7 AKTS).
+
+QUESTION: Which courses are taken in year 2 (semesters 3 and 4) of Opticianry?
+ANSWER: In year 2 of the Opticianry program, semester 3 courses are: OPT2001 Optisyenlik II (5 ECTS), OPT2023 İşyeri Eğitimi (8 ECTS). Semester 4 courses are: OPT2002 Optisyenlik Uygulamaları (10 ECTS), OPT2004 Görme Optiği ve Refraksiyon (7 ECTS).
+
+SORU: Optisyenlik programında bölüm seçmeli olarak hangi dersler seçilebilir?
+CEVAP: Optisyenlik programında bölüm seçmeli kapsamında seçilebilecek dersler: OPT2003 Az Görenlere Yardımcı Cihazlar (3 AKTS), OPT2005 Kontak Lens (3 AKTS), OPT2006 Optik Ve Oftalmik Cihazlar (3 AKTS), OPT2007 Optisyenlikte İşletme Yönetimi (3 AKTS), OPT2008 Göz Hastalıkları (3 AKTS), OPT2009 Optisyenlik Paket Program Uygulamaları (3 AKTS), OPT2010 Müşteri İlişkileri Yönetimi (3 AKTS).
+
+QUESTION: Which courses can be chosen as a bölüm seçmeli in the Opticianry program?
+ANSWER: Courses that can be chosen as a bölüm seçmeli in the Opticianry program include: OPT2003 Az Görenlere Yardımcı Cihazlar (3 ECTS), OPT2005 Kontak Lens (3 ECTS), OPT2006 Optik Ve Oftalmik Cihazlar (3 ECTS), OPT2007 Optisyenlikte İşletme Yönetimi (3 ECTS), OPT2008 Göz Hastalıkları (3 ECTS), OPT2009 Optisyenlik Paket Program Uygulamaları (3 ECTS), OPT2010 Müşteri İlişkileri Yönetimi (3 ECTS).

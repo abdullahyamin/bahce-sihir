@@ -1,0 +1,19 @@
+BAU Fizyoterapi (Physiotherapy (Associate)) Ders Planı (Kaynak: akts.bau.edu.tr)
+
+SORU: Fizyoterapi 1. sınıfında (1. ve 2. yarıyıl) hangi dersler alınır?
+CEVAP: Fizyoterapi programının 1. sınıfında, 1. yarıyılda şu dersler alınır: DYZ1001 Fizyoloji (5 AKTS), ENG1071 İngilizce I (3 AKTS), FZT1001 Sağlık Fiziği (3 AKTS), FZT1003 Fizyoterapi I (6 AKTS), HST1071 Atatürk İlkeleri ve İnkılap Tarihi I (2 AKTS), TDS1003 Tıbbi Terminoloji (3 AKTS), TGT1001 Anatomi I (6 AKTS), TLL1071 Türk Dili ve Edebiyatı I (2 AKTS). 2. yarıyılda ise şu dersler alınır: BPR1021 Bilgi ve İletişim Teknolojileri (3 AKTS), ENG1072 İngilizce II (2 AKTS), FZT1002 Kas ve İskelet Sistemi Anatomisi (4 AKTS), FZT1004 Fizik Tedavi Modaliteleri I (5 AKTS), FZT1006 Fizyoterapi II (6 AKTS), HST1072 Atatürk İlkeleri ve İnkılap Tarihi II (2 AKTS), LAW1154 Çocuk Hukuku ve Çocuk Psikolojisi (1 AKTS), TDS1007 Sağlık Hizmetlerinde İletişim (5 AKTS), TLL1072 Türk Dili ve Edebiyatı II (2 AKTS).
+
+QUESTION: Which courses are taken in year 1 (semesters 1 and 2) of Physiotherapy (Associate)?
+ANSWER: In year 1 of the Physiotherapy (Associate) program, semester 1 courses are: DYZ1001 Fizyoloji (5 ECTS), ENG1071 İngilizce I (3 ECTS), FZT1001 Sağlık Fiziği (3 ECTS), FZT1003 Fizyoterapi I (6 ECTS), HST1071 Atatürk İlkeleri ve İnkılap Tarihi I (2 ECTS), TDS1003 Tıbbi Terminoloji (3 ECTS), TGT1001 Anatomi I (6 ECTS), TLL1071 Türk Dili ve Edebiyatı I (2 ECTS). Semester 2 courses are: BPR1021 Bilgi ve İletişim Teknolojileri (3 ECTS), ENG1072 İngilizce II (2 ECTS), FZT1002 Kas ve İskelet Sistemi Anatomisi (4 ECTS), FZT1004 Fizik Tedavi Modaliteleri I (5 ECTS), FZT1006 Fizyoterapi II (6 ECTS), HST1072 Atatürk İlkeleri ve İnkılap Tarihi II (2 ECTS), LAW1154 Çocuk Hukuku ve Çocuk Psikolojisi (1 ECTS), TDS1007 Sağlık Hizmetlerinde İletişim (5 ECTS), TLL1072 Türk Dili ve Edebiyatı II (2 ECTS).
+
+SORU: Fizyoterapi 2. sınıfında (3. ve 4. yarıyıl) hangi dersler alınır?
+CEVAP: Fizyoterapi programının 2. sınıfında, 3. yarıyılda şu dersler alınır: FZT2001 Ortopedik Rehabilitasyon (4 AKTS), FZT2003 Fizik Tedavi Modaliteleri II (5 AKTS), FZT2023 İşyeri Eğitimi (8 AKTS). 4. yarıyılda ise şu dersler alınır: FZT2002 Romatizmal Hastalıklarda Fizyoterapi (6 AKTS), FZT2004 Nörolojik Rehabilitasyon (7 AKTS).
+
+QUESTION: Which courses are taken in year 2 (semesters 3 and 4) of Physiotherapy (Associate)?
+ANSWER: In year 2 of the Physiotherapy (Associate) program, semester 3 courses are: FZT2001 Ortopedik Rehabilitasyon (4 ECTS), FZT2003 Fizik Tedavi Modaliteleri II (5 ECTS), FZT2023 İşyeri Eğitimi (8 ECTS). Semester 4 courses are: FZT2002 Romatizmal Hastalıklarda Fizyoterapi (6 ECTS), FZT2004 Nörolojik Rehabilitasyon (7 ECTS).
+
+SORU: Fizyoterapi programında bölüm seçmeli olarak hangi dersler seçilebilir?
+CEVAP: Fizyoterapi programında bölüm seçmeli kapsamında seçilebilecek dersler: FZT2005 Kinezyoloji (3 AKTS), FZT2007 Fizyoterapide Masaj Uygulamaları (3 AKTS), FZT2009 Spor ve Egzersiz Fizyolojisi (3 AKTS), FZT2010 Pediyatride Fizyoterapi (3 AKTS), FZT2011 İş ve Uğraşı Tedavisi (3 AKTS), FZT2012 Geriatrik Hastalıklarda Fizyoterapi (3 AKTS).
+
+QUESTION: Which courses can be chosen as a bölüm seçmeli in the Physiotherapy (Associate) program?
+ANSWER: Courses that can be chosen as a bölüm seçmeli in the Physiotherapy (Associate) program include: FZT2005 Kinezyoloji (3 ECTS), FZT2007 Fizyoterapide Masaj Uygulamaları (3 ECTS), FZT2009 Spor ve Egzersiz Fizyolojisi (3 ECTS), FZT2010 Pediyatride Fizyoterapi (3 ECTS), FZT2011 İş ve Uğraşı Tedavisi (3 ECTS), FZT2012 Geriatrik Hastalıklarda Fizyoterapi (3 ECTS).

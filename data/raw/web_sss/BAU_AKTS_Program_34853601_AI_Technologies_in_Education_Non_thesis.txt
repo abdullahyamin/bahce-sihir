@@ -1,0 +1,19 @@
+BAU Eğitimde Yapay Zeka Teknolojileri (Tezsiz) (AI Technologies in Education (Non-thesis)) Ders Planı (Kaynak: akts.bau.edu.tr)
+
+SORU: Eğitimde Yapay Zeka Teknolojileri (Tezsiz) 1. sınıfında (1. ve 2. yarıyıl) hangi dersler alınır?
+CEVAP: Eğitimde Yapay Zeka Teknolojileri (Tezsiz) programının 1. sınıfında, 1. yarıyılda şu dersler alınır: ISL5301 Araştırma Yöntemleri ve Etik (9 AKTS), YZE5001 Yapay Zekanın Temelleri (7 AKTS). 2. yarıyılda ise şu dersler alınır: YZE5002 Eğitimde Yapay Zeka Tekniklerinin Uygulanması (9 AKTS).
+
+QUESTION: Which courses are taken in year 1 (semesters 1 and 2) of AI Technologies in Education (Non-thesis)?
+ANSWER: In year 1 of the AI Technologies in Education (Non-thesis) program, semester 1 courses are: ISL5301 Araştırma Yöntemleri ve Etik (9 ECTS), YZE5001 Yapay Zekanın Temelleri (7 ECTS). Semester 2 courses are: YZE5002 Eğitimde Yapay Zeka Tekniklerinin Uygulanması (9 ECTS).
+
+SORU: Eğitimde Yapay Zeka Teknolojileri (Tezsiz) 2. sınıfında (3. ve 4. yarıyıl) hangi dersler alınır?
+CEVAP: Eğitimde Yapay Zeka Teknolojileri (Tezsiz) programının 2. sınıfında, 3. yarıyılda şu dersler alınır: YZE5999 Proje (16 AKTS). 4. yarıyılda ise şu dersler alınır: bilgi bulunmuyor.
+
+QUESTION: Which courses are taken in year 2 (semesters 3 and 4) of AI Technologies in Education (Non-thesis)?
+ANSWER: In year 2 of the AI Technologies in Education (Non-thesis) program, semester 3 courses are: YZE5999 Proje (16 ECTS). Semester 4 courses are: no data available.
+
+SORU: Eğitimde Yapay Zeka Teknolojileri (Tezsiz) programında bölüm seçmeli olarak hangi dersler seçilebilir?
+CEVAP: Eğitimde Yapay Zeka Teknolojileri (Tezsiz) programında bölüm seçmeli kapsamında seçilebilecek dersler: YZE5003 Yapay Zeka Destekli Uyarlamalı Öğrenme ve Üstbiliş (7 AKTS), YZE5004 Yapay Zeka ile Proje Yönetimi (7 AKTS), YZE5005 Yapay Zeka Destekli Performans Analizi (7 AKTS), YZE5006 Yapay Zeka Çağında Dönüşüm Liderliği (7 AKTS), YZE5008 Yapay Zekanın Toplumsal Etkileri (7 AKTS), YZE5010 Veri Analitiği ve Karar Görselleştirme (7 AKTS).
+
+QUESTION: Which courses can be chosen as a bölüm seçmeli in the AI Technologies in Education (Non-thesis) program?
+ANSWER: Courses that can be chosen as a bölüm seçmeli in the AI Technologies in Education (Non-thesis) program include: YZE5003 Yapay Zeka Destekli Uyarlamalı Öğrenme ve Üstbiliş (7 ECTS), YZE5004 Yapay Zeka ile Proje Yönetimi (7 ECTS), YZE5005 Yapay Zeka Destekli Performans Analizi (7 ECTS), YZE5006 Yapay Zeka Çağında Dönüşüm Liderliği (7 ECTS), YZE5008 Yapay Zekanın Toplumsal Etkileri (7 ECTS), YZE5010 Veri Analitiği ve Karar Görselleştirme (7 ECTS).

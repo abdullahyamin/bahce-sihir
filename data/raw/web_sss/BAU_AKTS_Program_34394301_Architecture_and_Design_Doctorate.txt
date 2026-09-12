@@ -1,0 +1,19 @@
+BAU Mimarlık ve Tasarım (Doktora) (Architecture and Design (Doctorate)) Ders Planı (Kaynak: akts.bau.edu.tr)
+
+SORU: Mimarlık ve Tasarım (Doktora) 1. sınıfında (1. ve 2. yarıyıl) hangi dersler alınır?
+CEVAP: Mimarlık ve Tasarım (Doktora) programının 1. sınıfında, 1. yarıyılda şu dersler alınır: ARD6002 Mimarlık ve Tasarımda İleri Seviye Uzmanlık (9 AKTS), RCH6001 İleri Araştırma Yöntemleri (9 AKTS). 2. yarıyılda ise şu dersler alınır: ARD6003 Mimarlık ve Tasarım  Uzmanlığında İleri Araştırmalar (9 AKTS).
+
+QUESTION: Which courses are taken in year 1 (semesters 1 and 2) of Architecture and Design (Doctorate)?
+ANSWER: In year 1 of the Architecture and Design (Doctorate) program, semester 1 courses are: ARD6002 Mimarlık ve Tasarımda İleri Seviye Uzmanlık (9 ECTS), RCH6001 İleri Araştırma Yöntemleri (9 ECTS). Semester 2 courses are: ARD6003 Mimarlık ve Tasarım  Uzmanlığında İleri Araştırmalar (9 ECTS).
+
+SORU: Mimarlık ve Tasarım (Doktora) 2. sınıfında (3. ve 4. yarıyıl) hangi dersler alınır?
+CEVAP: Mimarlık ve Tasarım (Doktora) programının 2. sınıfında, 3. yarıyılda şu dersler alınır: SMR6887 Seminer (6 AKTS). 4. yarıyılda ise şu dersler alınır: QUA6999 Doktora Yeterlilik (30 AKTS).
+
+QUESTION: Which courses are taken in year 2 (semesters 3 and 4) of Architecture and Design (Doctorate)?
+ANSWER: In year 2 of the Architecture and Design (Doctorate) program, semester 3 courses are: SMR6887 Seminer (6 ECTS). Semester 4 courses are: QUA6999 Doktora Yeterlilik (30 ECTS).
+
+SORU: Mimarlık ve Tasarım (Doktora) programında bölüm seçmeli olarak hangi dersler seçilebilir?
+CEVAP: Mimarlık ve Tasarım (Doktora) programında bölüm seçmeli kapsamında seçilebilecek dersler: ARC5423 İstanbul Üzerine İleri Mimari Çalışmalar (12 AKTS), ARC5432 Kentsel Konutlaşma (12 AKTS), ARC5434 Mimaride Kentsel Konular (12 AKTS), ARC5437 Mimarlıkta Seçilmiş Konularda Araştırma (12 AKTS), ARC5501 Mimarlık'ta Tektonik Çalışmalar (12 AKTS), ARC5502 Mimarlıkta Dijital Tasarım (12 AKTS), ARD6101 Mimarlık ve Tasarımda İleri Kültürel Çalışmalar (12 AKTS), ARD6102 Mimarlık ve Tasarım Üzerine Okumalar (12 AKTS), ARD6103 Sürdürülebilir Tasarım Üzerine İleri Çalışmalar (12 AKTS), ARD6104 İyilik Hali ve Tasarım Üzerine İleri Çalışmalar (12 AKTS), ARD6105 Mimarlık ve Tasarımda Özel Konular 1 (12 AKTS), HTC6106 Yazı ve Uygulamada Mimarlık (12 AKTS), HTC6403 Tasarım Teknolojileri Araştırması (12 AKTS).
+
+QUESTION: Which courses can be chosen as a bölüm seçmeli in the Architecture and Design (Doctorate) program?
+ANSWER: Courses that can be chosen as a bölüm seçmeli in the Architecture and Design (Doctorate) program include: ARC5423 İstanbul Üzerine İleri Mimari Çalışmalar (12 ECTS), ARC5432 Kentsel Konutlaşma (12 ECTS), ARC5434 Mimaride Kentsel Konular (12 ECTS), ARC5437 Mimarlıkta Seçilmiş Konularda Araştırma (12 ECTS), ARC5501 Mimarlık'ta Tektonik Çalışmalar (12 ECTS), ARC5502 Mimarlıkta Dijital Tasarım (12 ECTS), ARD6101 Mimarlık ve Tasarımda İleri Kültürel Çalışmalar (12 ECTS), ARD6102 Mimarlık ve Tasarım Üzerine Okumalar (12 ECTS), ARD6103 Sürdürülebilir Tasarım Üzerine İleri Çalışmalar (12 ECTS), ARD6104 İyilik Hali ve Tasarım Üzerine İleri Çalışmalar (12 ECTS), ARD6105 Mimarlık ve Tasarımda Özel Konular 1 (12 ECTS), HTC6106 Yazı ve Uygulamada Mimarlık (12 ECTS), HTC6403 Tasarım Teknolojileri Araştırması (12 ECTS).

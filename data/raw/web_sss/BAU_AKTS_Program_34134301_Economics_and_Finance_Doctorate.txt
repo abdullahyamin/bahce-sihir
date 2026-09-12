@@ -1,0 +1,19 @@
+BAU Ekonomi ve Finans (Doktora) (Economics and Finance (Doctorate)) Ders Planı (Kaynak: akts.bau.edu.tr)
+
+SORU: Ekonomi ve Finans (Doktora) 1. sınıfında (1. ve 2. yarıyıl) hangi dersler alınır?
+CEVAP: Ekonomi ve Finans (Doktora) programının 1. sınıfında, 1. yarıyılda şu dersler alınır: ECO6001 Mikroekonomi Teorisi (9 AKTS), RCH6001 İleri Araştırma Yöntemleri (9 AKTS). 2. yarıyılda ise şu dersler alınır: ECO6004 Makroekonomi Teorisi (9 AKTS).
+
+QUESTION: Which courses are taken in year 1 (semesters 1 and 2) of Economics and Finance (Doctorate)?
+ANSWER: In year 1 of the Economics and Finance (Doctorate) program, semester 1 courses are: ECO6001 Mikroekonomi Teorisi (9 ECTS), RCH6001 İleri Araştırma Yöntemleri (9 ECTS). Semester 2 courses are: ECO6004 Makroekonomi Teorisi (9 ECTS).
+
+SORU: Ekonomi ve Finans (Doktora) 2. sınıfında (3. ve 4. yarıyıl) hangi dersler alınır?
+CEVAP: Ekonomi ve Finans (Doktora) programının 2. sınıfında, 3. yarıyılda şu dersler alınır: SMR6887 Seminer (6 AKTS). 4. yarıyılda ise şu dersler alınır: QUA6999 Doktora Yeterlilik (30 AKTS).
+
+QUESTION: Which courses are taken in year 2 (semesters 3 and 4) of Economics and Finance (Doctorate)?
+ANSWER: In year 2 of the Economics and Finance (Doctorate) program, semester 3 courses are: SMR6887 Seminer (6 ECTS). Semester 4 courses are: QUA6999 Doktora Yeterlilik (30 ECTS).
+
+SORU: Ekonomi ve Finans (Doktora) programında bölüm seçmeli olarak hangi dersler seçilebilir?
+CEVAP: Ekonomi ve Finans (Doktora) programında bölüm seçmeli kapsamında seçilebilecek dersler: ECO6005 Ekonometri I (12 AKTS), FIN6402 Türevler (10 AKTS), FIN6403 Finans Teorisi (10 AKTS), FIN6451 Para ve Sermaye Piyasaları (10 AKTS).
+
+QUESTION: Which courses can be chosen as a bölüm seçmeli in the Economics and Finance (Doctorate) program?
+ANSWER: Courses that can be chosen as a bölüm seçmeli in the Economics and Finance (Doctorate) program include: ECO6005 Ekonometri I (12 ECTS), FIN6402 Türevler (10 ECTS), FIN6403 Finans Teorisi (10 ECTS), FIN6451 Para ve Sermaye Piyasaları (10 ECTS).

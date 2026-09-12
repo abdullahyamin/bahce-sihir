@@ -1,0 +1,19 @@
+BAU Pazarlama (Tezsiz, İngilizce) (Marketing (Non-thesis, English)) Ders Planı (Kaynak: akts.bau.edu.tr)
+
+SORU: Pazarlama (Tezsiz, İngilizce) 1. sınıfında (1. ve 2. yarıyıl) hangi dersler alınır?
+CEVAP: Pazarlama (Tezsiz, İngilizce) programının 1. sınıfında, 1. yarıyılda şu dersler alınır: BUS5205 Pazarlama Stratejileri (8 AKTS), BUS5301 Araştırma Yöntemleri ve Etik (9 AKTS). 2. yarıyılda ise şu dersler alınır: MBA5201 Tüketici Davranışı (8 AKTS).
+
+QUESTION: Which courses are taken in year 1 (semesters 1 and 2) of Marketing (Non-thesis, English)?
+ANSWER: In year 1 of the Marketing (Non-thesis, English) program, semester 1 courses are: BUS5205 Pazarlama Stratejileri (8 ECTS), BUS5301 Araştırma Yöntemleri ve Etik (9 ECTS). Semester 2 courses are: MBA5201 Tüketici Davranışı (8 ECTS).
+
+SORU: Pazarlama (Tezsiz, İngilizce) 2. sınıfında (3. ve 4. yarıyıl) hangi dersler alınır?
+CEVAP: Pazarlama (Tezsiz, İngilizce) programının 2. sınıfında, 3. yarıyılda şu dersler alınır: MAR5999 Proje (16 AKTS). 4. yarıyılda ise şu dersler alınır: bilgi bulunmuyor.
+
+QUESTION: Which courses are taken in year 2 (semesters 3 and 4) of Marketing (Non-thesis, English)?
+ANSWER: In year 2 of the Marketing (Non-thesis, English) program, semester 3 courses are: MAR5999 Proje (16 ECTS). Semester 4 courses are: no data available.
+
+SORU: Pazarlama (Tezsiz, İngilizce) programında bölüm seçmeli olarak hangi dersler seçilebilir?
+CEVAP: Pazarlama (Tezsiz, İngilizce) programında bölüm seçmeli kapsamında seçilebilecek dersler: BUS5074 E-ticaret ve İnternet Pazarlaması (8 AKTS), BUS5075 Dijital Pazarlama (8 AKTS), BUS5196 Yeni Girişimcilik (8 AKTS), BUS5197 Yeni Ürün Geliştirme (8 AKTS), BUS5291 Hizmetler Pazarlaması (8 AKTS), ENI5021 Pazarlamada Yenilikçi Yaklaşımlar (8 AKTS), MAR5502 Nöropazarlamaya Giriş (8 AKTS).
+
+QUESTION: Which courses can be chosen as a bölüm seçmeli in the Marketing (Non-thesis, English) program?
+ANSWER: Courses that can be chosen as a bölüm seçmeli in the Marketing (Non-thesis, English) program include: BUS5074 E-ticaret ve İnternet Pazarlaması (8 ECTS), BUS5075 Dijital Pazarlama (8 ECTS), BUS5196 Yeni Girişimcilik (8 ECTS), BUS5197 Yeni Ürün Geliştirme (8 ECTS), BUS5291 Hizmetler Pazarlaması (8 ECTS), ENI5021 Pazarlamada Yenilikçi Yaklaşımlar (8 ECTS), MAR5502 Nöropazarlamaya Giriş (8 ECTS).

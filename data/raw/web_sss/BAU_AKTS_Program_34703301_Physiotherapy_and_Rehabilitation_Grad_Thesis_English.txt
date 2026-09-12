@@ -1,0 +1,19 @@
+BAU Fizyoterapi ve Rehabilitasyon (Tezli, İngilizce, Grad) (Physiotherapy and Rehabilitation (Grad, Thesis, English)) Ders Planı (Kaynak: akts.bau.edu.tr)
+
+SORU: Fizyoterapi ve Rehabilitasyon (Tezli, İngilizce, Grad) 1. sınıfında (1. ve 2. yarıyıl) hangi dersler alınır?
+CEVAP: Fizyoterapi ve Rehabilitasyon (Tezli, İngilizce, Grad) programının 1. sınıfında, 1. yarıyılda şu dersler alınır: BUS5301 Araştırma Yöntemleri ve Etik (9 AKTS), PTR5001 Fizyoterapi ve Rehabilitasyonda Özel Değerlendirme Yöntemleri (8 AKTS). 2. yarıyılda ise şu dersler alınır: PTR5002 İleri Tedavi Edici Egzersizler (7 AKTS).
+
+QUESTION: Which courses are taken in year 1 (semesters 1 and 2) of Physiotherapy and Rehabilitation (Grad, Thesis, English)?
+ANSWER: In year 1 of the Physiotherapy and Rehabilitation (Grad, Thesis, English) program, semester 1 courses are: BUS5301 Araştırma Yöntemleri ve Etik (9 ECTS), PTR5001 Fizyoterapi ve Rehabilitasyonda Özel Değerlendirme Yöntemleri (8 ECTS). Semester 2 courses are: PTR5002 İleri Tedavi Edici Egzersizler (7 ECTS).
+
+SORU: Fizyoterapi ve Rehabilitasyon (Tezli, İngilizce, Grad) 2. sınıfında (3. ve 4. yarıyıl) hangi dersler alınır?
+CEVAP: Fizyoterapi ve Rehabilitasyon (Tezli, İngilizce, Grad) programının 2. sınıfında, 3. yarıyılda şu dersler alınır: PTR5887 Seminer (10 AKTS). 4. yarıyılda ise şu dersler alınır: bilgi bulunmuyor.
+
+QUESTION: Which courses are taken in year 2 (semesters 3 and 4) of Physiotherapy and Rehabilitation (Grad, Thesis, English)?
+ANSWER: In year 2 of the Physiotherapy and Rehabilitation (Grad, Thesis, English) program, semester 3 courses are: PTR5887 Seminer (10 ECTS). Semester 4 courses are: no data available.
+
+SORU: Fizyoterapi ve Rehabilitasyon (Tezli, İngilizce, Grad) programında bölüm seçmeli olarak hangi dersler seçilebilir?
+CEVAP: Fizyoterapi ve Rehabilitasyon (Tezli, İngilizce, Grad) programında bölüm seçmeli kapsamında seçilebilecek dersler: PTR5003 Muskuloskeletal Rehabilitasyon (8 AKTS), PTR5005 Çocuk Hastalıklarında Fizyoterapi ve Rehabilitasyon (8 AKTS), PTR5007 Geriatrik Rehabilitasyon (8 AKTS), PTR5014 Romatizmal Hastalıklarda Fizyoterapi ve Rehabilitasyon (8 AKTS), PTR5015 İleri Egzersiz Fizyolojisi (8 AKTS), PTR5017 Ortopedik Hastalıklar (8 AKTS).
+
+QUESTION: Which courses can be chosen as a bölüm seçmeli in the Physiotherapy and Rehabilitation (Grad, Thesis, English) program?
+ANSWER: Courses that can be chosen as a bölüm seçmeli in the Physiotherapy and Rehabilitation (Grad, Thesis, English) program include: PTR5003 Muskuloskeletal Rehabilitasyon (8 ECTS), PTR5005 Çocuk Hastalıklarında Fizyoterapi ve Rehabilitasyon (8 ECTS), PTR5007 Geriatrik Rehabilitasyon (8 ECTS), PTR5014 Romatizmal Hastalıklarda Fizyoterapi ve Rehabilitasyon (8 ECTS), PTR5015 İleri Egzersiz Fizyolojisi (8 ECTS), PTR5017 Ortopedik Hastalıklar (8 ECTS).
